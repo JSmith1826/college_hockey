@@ -1,0 +1,1605 @@
+,No.,Name,Yr.,Ht.,Wt.,DOB,Hometown,Position,Height_Inches,Draft_Year,NHL_Team,D_Round,Last Team,League,School
+,27,"Arvedson, Adam",Jr,5-11,165,8/30/2001,"Karlstad, Sweden",Defensemen,71,,,,Färjestad BK J20,,Merrimack
+,37,"Bookman, Zach",So,5-10,178,3/29/2002,"Syracuse, N.Y.",Defensemen,70,,,,Brooks,AJHL,Merrimack
+,4,"Brown, Mike",Jr,6-2,202,4/3/2001,"Belmont, Mass.",Defensemen,74,,,,Youngstown,USHL,Merrimack
+,8,"Dennison, Liam",Gr,5-9,190,2/7/1999,"Manotick, Ont.",Defensemen,69,,,,Youngstown,USHL,Merrimack
+,23,"Djurasevic, Frank",Fr,6-2,198,3/9/2002,"New Rochelle, N.Y.",Defensemen,74,,,,Penticton,BCHL,Merrimack
+,2,"Felton, Christian",Sr,6-1,195,2/4/2000,"Medina, Ohio",Defensemen,73,,,,Vernon,BCHL,Merrimack
+,5,"Griebel, Trevor",So,5-10,165,3/7/2001,"Tampa, Fla.",Defensemen,70,,,,Fargo,USHL,Merrimack
+,7,"Wattvil, Max",Fr,6-2,192,8/11/2002,"Stockholm, Sweden",Defensemen,74,,,,Minnesota,NAHL,Merrimack
+,26,"Zivlak, Ivan",Jr,6-2,179,8/8/2002,"Gislaved, Sweden",Defensemen,74,,,,Linköping,J20 Nationell,Merrimack
+,20,"Bono, Ethan",Fr,6-3,201,1/15/2004,"Port McNeill, B.C.",Forwards,75,,,,Alberni Valley,BCHL,Merrimack
+,16,"Borodayenko, Nikita",So,5-11,187,6/17/2002,"Dmitrov, Russia",Forwards,71,,,,Dubuque,USHL,Merrimack
+,18,"Brar, Ben",Gr,6-2,184,11/19/1998,"Abbotsford, B.C.",Forwards,74,,,,Prince George,BCHL,Merrimack
+,22,"Citara, Michael",Sr,5-10,175,4/22/2002,"New Hope, Pa.",Forwards,70,,,,Providence,HEA,Merrimack
+,21,"Copponi, Matt",Jr,5-11,161,6/4/2003,"Mansfield, Mass.",Forwards,71,2023,EDM,7,Dexter Southfield,NEPSAC,Merrimack
+,43,"Daneault, Ty",Fr,5-11,161,12/20/2004,"Red Deer, Alb.",Forwards,71,,,,Drumheller,AJHL,Merrimack
+,28,"Forsmark, Filip",Gr,5-10,170,6/23/1998,"Skövde, Sweden",Forwards,70,,,,Tri-City,USHL,Merrimack
+,15,"Gallant, Mark",Gr,6-0,185,5/1/2000,"Concord, Mass.",Forwards,72,,,,Langley,BCHL,Merrimack
+,10,"Hillier, Mark",Jr,6-1,180,3/18/2002,"Labrador City, Newf.",Forwards,73,,,,St. Andrew's College,CISAA,Merrimack
+,9,"Hunter, Brady",Fr,5-8,174,7/27/2002,"Enfield, N.S.",Forwards,68,,,,Trail,BCHL,Merrimack
+,19,"Jefferies, Alex",Sr,6-0,195,11/8/2001,"Lunenburg, Mass.",Forwards,72,2020,NYI,4,The Gunnery,PREP,Merrimack
+,11,"O'Brien, Devlin",Jr,5-10,174,4/5/2002,"Toronto, Ont.",Forwards,70,,,,Penticton,BCHL,Merrimack
+,24,"Sacco, David",Fr,6-1,194,1/3/2002,"Middleton, Mass.",Forwards,73,,,,Alberni Valley,BCHL,Merrimack
+,13,"Stevenson, Chase",Gr,5-11,180,1/13/1999,"West Kelowna, B.C.",Forwards,71,,,,New Hampshire,HEA,Merrimack
+,25,"Weilandt, Luke",Fr,5-10,181,4/4/2002,"Northbrook, Ill.",Forwards,70,,,,Wenatchee,NAHL,Merrimack
+,17,"Welsher, Mac",Gr,5-8,175,4/24/1999,"Grosse Pointe Farms, Mich.",Forwards,68,,,,Des Moines,USHL,Merrimack
+,14,"Young, Tyler",So,6-1,179,5/8/2001,"Lancaster, Mass.",Forwards,73,,,,Maryland,NAHL,Merrimack
+,30,"Bacovsky, Steven",So,6-1,185,7/20/2001,"Calgary, Alb.",Goaltenders,73,,,,OCN Blizzard,MJHL,Merrimack
+,29,"Borgiel, Zachary",Sr,6-2,205,4/27/2000,"Fort Gratiot, Mich.",Goaltenders,74,,,,Cowichan Valley,BCHL,Merrimack
+,1,"Ollas, Hugo",Jr,6-8,238,4/24/2002,"Linköping, Sweden",Goaltenders,80,2020,NYR,7,Linköping,SHL,Merrimack
+,6,"Ferguson, Cullen",Jr,6-0,185,2/16/2001,"Binbrook, Ont.",Defensemen,72,,,,Aberdeen,NAHL,Union
+,2,"Hart, DJ",Fr,6-3,210,2/23/2002,"Stamford, Conn.",Defensemen,75,,,,Lincoln,USHL,Union
+,26,"Kelly, Nathan",Sr,6-0,185,11/22/2000,"South Delta, B.C.",Defensemen,72,,,,Chilliwack,BCHL,Union
+,3,"Mell, Cal",So,5-11,180,1/30/2001,"Cumming, Ga.",Defensemen,71,,,,Janesville,NAHL,Union
+,23,"Messina, Joseph",Fr,5-9,185,2/1/2002,"Woodbridge, Ont.",Defensemen,69,,,,Langley,BCHL,Union
+,4,"Phillips, Josh",Jr,6-2,185,5/24/2001,"Getzville, N.Y.",Defensemen,74,,,,Minnesota,NAHL,Union
+,5,"Potter, Joey",Fr,5-10,185,5/9/2003,"Los Angeles, Calif.",Defensemen,70,,,,Fairbanks,NAHL,Union
+,21,"Prokop, John",So,6-3,185,5/13/2001,"Wausau, Wis.",Defensemen,75,,,,Des Moines,USHL,Union
+,7,"Young, Nick",So,6-3,215,9/12/2001,"Raleigh, N.C.",Defensemen,75,,,,St. Cloud,NAHL,Union
+,10,"Benz, Ethan",So,6-1,190,3/29/2001,"Shakopee, Minn.",Forwards,73,,,,St. Cloud,NAHL,Union
+,14,"Buhr, Brandon",So,6-2,200,7/7/2002,"Burnaby, B.C.",Forwards,74,,,,Clarkson,ECAC,Union
+,24,"Hanley, Nate",So,5-11,185,5/30/2002,"Rocky Point, N.Y.",Forwards,71,,,,Cedar Rapids,USHL,Union
+,18,"Immonen, Ville",Sr,6-2,200,6/18/1999,"Seinajoki, Finland",Forwards,74,,,,Minot,NAHL,Union
+,22,"Jeannette, Jacob",Fr,6-1,200,12/13/2002,"Duluth, Minn.",Forwards,73,,,,Tri-City,USHL,Union
+,17,"Kodsi, Cole",Gr,6-2,200,6/17/2000,"Boca Raton, Fla.",Forwards,74,,,,Bentley,AHA,Union
+,12,"Korpi, Carter",So,6-0,185,7/28/2001,"South Lyon, Mich.",Forwards,72,,,,Wichita Falls,NAHL,Union
+,11,"MacArthur, Colby",So,6-3,185,11/2/2001,"Summerside, P.E.I.",Forwards,75,,,,Summerside Western,MHL,Union
+,15,"Nixon, Josh",Jr,5-9,175,5/9/2000,"Mississauga, Ont.",Forwards,69,,,,Lake Superior,CCHA,Union
+,20,"Pilosof, Eli",Fr,5-10,180,6/10/2002,"Toronto, Ont.",Forwards,70,,,,Pickering,OJHL,Union
+,9,"Richter, Thomas",Jr,6-1,175,6/6/2000,"Greenwich, Conn.",Forwards,73,,,,Penticton,BCHL,Union
+,19,"Robertson, Liam",Sr,6-2,170,5/14/2000,"Courtice, Ont.",Forwards,74,,,,Youngstown,USHL,Union
+,8,"Smedsrud, Chaz",Sr,6-2,195,6/4/1998,"Luverne, Minn.",Forwards,74,,,,Madison,USHL,Union
+,27,"Tupker, Ben",Sr,6-3,215,12/23/1999,"Collingwood, Ont.",Forwards,75,,,,Carleton Place,CCHL,Union
+,28,"Villegas, Caden",Jr,5-8,167,2/19/2001,"Plano, Texas",Forwards,68,,,,Tri-City,USHL,Union
+,13,"Watkins, Tyler",Sr,5-9,175,12/19/1999,"Hermantown, Minn.",Forwards,69,,,,Minnesota,NAHL,Union
+,36,"Chauvette, Kyle",So,6-1,170,10/5/2001,"Goffstown, N.H.",Goaltenders,73,,,,Youngstown,USHL,Union
+,30,"Reid, Aksel",Fr,6-1,185,8/5/2003,"Minneapolis, Minn.",Goaltenders,73,,,,Springfield,NAHL,Union
+,35,"Sharib, Joe",Jr,5-11,170,8/16/2001,"Natick, Mass.",Goaltenders,71,,,,Connecticut ,NCDC,Union
+,2,"Babbage, Jack",Jr,6-1,192,8/30/2000,"Tully, N.Y.",Defensemen,73,,,,Quinnipiac,ECAC,New-Hampshire
+,19,"Fitzgerald, Brendan",Fr,6-0,165,3/6/2003,"North Reading, Mass.",Defensemen,72,,,,Cedar Rapids,USHL,New-Hampshire
+,28,"Gagne, Alex",Jr,6-4,207,8/12/2002,"Bedford, N.H.",Defensemen,76,2021,TBL,6,Muskegon,USHL,New-Hampshire
+,5,"Hahn, Zach",Fr,6-2,205,8/6/2002,"Huntington, N.Y.",Defensemen,74,,,,P.A.L. Jr. Islanders,NCDC,New-Hampshire
+,20,"Huard, Colton",Jr,6-3,200,11/27/2000,"Welland, Ont.",Defensemen,75,,,,Chicago,USHL,New-Hampshire
+,8,"Jenson, Nikolai",Sr,5-11,193,7/28/2000,"Cold Spring, Minn.",Defensemen,71,,,,Youngstown,USHL,New-Hampshire
+,15,"Lindner, Luis",Sr,5-11,170,5/16/2001,"Spittal an der Drau, AUT",Defensemen,71,,,,American Int'l,AHA,New-Hampshire
+,16,"Reid, Luke",Sr,6-0,192,9/26/2001,"Warman, Sask.",Defensemen,72,2020,NSH,6,Chicago,USHL,New-Hampshire
+,18,"Blaisdell, Harrison",Gr,5-11,190,3/18/2001,"Regina, Sask.",Forwards,71,2019,WPG,5,North Dakota,NCHC,New-Hampshire
+,11,"Cafarelli, Nick",Sr,5-10,182,12/31/2001,"Middleton, Mass.",Forwards,70,,,,Wenatchee,BCHL,New-Hampshire
+,36,"Conmy, Ryan",Fr,5-10,190,10/23/2004,"Alexandria, Va.",Forwards,70,2023,LAK,6,Sioux City,USHL,New-Hampshire
+,24,"Cronin, Robert",Jr,5-10,187,8/15/2000,"Plymouth, Mass.",Forwards,70,,,,Dubuque,USHL,New-Hampshire
+,12,"Devlin, Liam",Jr,5-11,192,1/7/2001,"Needham, Mass.",Forwards,71,,,,Omaha,USHL,New-Hampshire
+,21,"Gendron, Cam",Sr,6-3,181,2/5/1999,"Hampstead, N.H.",Forwards,75,,,,New Jersey,NAHL,New-Hampshire
+,6,"Lavins, Marty",Fr,6-1,185,4/10/2003,"Riga, Latvia",Forwards,73,,,,Cedar Rapids,USHL,New-Hampshire
+,29,"LeClerc, Cy",So,5-9,175,8/17/2002,"Brentwood, N.H.",Forwards,69,,,,Janesville,NAHL,New-Hampshire
+,3,"Lovett, Conor",Jr,5-11,200,4/7/2001,"Franklin, Mass.",Forwards,71,,,,Lawrence Academy,PREP,New-Hampshire
+,25,"Ring, Nick",Fr,5-10,180,10/26/2003,"Hingham, Mass.",Forwards,70,,,,Sioux Falls,USHL,New-Hampshire
+,7,"Sardarian, Stiven",So,6-1,170,2/7/2003,"St. Petersburg, Russia",Forwards,73,2021,BUF,3,Youngstown,USHL,New-Hampshire
+,23,"Siedem, Jason",Fr,5-10,185,10/17/2002,"Madison, N.J.",Forwards,70,,,,Blackfalds,AJHL,New-Hampshire
+,17,"Skrastins, Kristaps",So,5-10,180,11/20/2001,"Riga, Latvia",Forwards,70,,,,Amarillo,NAHL,New-Hampshire
+,9,"Sweeney, Connor",Jr,6-2,200,5/5/2000,"North Andover, Mass.",Forwards,74,,,,Islanders Hockey Club,NCDC,New-Hampshire
+,22,"Turner, J.P.",Fr,6-0,195,1/31/2003,"East Falmouth, Mass.",Forwards,72,,,,Fargo,USHL,New-Hampshire
+,10,"Walsh, Ronan",Fr,6-4,210,5/3/2002,"Andover, N.H.",Forwards,76,,,,Amarillo,NAHL,New-Hampshire
+,26,"Winters, Morgan",So,5-11,165,12/8/2001,"Osprey, Fla.",Forwards,71,,,,Omaha,USHL,New-Hampshire
+,1,"Forman, Jeremy",Sr,5-10,150,9/22/1999,"Northbrook, Ill.",Goaltenders,70,,,,Corpus Christi,NAHL,New-Hampshire
+,35,"Gaughan, Raphael",Sr,6-1,185,2/11/2000,"Somersworth, N.H.",Goaltenders,73,,,,Northeast,NA3NHL,New-Hampshire
+,37,"Hellsten, Jakob",Sr,6-0,185,2/2/2000,"Ljusdal, Sweden",Goaltenders,72,,,,North Dakota,NCHC,New-Hampshire
+,30,"Muszelik, Tyler",So,6-3,190,7/1/2004,"Long Valley, N.J.",Goaltenders,75,2022,FLA,6,USNTDP,USHL,New-Hampshire
+,2,"Bauer, Jacob",Sr,6-3,202,2/25/2002,"Detroit, Mich.",Defensemen,75,,,,Lincoln,USHL,Western-Michigan
+,23,"Berger, Carter",Gr,6-0,185,9/17/1999,"North Vancouver, B.C.",Defensemen,72,2019,FLA,4,Connecticut,HEA,Western-Michigan
+,3,"Crusberg-Roseen, Cole",Fr,5-11,184,4/14/2002,"Stratham, N.H.",Defensemen,71,,,,Lincoln,USHL,Western-Michigan
+,17,"Fiedler, Cedric",Sr,6-3,204,4/20/2001,"Zug, Switzerland",Defensemen,75,,,,Fargo,USHL,Western-Michigan
+,4,"Galambos, Zak",Gr,6-2,190,5/27/1997,"Walnut Creek, Calif.",Defensemen,74,,,,American Int'l,AHA,Western-Michigan
+,15,"Hilsendager, Daniel",Sr,6-1,200,3/30/2000,"Lloydminster, Sask.",Defensemen,73,,,,Omaha,USHL,Western-Michigan
+,6,"Napier, Jacob",Fr,6-2,190,3/31/2003,"Lancaster, N.Y.",Defensemen,74,,,,Fargo,USHL,Western-Michigan
+,33,"Sjolund, Samuel",So,6-1,175,5/19/2001,"Stockholm, Sweden",Defensemen,73,,,,Dubuque ,USHL,Western-Michigan
+,22,"Bishop, Trevor",Sr,6-0,185,1/23/1999,"Rochester Hills, Mich.",Forwards,72,,,,Victoria,BCHL,Western-Michigan
+,20,"Bump, Alex",Fr,6-0,194,11/20/2003,"Prior Lake, Minn.",Forwards,72,2022,PHI,5,Tri-City,USHL,Western-Michigan
+,27,"Burtch, Cole",Fr,5-10,170,1/11/2001,"Markham, Ont.",Forwards,70,,,,Cedar Rapids,USHL,Western-Michigan
+,8,"Cassetti, Joe",Gr,6-4,205,2/28/1999,"Pleasanton, Calif.",Forwards,76,,,,Miami,NCHC,Western-Michigan
+,12,"Colangelo, Sam",Gr,6-3,208,12/26/2001,"Stoneham, Mass.",Forwards,75,2020,ANA,2,Northeastern,HEA,Western-Michigan
+,25,"Costantini, Matteo",Sr,6-1,192,8/16/2002,"St. Catharines, Ont.",Forwards,73,2020,BUF,5,North Dakota,NCHC,Western-Michigan
+,9,"Grainger, Luke",Sr,5-10,180,9/3/1999,"Montreal, Que.",Forwards,70,,,,Hawkesbury,CCHL,Western-Michigan
+,10,"Hillebrand, Chad",Sr,6-4,200,1/22/1999,"Park Ridge, Ill.",Forwards,76,,,,Green Bay,USHL,Western-Michigan
+,19,"Knuble, Cam",Sr,6-0,200,7/23/2000,"Grand Rapids, Mich.",Forwards,72,,,,Muskegon,USHL,Western-Michigan
+,28,"Larkin, Hugh",Sr,6-2,205,3/27/1999,"Livonia, Mich.",Forwards,74,,,,Austin,NAHL,Western-Michigan
+,13,"MacDonald, Oliver",Sr,5-10,185,11/7/2000,"Grosse Pointe, Mich.",Forwards,70,,,,Massachusetts,HEA,Western-Michigan
+,34,"Michaels, Owen",Fr,6-1,190,5/1/2002,"Detroit, Mich.",Forwards,73,,,,Dubuque,USHL,Western-Michigan
+,29,"Phillips, Ethan",Gr,5-9,155,5/7/2001,"Dartmouth, N.S.",Forwards,69,2019,DET,4,Boston University,HEA,Western-Michigan
+,18,"Schingoethe, Wyatt",Jr,5-11,180,8/3/2002,"Algonquin, Ill.",Forwards,71,2020,TOR,7,Waterloo,USHL,Western-Michigan
+,26,"Somoza, Ean",Fr,6-3,195,2/8/2003,"Thousand Oaks, Calif.",Forwards,75,,,,Wenatchee,BCHL,Western-Michigan
+,24,"Szydlowski, Garrett",Fr,5-10,180,6/12/2002,"Detroit, Mich.",Forwards,70,,,,Wenatchee,BCHL,Western-Michigan
+,16,"Washe, Tim",Sr,6-3,210,8/25/2001,"Clarkston, Mich.",Forwards,75,,,,Nanaimo,BCHL,Western-Michigan
+,37,"Wendt, Dylan",Jr,6-1,185,1/9/2001,"Grand Haven, Mich.",Forwards,73,,,,Muskegon,USHL,Western-Michigan
+,11,"Wolthers, Ethan",So,5-8,155,7/19/2001,"Valencia, Calif.",Forwards,68,,,,Minnesota,NAHL,Western-Michigan
+,1,"Laursen, Kirk",So,6-3,185,1/2/2000,"Bloomfield Hills, Mich.",Goaltenders,75,,,,Miami,NCHC,Western-Michigan
+,31,"Rowe, Cameron",Sr,6-3,210,6/1/2001,"Wilmette, Ill.",Goaltenders,75,,,,Des Moines,USHL,Western-Michigan
+,30,"Smith, Dawson",Fr,6-4,195,2/17/2003,"Whitehorse, YT",Goaltenders,76,,,,La Ronge,SJHL,Western-Michigan
+,15,"Ellis, Noah",So,6-2,192,2/1/2002,"Urbandale, Iowa",Defensemen,74,2020,VGK,6,Massachusetts,HEA,Omaha
+,12,"Krenzen, Nolan",Sr,5-9,180,7/13/2001,"Duluth, Minn.",Defensemen,69,,,,Omaha/Sioux City,USHL,Omaha
+,2,"Lemay, Joaquim",So,6-1,172,7/28/2002,"St-Pierre-les-Becquets, Que.",Defensemen,73,2021,WSH,4,Lincoln,USHL,Omaha
+,7,"Ludtke, Griffin",So,5-10,171,2/1/2003,"Elko, Minn.",Defensemen,70,,,,Sioux City,USHL,Omaha
+,23,"Mancini, Victor",Jr,6-4,215,5/26/2002,"Saginaw, Mich.",Defensemen,76,2022,NYR,5,Green Bay,USHL,Omaha
+,3,"Proctor, Kirby",Gr,6-3,197,4/20/2001,"Okotoks, Alb.",Defensemen,75,,,,Des Moines,USHL,Omaha
+,9,"Vidoli, Dominic",Gr,6-0,190,6/23/1999,"Wake Forest, N.C.",Defensemen,72,,,,Ohio State,B10,Omaha
+,18,"Abgrall, Michael",So,5-10,170,10/25/2003,"Richmond, B.C.",Forwards,70,,,,Surrey,BCHL,Omaha
+,26,"Bremer, Brock",Sr,5-5,140,8/26/1999,"Forest Lake, Minn.",Forwards,65,,,,Lincoln,USHL,Omaha
+,8,"Fust, Ray",So,6-3,205,10/23/2002,"Bellinzona, Switzerland",Forwards,75,,,,Waterloo,USHL,Omaha
+,22,"Glynn, Jimmy",Sr,5-10,180,2/24/2000,"Lemont, Ill.",Forwards,70,,,,Dubuque,USHL,Omaha
+,10,"Guevin, Jacob",So,5-11,182,1/17/2003,"Drummondville, Que.",Forwards,71,,,,Muskegon,USHL,Omaha
+,14,"Lansdell, Jesse",Gr,5-11,185,8/5/1998,"Surrey, B.C.",Forwards,71,,,,Notre Dame,B10,Omaha
+,71,"Ludtke, Tanner",Fr,6-0,180,11/27/2004,"Elko, Minn.",Forwards,72,2023,ARI,3,Lincoln,USHL,Omaha
+,24,"Lurie, Charlie",Fr,5-11,187,3/11/2003,"Minnetonka, Minn.",Forwards,71,,,,Cedar Rapids,USHL,Omaha
+,27,"Miller, Matt",Sr,6-2,194,9/4/1999,"Leo, Ind.",Forwards,74,,,,Lincoln,USHL,Omaha
+,16,"Mitchell, Cam",So,5-9,170,3/9/2001,"Stony Plain, Alb.",Forwards,69,,,,Omaha,USHL,Omaha
+,19,"Mueller, Ty",Jr,5-11,200,2/26/2003,"Cochrane, Alb.",Forwards,71,2023,VAN,4,Sherwood Park,AJHL,Omaha
+,28,"Randl, Jack",Gr,5-10,175,5/7/2000,"Carpentersville, Ill.",Forwards,70,,,,Michigan,B10,Omaha
+,21,"Rollwagen, Tyler",So,5-11,181,3/20/2001,"Bloomington, Minn.",Forwards,71,,,,Fargo,USHL,Omaha
+,13,"Slipec, Jacob",So,5-11,180,12/5/2001,"White Rock, B.C.",Forwards,71,,,,Surrey,BCHL,Omaha
+,11,"Sullivan, Nolan",Gr,5-11,203,5/26/1999,"Eden Prairie, Minn.",Forwards,71,,,,Muskegon,USHL,Omaha
+,6,"Urdahl, Zach",Jr,6-1,195,10/13/2001,"Eau Claire, Wis.",Forwards,73,,,,Wisconsin,B10,Omaha
+,1,"Craig, Will",Fr,6-2,229,5/16/2002,"Ennismore, Ont.",Goaltenders,74,,,,New Mexico,NAHL,Omaha
+,32,"Eisele, Seth",Gr,6-5,195,10/30/1998,"Lake Elmo, Minn.",Goaltenders,77,,,,Lake Superior State,CCHA,Omaha
+,30,"Latkoczy, Simon",So,5-11,175,6/1/2002,"Trencin, Slovakia",Goaltenders,71,,,,Madison,USHL,Omaha
+,16,"Blanchett, Jack",Fr,5-11,185,5/12/2003,"Monroe, Mich.",Defensemen,71,,,,Powell,BCHL,Lake-Superior
+,23,"Borshyov, Artyom",Sr,6-3,210,8/22/2000,"Vitebsk, Belarus",Defensemen,75,,,,Youngstown,USHL,Lake-Superior
+,5,"Bushy, Evan",Fr,6-1,195,3/26/2002,"Mankato, Minn.",Defensemen,73,,,,Trail,BCHL,Lake-Superior
+,4,"Conrad, Jacob",Fr,5-11,180,5/18/2002,"Green Bay, Wis.",Defensemen,71,,,,Fairbanks,NAHL,Lake-Superior
+,25,"Gervais, Jeremy",Sr,5-11,180,1/9/1999,"Prince George, B.C.",Defensemen,71,,,,Salmon Arm,BCHL,Lake-Superior
+,20,"Hindman, Grant",Jr,6-0,200,5/16/2002,"Oakland, Mich.",Defensemen,72,,,,Youngstown,USHL,Lake-Superior
+,2,"Huggins, Bryan",So,5-11,180,3/26/2002,"Grand Rapids, Mich.",Defensemen,71,,,,Fargo,USHL,Lake-Superior
+,24,"Kungle, Cam",Fr,6-3,202,3/28/2002,"Red Deer, Alb.",Defensemen,75,,,,Cranbrook,BCHL,Lake-Superior
+,6,"Roloson, Ross",Fr,5-11,175,1/30/2003,"Woodbury, Minn.",Defensemen,71,,,,Surrey,BCHL,Lake-Superior
+,14,"Schweitzer, Nate",Jr,6-0,195,2/21/2002,"Champlin, Minn.",Defensemen,72,,,,Colorado College,NCHC,Lake-Superior
+,22,"Bakos, Timo",Jr,6-1,194,7/28/2000,"Augsburg, Germany",Forwards,73,,,,Starbulls,Oberliga,Lake-Superior
+,18,"Batchelder, Carter",Fr,5-10,175,2/25/2003,"Savage, Minn.",Forwards,70,,,,Des Moines,USHL,Lake-Superior
+,26,"Craft, Cole",Jr,6-2,195,6/29/2001,"North Bay, Ont.",Forwards,74,,,,Lincoln,USHL,Lake-Superior
+,28,"Herrington, John",Fr,5-11,185,4/19/2002,"Hudson's Hope, B.C.",Forwards,71,,,,Prince George,BCHL,Lake-Superior
+,17,"Levandowski, Luke",Fr,6-0,165,9/26/2002,"Rosemount, Minn.",Forwards,72,,,,Wisconsin,NAHL,Lake-Superior
+,12,"Milburn, Reagan",Fr,6-0,190,2/13/2003,"Kamloops, B.C.",Forwards,72,,,,Vernon,BCHL,Lake-Superior
+,9,"Milburn, Connor",So,6-4,180,4/11/2001,"Kamloops, B.C.",Forwards,76,,,,Chilliwack,BCHL,Lake-Superior
+,7,"Piku, Branden",Fr,5-8,165,8/25/2002,"Harrison Township, Mich.",Forwards,68,,,,Maryland,NAHL,Lake-Superior
+,27,"Posa, Benito",Sr,6-1,190,1/16/1999,"Grand Blanc, Mich.",Forwards,73,,,,Des Moines,USHL,Lake-Superior
+,29,"Roloson, Brett",Jr,5-11,160,12/29/2000,"Newport Beach, Calif.",Forwards,71,,,,Minot,NAHL,Lake-Superior
+,8,"Roy, Harrison",Sr,6-1,194,1/17/2000,"Lakeville, Mass.",Forwards,73,,,,Boston College,HEA,Lake-Superior
+,10,"Teleguine, Sasha",Fr,5-10,180,9/17/2002,"North Attleborough, Mass.",Forwards,70,,,,Connecticut,HEA,Lake-Superior
+,11,"Tritt, Dawson",Jr,6-2,180,9/1/2000,"Spokane, Wash.",Forwards,74,,,,Lone Star,NAHL,Lake-Superior
+,21,"Venegoni, Jordan",Jr,6-0,185,8/16/2000,"Livonia, Mich.",Forwards,72,,,,Amarillo,NAHL,Lake-Superior
+,15,"Westcott, Jared",Sr,6-1,200,6/14/1999,"Imperial, Mo.",Forwards,73,,,,Penn State,Big10,Lake-Superior
+,19,"Wildauer, Joshua",Sr,5-8,170,6/16/1999,"Dearborn Heights, Mich.",Forwards,68,,,,Coquitlam,BCHL,Lake-Superior
+,3,"Williams, Tyler",Sr,5-7,175,5/16/2000,"South Lyon, Mich.",Forwards,67,,,,Nanaimo,BCHL,Lake-Superior
+,31,"Hakansson, William",Fr,6-0,190,3/24/2003,"Oskarshamn, Sweden",Goaltenders,72,,,,Maryland,NAHL,Lake-Superior
+,30,"Hesse, Easton",Jr,6-0,175,6/28/2000,"Beaumont, Alb.",Goaltenders,72,,,,Bonnyville,AJHL,Lake-Superior
+,1,"Langenegger, Ethan",Sr,6-0,187,9/10/2000,"Kamloops, B.C.",Goaltenders,72,,,,Salmon Arm,BCHL,Lake-Superior
+,18,"Beck, Noah",Sr,6-3,191,3/25/2001,"Richmond Hill, Ont.",Defensemen,75,2020,STL,7,Fargo,USHL,Clarkson
+,2,"Judson, Jack",Gr,6-1,195,2/26/2000,"White Rock, B.C.",Defensemen,73,,,,Arizona State,DI Independent,Clarkson
+,12,"Lewandowski, Caden",Jr,6-4,205,6/2/2000,"Port Huron, Mich.",Defensemen,76,,,,Johnstown,NAHL,Clarkson
+,27,"McFaul, Dustyn",Sr,6-3,197,8/4/2000,"Waterdown, Ont.",Defensemen,75,2018,BOS,6,Pickering,OJHL,Clarkson
+,8,"Rose, Carter",Fr,6-2,195,8/9/2002,"Brasher Falls, N.Y.",Defensemen,74,,,,Green Bay,USHL,Clarkson
+,5,"Sarsland, Tristan",So,6-1,185,2/25/2004,"Wayzata, Minn.",Defensemen,73,,,,Benilde- St. Margaret’s,,Clarkson
+,4,"Taylor, Trey",So,6-2,190,2/4/2002,"Richmond, B.C.",Defensemen,74,,,,Youngstown,NAHL,Clarkson
+,3,"Taylor, Kaelan",Sr,6-2,195,1/3/1999,"Oceanside, Calif.",Defensemen,74,,,,Dubuque,USHL,Clarkson
+,9,"Bargholtz, Erik",So,6-1,193,4/12/2001,"Appleton, Wis.",Forwards,73,,,,Fargo,USHL,Clarkson
+,39,"Ciccolini, Eric",Sr,6-0,185,1/14/2001,"Vaughan, Ont.",Forwards,72,2019,NYR,7,Michigan,B10,Clarkson
+,10,"Egan, Brady",So,5-10,182,10/9/2001,"Carp, Ont.",Forwards,70,,,,Pembroke,CCHL,Clarkson
+,16,"Gardner, Daimon",Fr,6-5,205,1/18/2004,"Eagle Lake, Ont.",Forwards,77,2022,VAN,4,Tri-City,USHL,Clarkson
+,13,"Gosselin, Mathieu",Sr,5-10,183,5/18/1999,"Québec City, Que.",Forwards,70,,,,Merritt,BCHL,Clarkson
+,21,"Grannis, George",Jr,6-0,195,4/16/2000,"Duluth, Minn.",Forwards,72,,,,Bismark,NAHL,Clarkson
+,15,"Martino, Ayrton",Jr,5-11,186,9/28/2002,"Toronto, Ont.",Forwards,71,2021,DAL,3,Omaha,USHL,Clarkson
+,23,"Moberg, Oliver",Fr,6-3,210,2/23/2003,"Bromma, Sweden",Forwards,75,,,,Dubuque,USHL,Clarkson
+,20,"Monds, Cody",Sr,5-10,180,2/9/2001,"Brockville, Ont.",Forwards,70,,,,Providence,HEA,Clarkson
+,26,"Richardson, Ryan",Jr,6-1,193,4/9/2001,"Stittsville, Ont.",Forwards,73,,,,Fargo,USHL,Clarkson
+,19,"Rickwood, Ellis",So,6-2,200,7/2/2002,"Brantford, Ont.",Forwards,74,,,,Victoria,BCHL,Clarkson
+,29,"Romano, Anthony",Sr,5-11,195,10/7/2000,"Richmond Hill, Ont.",Forwards,71,2019,ARI,6,Sioux Falls,USHL,Clarkson
+,11,"Russell, Charlie",Fr,5-11,174,8/21/2003,"Skaneateles, N.Y.",Forwards,71,,,,Fargo,USHL,Clarkson
+,14,"Sigurdson, Talon",Fr,6-1,180,1/11/2002,"Sartell, Minn.",Forwards,73,,,,Des Moines,USHL,Clarkson
+,28,"Taylor, Ryan",So,6-3,210,3/9/2001,"St. Louis, Mo.",Forwards,75,,,,Bismarck,NAHL,Clarkson
+,17,"Tucker, Jesse",Jr,5-11,187,3/1/2000,"Longlac, Ont.",Forwards,71,,,,Michigan State,B10,Clarkson
+,1,"Croteau, Emmett",Fr,6-4,205,12/7/2003,"Bonnyville, Alb.",Goaltenders,76,2022,MTL,6,Waterloo,USHL,Clarkson
+,34,"Parker, Brady",Jr,5-10,180,7/10/2000,"Scottsdale, Ariz.",Goaltenders,70,,,,Okotoks,AJHL,Clarkson
+,33,"Roden, Austin",Sr,6-1,185,4/30/1998,"Victoria, B.C.",Goaltenders,73,,,,Providence,HEA,Clarkson
+,10,"Cassaro, Gianfranco",Sr,6-0,188,3/30/1999,"Nobleton, Ont.",Defensemen,72,,,,Massachusetts,HEA,RIT
+,23,"Hansen-Bukata, Aiden",Sr,6-0,180,6/29/1999,"Delta, B.C.",Defensemen,72,,,,Nanaimo,BCHL,RIT
+,28,"Lapointe, Xavier",So,6-0,190,1/26/2002,"Québec, Que.",Defensemen,72,,,,Flin Flon,SJHL,RIT
+,4,"Mikrogiannakis, Dimitri",Sr,6-1,200,9/20/1999,"Aurora, Ont.",Defensemen,73,,,,Cowichan Valley,BCHL,RIT
+,24,"Nicholson, Ryan",Gr,6-3,201,1/14/1999,"Mississauga, Ont.",Defensemen,75,,,,Oakville,OJHL,RIT
+,18,"Scott, Kevin",Fr,6-3,215,4/30/2003,"Ashburn, Va.",Defensemen,75,,,,Fargo,USHL,RIT
+,25,"Scott, Douglas",Jr,5-10,195,4/16/2000,"North Vancouver, B.C.",Defensemen,70,,,,Humboldt,SJHL,RIT
+,27,"Stewart, Crossley",Fr,6-3,190,5/30/2002,"Prince Rupert, B.C.",Defensemen,75,,,,Burlington,OJHL,RIT
+,7,"Andrew, Tanner",Jr,5-9,170,2/11/2000,"Virden, Man.",Forwards,69,,,,Chilliwack,BCHL,RIT
+,5,"Blom, Gustav",So,6-0,180,1/30/2001,"Stockholm, Sweden",Forwards,72,,,,New Mexico,NAHL,RIT
+,19,"Catalano, Christian",Fr,6-1,190,5/23/2003,"Mississauga, Ont.",Forwards,73,,,,Maryland,NAHL,RIT
+,9,"Fukakusa, Tyler",Fr,5-11,180,8/14/2002,"Toronto, Ont.",Forwards,71,,,,Toronto,OJHL,RIT
+,16,"Gonsalves, Elijah",Gr,5-9,175,3/8/2000,"Scarborough, Ont.",Forwards,69,,,,Wellington,OJHL,RIT
+,22,"Hobbs, Grady",Jr,5-8,177,3/18/2000,"Deloraine, Man.",Forwards,68,,,,Dauphin,MJHL,RIT
+,12,"Isabelle, Simon",So,5-10,175,1/12/2001,"Whitehorse, Yukon",Forwards,70,,,,Ottawa,CCHL,RIT
+,11,"Jacques, Philippe",So,6-4,200,10/29/2002,"Québec, Que.",Forwards,76,,,,Ottawa,CCHL,RIT
+,15,"Jeffery, Adam",So,6-5,205,5/8/2001,"Leamington, Ont.",Forwards,77,,,,Cowichan Valley,BCHL,RIT
+,26,"Laskosky, Cody",Sr,5-11,180,6/21/1999,"New Norway, Alb.",Forwards,71,,,,Camrose,AJHL,RIT
+,14,"Mahan, Tyler",So,6-0,190,12/14/2001,"Calgary, Alb.",Forwards,72,,,,Whitecourt,AJHL,RIT
+,8,"Miller, Evan",Jr,6-0,177,3/7/2000,"Niagara-on-the-Lake, Ont.",Forwards,72,,,,Wellington,OJHL,RIT
+,20,"Moretz, Caleb",Gr,5-10,180,7/14/1998,"Fairbanks, Alaska",Forwards,70,,,,Flin Flon,SJHL,RIT
+,6,"Wilde, Matthew",Fr,6-2,198,4/30/2002,"Mississauga, Ont.",Forwards,74,,,,Toronto,OJHL,RIT
+,21,"Wilkie, Carter",Jr,6-2,205,4/3/2000,"Calgary, Alb.",Forwards,74,,,,West Kelowna,BCHL,RIT
+,32,"Chenard, Daniel",Sr,6-0,168,10/3/1999,"Waterloo, Ont.",Goaltenders,72,,,,Wenatchee,BCHL,RIT
+,33,"Lush, Luke",Fr,6-2,194,2/15/1998,"Sherwood Park, Alb.",Goaltenders,74,,,,Sacred Heart,AHA,RIT
+,30,"Scarfone, Tommy",Jr,6-0,175,11/19/2000,"L'Île-Bizard, Que.",Goaltenders,72,,,,Surrey,BCHL,RIT
+,46,"Abrahamsson, Tobias",Fr,6-4,214,8/30/2003,"Jonkoping, Sweden",Defensemen,76,,,,HV71,J20,St-Thomas
+,24,"Docter, Grant",Jr,5-10,174,12/6/2000,"Golden Valley, Minn.",Defensemen,70,,,,Michigan Tech,,St-Thomas
+,18,"Gauer, Ethan",Sr,6-0,185,12/23/1999,"Farmington, Mich.",Defensemen,72,,,,Bemidji State,WCHA,St-Thomas
+,2,"Marooney, James",Gr,5-9,175,8/16/1999,"Chaska, Minn.",Defensemen,69,,,,Ohio State,B10,St-Thomas
+,4,"Miller, Cole",Fr,5-11,181,8/27/2002,"Littleton, Colo.",Defensemen,71,,,,Sioux Falls,USHL,St-Thomas
+,21,"Peters, Carson",So,6-3,200,10/28/2002,"Minneapolis, Minn.",Defensemen,75,,,,Cedar Rapids,USHL,St-Thomas
+,10,"Poolman, Mason",Fr,6-1,179,1/31/2002,"East Grand Forks, Minn.",Defensemen,73,,,,Penticton,BCHL,St-Thomas
+,6,"Ratzlaff, Jake",So,,0,6/23/2002,"Rosemount, Minn.",Defensemen,0,,,,Madison,USHL,St-Thomas
+,28,"Simmons-Fischer, Braidan",So,6-7,220,1/26/2002,"Detroit, Mich.",Defensemen,79,,,,Austin,NAHL,St-Thomas
+,14,"Sofo, Jase",Fr,6-3,190,6/25/2002,"Sylvania, Ohio",Defensemen,75,,,,Amarillo,NAHL,St-Thomas
+,17,"Braccini, Jake",So,5-11,192,7/2/2001,"Hanover, Minn.",Forwards,71,,,,Muskegon,USHL,St-Thomas
+,22,"Byers, Mack",So,5-11,172,2/8/1999,"Long Lake, Minn.",Forwards,71,,,,Aberdeen,NAHL,St-Thomas
+,27,"Donovan, Ryder",Gr,6-3,203,10/4/2000,"Duluth, Minn.",Forwards,75,2019,VGK,4,Wisconsin,B10,St-Thomas
+,20,"Gay, Cooper",So,6-4,210,3/15/2002,"Edina, Minn.",Forwards,76,,,,Fargo,USHL,St-Thomas
+,5,"Gleason, Matthew",Sr,5-8,170,9/20/2001,"St. Paul, Minn.",Forwards,68,,,,Colorado College,NCHC,St-Thomas
+,19,"Laylin, Luc",So,5-8,170,12/30/2001,"St. Michael, Minn.",Forwards,68,,,,Prince George,BCHL,St-Thomas
+,25,"Malmquist, Liam",Jr,5-10,165,10/8/2000,"Edina, Minn.",Forwards,70,,,,Wisconsin,B10,St-Thomas
+,16,"Manning, Luke",Gr,5-10,190,4/13/1999,"Stillwater, Minn.",Forwards,70,,,,Air Force,AHA,St-Thomas
+,29,"Metz, J.D.",Fr,6-2,194,10/24/2002,"Mahtomedi, Minn.",Forwards,74,,,,New Mexico,NAHL,St-Thomas
+,11,"O'Neill, Ryan",So,5-10,175,2/25/2001,"Roseville, Minn.",Forwards,70,,,,St. Cloud,NAHL,St-Thomas
+,15,"Pepper, Quinton",So,6-3,187,1/31/2002,"London, Ont.",Forwards,75,,,,Steinbach,MJHL,St-Thomas
+,12,"Piechowski, Tim",Jr,6-2,210,12/8/2000,"Eden Prairie, Minn.",Forwards,74,,,,Bismarck,NAHL,St-Thomas
+,13,"Prokop, Noah",Gr,6-1,198,1/15/2000,"Highlands Ranch, Colo.",Forwards,73,,,,Colorado College,NCHC,St-Thomas
+,8,"Recchi, Cameron",Jr,5-10,165,5/24/2001,"Pittsburgh, Pa.",Forwards,70,,,,Salmon Arm,BCHL,St-Thomas
+,3,"Wahlin, Lucas",So,5-11,160,5/3/2001,"Woodbury, Minn.",Forwards,71,,,,Lincoln,USHL,St-Thomas
+,39,"Prazma, Max",Fr,6-4,194,1/12/2002,"Calgary, Alb.",Goaltenders,76,,,,Calgary,AJHL,St-Thomas
+,30,"Sibell, Jake",So,6-7,220,1/3/2000,"Isanti, Minn.",Goaltenders,79,,,,Niagara,AHA,St-Thomas
+,31,"Trotter, Aaron",Jr,6-2,170,4/7/2001,"Victoria, B.C.",Goaltenders,74,,,,Prince George,BCHL,St-Thomas
+,23,"Angesved, Theo",Fr,5-10,172,6/23/2003,"Växjö, Sweden",Defensemen,70,,,,Frölunda HC J20,SWE,American-Intl
+,4,"Callahan, Brett",Gr,5-10,182,10/16/1998,"Westmont, Ill.",Defensemen,70,,,,Jersey Hitmen,USPHL,American-Intl
+,7,"Kramer, Brian",Sr,5-11,181,7/20/2000,"Wexford, Pa.",Defensemen,71,,,,Fargo,USHL,American-Intl
+,5,"Leppanen, Tomi",Fr,6-1,190,4/7/2003,"Heinola, Finland",Defensemen,73,,,,Sioux City,USHL,American-Intl
+,20,"McCurdy, Hunter",So,6-1,220,8/9/2001,"Mokena, Ill.",Defensemen,73,,,,Danbury,NAHL,American-Intl
+,6,"Rickard, Matt",Sr,6-0,170,7/28/1999,"Coventry, R.I.",Defensemen,72,,,,Lone Star,NAHL,American-Intl
+,15,"Soderling, Casper",So,6-0,176,6/2/2001,"Stockholm, Sweden",Defensemen,72,,,,Nacka HK,,American-Intl
+,2,"Somerville, Nico",Sr,5-9,185,4/8/1999,"Nanaimo, B.C.",Defensemen,69,,,,Penticton,BCHL,American-Intl
+,37,"Stella, Evan",Jr,5-10,180,5/11/2001,"Karlstad, Sweden",Defensemen,70,,,,Dubuque,USHL,American-Intl
+,16,"Amousse, Andrew",So,6-3,215,7/16/2001,"Laval, Que.",Forwards,75,,,,Victoria,BCHL,American-Intl
+,14,"Andersson, Douglas",Fr,6-6,209,4/4/2002,"Ängelholm, Sweden",Forwards,78,,,,KRIF Hockey,SWE,American-Intl
+,27,"Barnes, Josh",So,5-10,175,9/27/2002,"Cornwall, Ont.",Forwards,70,,,,Des Moines,USHL,American-Intl
+,39,"Beljo, Dario",Fr,6-3,190,8/15/2002,"Sudbury, Ont.",Forwards,75,,,,Brooks,AJHL,American-Intl
+,19,"Biro, Jordan",Sr,5-8,160,8/10/2000,"Sherwood Park, Alb.",Forwards,68,,,,Colorado College,NCHC,American-Intl
+,13,"Dietrich, Grayson",So,6-2,190,12/18/2001,"Calgary, Alb.",Forwards,74,,,,Drumheller,AJHL,American-Intl
+,17,"Geschwind, Oscar",Jr,6-0,196,2/24/2001,"Karlstad, Sweden",Forwards,72,,,,Northern Michigan,CCHA,American-Intl
+,11,"Janhonen, Julius",Sr,6-1,180,3/5/1999,"Espoo, Finland",Forwards,73,,,,HIFK U20,Europe,American-Intl
+,3,"Jenuwine, Logan",Gr,6-3,205,5/15/1998,"Romeo, Mich.",Forwards,75,,,,Lake Superior State,CCHA,American-Intl
+,8,"Jones, Hunter",Fr,5-10,190,7/13/2002,"Andover, Minn.",Forwards,70,,,,Oklahoma,NAHL,American-Intl
+,22,"Khokhlachev, Timofei",So,6-4,220,11/6/2001,"Moskva, Russia",Forwards,76,,,,Shreveport,NAHL,American-Intl
+,29,"Lakoduk, Darwin",Sr,5-10,157,1/8/2000,"Edmonton, Alb.",Forwards,70,,,,Penticton,BCHL,American-Intl
+,28,"Lindberg, Alfred",Fr,5-11,185,1/28/2002,"Hallsberg, Sweden",Forwards,71,,,,New Mexico,NAHL,American-Intl
+,44,"Long, Austen",Gr,5-11,175,2/15/1998,"Minneapolis, Minn.",Forwards,71,,,,Omaha,USHL,American-Intl
+,9,"Longhi, Hunter",Fr,5-8,174,4/2/2002,"Collinsville, Ill.",Forwards,68,,,,Minot,NAHL,American-Intl
+,21,"Lundy, John",So,5-9,165,4/27/2001,"Brooklyn, N.Y.",Forwards,69,,,,Jamestown,NAHL,American-Intl
+,25,"Malinowski, Alexander",So,5-11,185,2/7/2001,"Linkoping, Sweden",Forwards,71,,,,Fairbnks,NAHL,American-Intl
+,10,"Manz, Dustin",Gr,5-10,188,9/21/1999,"Vanderbilt, Mich.",Forwards,70,,,,Lake Superior,CCHA,American-Intl
+,61,"McDonald, Casey",So,6-1,187,5/10/2001,"Plenty, Sask.",Forwards,73,,,,Penticton,BCHL,American-Intl
+,18,"Pennanen, Akseli",Fr,6-3,198,1/19/2003,"Espoo, Finland",Forwards,75,,,,Jukurit U20,FIN,American-Intl
+,55,"Rylance, Brett",So,5-9,167,8/3/2001,"Edmonton, Alb.",Forwards,69,,,,Chilliwack,BCHL,American-Intl
+,26,"Sacratini, Jake",So,5-9,172,5/19/2001,"Pincourt, Que.",Forwards,69,,,,Notre Dame,SJHL,American-Intl
+,24,"Wells, Blake",Gr,6-2,201,8/2/1999,"Blackie, Alb.",Forwards,74,,,,Mass.-Lowell,HEA,American-Intl
+,1,"Aslanidis, Alexandros",Sr,6-5,205,1/20/2001,"Morristown, N.J.",Goaltenders,77,,,,Western Michigan,NCHC,American-Intl
+,33,"Grainer, Peyton",Fr,6-1,179,3/12/2002,"Detroit, Mich.",Goaltenders,73,,,,Jersey,USPHL NCDC,American-Intl
+,30,"Hudson, Cole",Sr,6-1,175,3/13/2000,"Tonawanda, N.Y.",Goaltenders,73,,,,Vermont,HEA,American-Intl
+,34,"Wallstrom, Nils",Fr,6-3,185,10/15/2003,"Skellefteå, Sweden",Goaltenders,75,,,,Kenai River,NAHL,American-Intl
+,20,"Centrella, Andrew",Fr,5-9,185,1/29/2004,"Philadelphia, Pa.",Defensemen,69,,,,Youngstown,USHL,Providence
+,27,"Harding, Taige",Jr,6-7,238,1/3/2002,"St. Albert, Alb.",Defensemen,79,2021,CHI,3,Fort McMurray,AJHL,Providence
+,25,"Kelley, Connor",Sr,6-2,195,1/30/2002,"Maple Grove, Minn.",Defensemen,74,2021,CHI,7,Minnesota Duluth,NCHC,Providence
+,2,"Krys, Luke",Fr,6-2,185,9/27/2000,"Ridgefield, Conn.",Defensemen,74,,,,Brown,ECAC,Providence
+,24,"May, Austen",So,5-11,160,5/19/2003,"Woodhaven, Mich.",Defensemen,71,,,,Sioux Falls,USHL,Providence
+,6,"McDonald, Cam",Gr,5-9,175,2/3/2001,"Eagle River, Alaska",Defensemen,69,,,,Muskegon,USHL,Providence
+,4,"Richard, Guillaume",Jr,6-2,171,2/10/2003,"Québec, Que.",Defensemen,74,2021,CBJ,4,Tri-City,USHL,Providence
+,29,"Schimek, Will",Jr,6-2,207,5/22/2001,"Mendota Heights, Minn.",Defensemen,74,,,,Sioux Falls,USHL,Providence
+,19,"Adams, Tanner",Fr,5-11,184,9/2/2005,"Northport, N.Y.",Forwards,71,,,,Tri-City,USHL,Providence
+,10,"Berard, Brady",So,6-1,190,2/26/2004,"East Greenwich, R.I.",Forwards,73,,,,USA U-18 Team,NTDP,Providence
+,28,"Chmelar, Jaroslav",So,6-5,202,7/20/2003,"Nove Mesto nad Metuji, Czech Republic",Forwards,77,,,,Jokerit,Finland,Providence
+,8,"Duran, Riley",Jr,6-2,185,1/25/2002,"Woburn, Mass.",Forwards,74,2020,BOS,6,Youngstown,USHL,Providence
+,18,"Engelbert, Jamie",Gr,6-4,205,6/21/2000,"Cobourg, Ont.",Forwards,76,,,,Cobourg,OJHL,Providence
+,11,"Gamache, Graham",Fr,5-11,182,6/11/2002,"Edmonton, Alb.",Forwards,71,,,,Tri-City,USHL,Providence
+,21,"Hubbarde, Matt",Sr,6-1,190,4/15/2000,"Pickering, Ont.",Forwards,73,,,,Dartmouth,ECAC,Providence
+,14,"Kiefiuk, Cal",Gr,5-10,185,2/28/2000,"Macomb, Mich.",Forwards,70,,,,Massachusetts,HEA,Providence
+,22,"Levens, Clint",Fr,6-1,189,6/19/2003,"Windermere, Fla.",Forwards,73,,,,Sioux Falls,USHL,Providence
+,9,"Malinoski, Hudson",Fr,6-0,171,5/19/2004,"Saskatoon, Sask.",Forwards,72,2023,TOR,5,Brooks,AJHL,Providence
+,13,"Needham, Craig",Gr,5-10,181,3/31/1999,"Medford, Mass.",Forwards,70,,,,Youngstown,USHL,Providence
+,12,"Poisson, Nick",Sr,5-11,190,8/15/2001,"Vancouver, B.C.",Forwards,71,,,,Prince George,BCHL,Providence
+,23,"Schimek, Bennett",So,6-0,189,4/15/2003,"Mendota Heights, Minn.",Forwards,72,,,,Sioux City,USHL,Providence
+,15,"Valente, Liam",So,5-11,185,5/23/2003,"Märsta, Sweden",Forwards,71,,,,Linköping,Sweden,Providence
+,17,"Yoder, Chase",Sr,5-11,185,5/28/2002,"Fairview, Texas",Forwards,71,2020,PIT,6,USA U-18 Team,NTDP,Providence
+,33,"Brännman, Marcus",Fr,6-0,172,4/6/2003,"Bromma, Sweden",Goaltenders,72,,,,Dubuque,USHL,Providence
+,1,"Driscoll, John",Jr,6-0,171,4/9/2000,"Huntley, Ill.",Goaltenders,72,,,,Northeast,NA3HL,Providence
+,35,"Svedebäck, Philip",So,6-3,208,5/28/2002,"Stockholm, Sweden",Goaltenders,75,,,,Dubuque,USHL,Providence
+,16,"Flynn, Jake",Gr,6-0,180,5/26/2001,"Bridgewater, Mass.",Defensemen,72,,,,Thayer Academy,PREP,Connecticut
+,6,"Lucas, Andrew",Sr,6-0,179,2/5/1999,"Alexandria, Va.",Defensemen,72,,,,Brooks,AJHL,Connecticut
+,15,"Messineo, Tom",So,6-0,190,5/2/2002,"Westwood, Mass.",Defensemen,72,,,,Chilliwack,BCHL,Connecticut
+,2,"Pascucci, Jack",So,6-2,195,2/15/2002,"North Andover, Mass.",Defensemen,74,,,,Des Moines,USHL,Connecticut
+,27,"Rees, Harrison",Gr,6-2,175,3/19/2000,"Oakville, Ont.",Defensemen,74,,,,North York,OJHL,Connecticut
+,34,"Simpson, Owen",Fr,6-5,190,7/1/2003,"Toronto, Ont.",Defensemen,77,,,,Penticton,BCHL,Connecticut
+,18,"Spetz, John",Sr,5-10,195,12/1/1999,"Oak Ridge, N.J.",Defensemen,70,,,,Chicago,USHL,Connecticut
+,5,"Swift, Bauer",Fr,6-0,185,6/17/2002,"West Hartford, Conn.",Defensemen,72,,,,Lone Star,NAHL,Connecticut
+,19,"Black, Jake",So,5-11,180,3/5/2002,"Pomfret, Conn.",Forwards,71,,,,Johnstown,NAHL,Connecticut
+,20,"Bradley, Chase",Jr,5-11,180,1/9/2002,"St. Louis, Mo.",Forwards,71,2020,DET,7,Sioux City,USHL,Connecticut
+,21,"Capone, Nick",Sr,6-2,205,12/17/2001,"East Haven, Conn.",Forwards,74,2020,TBL,6,Tri-City,USHL,Connecticut
+,24,"D'Agostino, Mark",So,6-0,180,5/6/2001,"North Branford, Conn.",Forwards,72,,,,Powell River,BCHL,Connecticut
+,12,"Flynn, Oliver",Fr,6-1,210,6/13/2003,"Wolcott, Conn.",Forwards,73,,,,Madison,USHL,Connecticut
+,10,"Fraser, Tristan",So,6-0,190,11/13/2001,"West Vancouver, B.C.",Forwards,72,,,,Nanaimo,BCHL,Connecticut
+,23,"Heaslip, Tabor",So,5-9,175,12/17/2001,"Fort Worth, Texas",Forwards,69,,,,Sioux City,USHL,Connecticut
+,7,"Karpman, Huston",So,5-11,200,2/7/2001,"Manhattan Beach, Calif.",Forwards,71,,,,Minot,NAHL,Connecticut
+,25,"Mahshie, Ryan",Gr,6-2,205,4/5/1999,"Stoney Creek, Ont.",Forwards,74,,,,Rensellaer,ECAC,Connecticut
+,8,"Muldowney, Joey",Fr,5-9,160,6/5/2004,"Lake View, N.Y.",Forwards,69,2022,SJS,6,Des Moines,USHL,Connecticut
+,17,"Percival, Jake",So,5-10,180,2/11/2002,"Avon, Conn.",Forwards,70,,,,Cedar Rapids,USHL,Connecticut
+,11,"Richard, Jake",Fr,6-1,190,8/15/2004,"Jacksonville, Fla.",Forwards,73,,,,Tri-City,USHL,Connecticut
+,13,"Salminen, Samu",So,6-3,190,4/9/2003,"Helsinki, Finland",Forwards,75,2021,NJD,3,Jokerit U20,SM-saria U20,Connecticut
+,22,"Schandor, Hudson",Sr,5-9,175,9/29/2000,"North Vancouver, B.C.",Forwards,69,,,,Surrey,BCHL,Connecticut
+,9,"Tattle, Ryan",So,5-10,180,9/7/2001,"Port Moody, B.C.",Forwards,70,,,,Coquitlam,BCHL,Connecticut
+,29,"Veilleux, Jake",Jr,6-0,185,1/19/2000,"South Windsor, Conn.",Forwards,72,,,,Victoria,BCHL,Connecticut
+,71,"Wood, Matthew",So,6-3,190,2/6/2005,"Lethbridge, Alb.",Forwards,75,2023,NSH,1,Victoria,BCHL,Connecticut
+,1,"Haider, Ethan",Gr,6-2,200,9/4/2001,"St. Louis Park, Minn.",Goaltenders,74,2019,NSH,5,Clarkson,ECAC,Connecticut
+,31,"Pasquale, Matt",Sr,6-2,190,10/6/2000,"North Reading, Mass.",Goaltenders,74,,,,Northeast,NAHL,Connecticut
+,30,"Sergeev, Arsenii",So,6-3,195,12/16/2002,"Yaroslavl, Russia",Goaltenders,75,2021,CGY,7,Tri-City,USHL,Connecticut
+,4,"Banquier, Charles",Fr,6-2,200,10/6/2002,"Oakville, Ont.",Defensemen,74,,,,Prince George Spruce Kings,,Stonehill
+,55,"Campione, Dominick",Fr,5-11,154,11/25/2002,"Kohler, Wis.",Defensemen,71,,,,Brooks Bandits,,Stonehill
+,21,"Carlstrom, Devon",Fr,6-3,185,3/5/2002,"Palm Beach Gardens, Fla.",Defensemen,75,,,,Aberdeen Wings,,Stonehill
+,5,"Davies, Ryan",So,5-10,179,3/27/2001,"Arlington, Mass.",Defensemen,70,,,,Valley Jr. Warriors,,Stonehill
+,7,"Gaudette, Cameron",Jr,6-1,190,6/1/2000,"Braintree, Mass.",Defensemen,73,,,,Northeastern,HEA,Stonehill
+,11,"Hastings, Hunter",So,6-1,195,2/7/2002,"Scottsdale, Ariz.",Defensemen,73,,,,New Mexico Ice Wolves,,Stonehill
+,2,"Japchen, Greg",So,6-4,205,12/17/2001,"Doylestown, Pa.",Defensemen,76,,,,Union,ECAC,Stonehill
+,8,"Mannion, Cam",So,6-2,210,10/31/2001,"Dorchester, Mass.",Defensemen,74,,,,Thayer Academy,,Stonehill
+,13,"Martignetti, Michael",So,5-11,185,3/13/2002,"Winchester, Mass.",Defensemen,71,,,,Worcester Railers,,Stonehill
+,16,"Shemligian, Jack",So,6-0,190,4/22/2003,"Southborough, Mass.",Defensemen,72,,,,East Coast,,Stonehill
+,3,"Tertyshny, Alexander",So,6-0,175,1/3/2000,"Philadelphia, Pa.",Defensemen,72,,,,American Int'l,AHA,Stonehill
+,44,"Tripp, William",So,5-11,160,5/17/2002,"Lakeville, Mass.",Defensemen,71,,,,Cape Cod,,Stonehill
+,17,"Allen, Matt",Gr,6-2,187,3/14/1999,"Smithfield, R.I.",Forwards,74,,,,Union,ECAC,Stonehill
+,23,"Barker, Justin",Fr,6-1,183,11/7/2002,"Calgary, Alb.",Forwards,73,,,,Calgary Canucks,,Stonehill
+,22,"Cady, Jake",So,5-9,190,7/4/2001,"Raynham, Mass.",Forwards,69,,,,Tabor Academy,,Stonehill
+,27,"Collins, Cameron",So,5-10,175,9/4/2002,"Raynham, Mass.",Forwards,70,,,,Cape Cod Whalers,,Stonehill
+,18,"FitzPatrick, Nolan",So,6-0,185,6/25/2000,"Bridgewater, Mass.",Forwards,72,,,,Thayer Academy,,Stonehill
+,24,"Galante, Anthony",Fr,5-11,175,4/18/2002,"Morganville, N.J.",Forwards,71,,,,Johnstown Tomahawks,,Stonehill
+,10,"Grainda, Joseph",Fr,6-3,210,8/1/2002,"Carmel, Ind.",Forwards,75,,,,Chippewa Steel,,Stonehill
+,37,"Heath, Kyle",So,5-8,160,4/28/2002,"West Bridgewater, Mass.",Forwards,68,,,,Little Bruins,,Stonehill
+,19,"Ireland, Frank",Jr,5-10,183,2/6/2001,"South Easton, Mass.",Forwards,70,,,,Valley Jr. Warriors,,Stonehill
+,14,"Pineo, Max",So,5-10,175,8/7/2000,"North Reading, Mass.",Forwards,70,,,,Tilton School,,Stonehill
+,9,"Rapalje, Carter",So,5-10,170,8/10/2001,"Colorado Springs, Colo.",Forwards,70,,,,North Iowa,,Stonehill
+,12,"Ronayne, Conor",Fr,5-11,179,7/29/2002,"Plymouth, Mich.",Forwards,71,,,,Smiths Falls Bears,,Stonehill
+,20,"Schreifels, Henri",Sr,6-1,195,7/1/2000,"Agoura Hills, Calif.",Forwards,73,,,,Rensselaer,ECAC,Stonehill
+,25,"Schwenninger, Dean",So,5-9,170,3/5/2001,"Greifensee Zurich, Switzerland",Forwards,69,,,,EV Zug Organization,,Stonehill
+,35,"FitzPatrick, Gavin",So,6-0,185,1/9/2002,"Bridgewater, Mass.",Goaltenders,72,,,,South Shore,,Stonehill
+,30,"Ghaemi, Dylan",So,6-4,200,12/30/2001,"Fairport, N.Y.",Goaltenders,76,,,,Jarvso IK Hockeytrean,,Stonehill
+,31,"Meilun, Dylan",So,6-5,220,11/21/2001,"Winnipeg, MB",Goaltenders,77,,,,Wisconsin-Superior,NCAA DIII,Stonehill
+,15,"Bengtsson, Jacob",Sr,6-3,197,5/8/1999,"Stockholm, Sweden",Defensemen,75,,,,Waterloo,USHL,Boston-College
+,5,"Fortescue, Drew",Fr,6-2,170,4/28/2005,"Pearl River, N.Y.",Defensemen,74,2023,NYR,3,USNTDP,USHL,Boston-College
+,8,"Gustafsson, Lukas",So,5-10,190,12/16/2002,"Alpharetta, Ga.",Defensemen,70,,,,Chicago,USHL,Boston-College
+,7,"Hreschuk, Aidan",Jr,5-11,178,2/19/2003,"Long Beach, Calif.",Defensemen,71,2021,CAR,3,USNTDP,USHL,Boston-College
+,3,"Joyce, Nolan",Fr,6-1,192,9/25/2003,"Dedham, Mass.",Defensemen,73,,,,Chicago,USHL,Boston-College
+,4,"Leddy, Charlie",So,6-1,185,1/11/2004,"Fairfield, Conn.",Defensemen,73,2022,NJD,4,USNTDP,USHL,Boston-College
+,17,"Minnetian, Aram",Fr,5-11,174,3/19/2005,"Woodcliff Lake, N.J.",Defensemen,71,2023,DAL,4,USNTDP,USHL,Boston-College
+,2,"Powell, Eamon",Sr,5-11,173,5/10/2002,"Marcellus, N.Y.",Defensemen,71,2020,TBL,4,USNTDP,USHL,Boston-College
+,11,"Ambrosio, Colby",Sr,5-9,174,8/7/2002,"Welland, Ont.",Forwards,69,2020,COL,4,Tri-City,USHL,Boston-College
+,25,"Armstrong, Jamie",Gr,6-1,190,8/7/1998,"Warwick, R.I.",Forwards,73,,,,Boston University,HEA,Boston-College
+,18,"Davey, Paul",So,6-2,181,1/11/2003,"Greenwich, Conn.",Forwards,74,,,,Des Moines,USHL,Boston-College
+,28,"Delay, Timmy",Fr,6-1,170,6/16/2003,"Hingham, Mass.",Forwards,73,,,,Chiliwack,BCHL,Boston-College
+,24,"Gasseau, Andre",So,6-4,209,7/3/2003,"Garden Grove, Calif.",Forwards,76,,,,Fargo,USHL,Boston-College
+,19,"Gauthier, Cutter",So,6-2,201,1/19/2004,"Skellefteå, Sweden",Forwards,74,2022,PHI,1,USNTDP,USHL,Boston-College
+,21,"Jellvik, Oskar",So,5-11,174,2/8/2003,"Täby, Sweden",Forwards,71,,,,Djurgårdens IF,SHL,Boston-College
+,27,"Joyce, Connor",Jr,6-0,168,7/6/2001,"Dedham, Mass.",Forwards,72,,,,Jr. Rangers,NCDC,Boston-College
+,9,"Leonard, Ryan",Fr,6-0,192,1/21/2005,"Amherst, Mass.",Forwards,72,2023,WSH,1,USNTDP,USHL,Boston-College
+,13,"Malone, Jack",Gr,6-1,196,10/13/2000,"Madison, N.J.",Forwards,73,,,,Cornell,ECAC,Boston-College
+,34,"Perreault, Gabe",Fr,5-11,165,5/7/2005,"Sherbrooke, Que.",Forwards,71,2023,NYR,1,USNTDP U-18,,Boston-College
+,12,"Posma, Mike",Jr,6-0,183,12/4/2001,"Pomona, N.Y.",Forwards,72,,,,Omaha,USHL,Boston-College
+,14,"Shamburger, Gentry",Sr,6-0,196,9/29/2000,"Atlanta, Ga.",Forwards,72,,,,Avon Old Farms,PREP,Boston-College
+,6,"Smith, Will",Fr,6-0,181,3/17/2005,"Lexington, Mass.",Forwards,72,2023,SJS,1,USNTDP,USHL,Boston-College
+,23,"Traeger, Will",So,5-7,165,4/10/2002,"Mendota Heights, Minn.",Forwards,67,,,,Jersey,NCDC,Boston-College
+,22,"Vote, Will",Fr,5-8,161,2/22/2005,"Arlington, Mass.",Forwards,68,,,,USNTDP,USHL,Boston-College
+,1,"Fowler, Jacob",Fr,6-2,214,11/24/2004,"Melbourne, Fla.",Goaltenders,74,2023,MTL,3,Youngstown,USHL,Boston-College
+,30,"Korec, Jan",Fr,6-1,185,9/28/2004,"Bratislava, Slovakia",Goaltenders,73,,,,Des Moines,USHL,Boston-College
+,31,"Musielak, Alex",Fr,6-4,180,7/23/2003,"Buffalo, N.Y.",Goaltenders,76,,,,Kemptville,CCHL,Boston-College
+,8,"Brickey, Scooter",Gr,6-4,215,5/27/1999,"Burtchville, Mich.",Defensemen,76,,,,Des Moines,USHL,Ohio-State
+,93,"Carfagna, Damien",So,6-0,185,12/12/2002,"Wood Ridge, N.J.",Defensemen,72,,,,New Hampshire,HEA,Ohio-State
+,7,"Johnson, Brent",Jr,6-0,185,3/20/2003,"Dallas, Texas",Defensemen,72,2021,WSH,3,North Dakota,NCHC,Ohio-State
+,6,"Klee, Mason",Gr,6-2,195,10/4/1999,"Morrison, Colo.",Defensemen,74,,,,Rensselaer,ECAC,Ohio-State
+,4,"Larkin, John",So,6-2,190,1/26/2001,"Detroit, Mich.",Defensemen,74,,,,Austin,NAHL,Ohio-State
+,2,"McBrayer, Nathan",Fr,6-0,195,5/11/2004,"Columbus, Ohio",Defensemen,72,,,,Muskegon,USHL,Ohio-State
+,28,"Smith, William",Fr,6-1,195,3/29/2003,"Toronto, Ont.",Defensemen,73,,,,Omaha,USHL,Ohio-State
+,44,"Wallberg, Theo",Fr,6-5,203,12/4/2003,"Stockhom, Sweden",Defensemen,77,,,,Dubuque,USHL,Ohio-State
+,12,"Brown, Caden",Jr,5-11,185,6/22/2003,"Chesterfield, Mo.",Forwards,71,,,,Wisconsin,B10,Ohio-State
+,23,"Burnside, Davis",So,6-0,176,9/22/2003,"La Grange, Ill.",Forwards,72,,,,Dubuque,USHL,Ohio-State
+,20,"Cassidy, Matt",Gr,6-0,187,7/31/1999,"Medford, N.J.",Forwards,72,,,,Quinnipiac,ECAC,Ohio-State
+,25,"Deckhut, Sam",Fr,5-11,195,4/2/2002,"San Diego, Calif.",Forwards,71,,,,Sioux City,USHL,Ohio-State
+,91,"Dunlap, Jake",So,5-9,175,12/5/2001,"Windham, N.H.",Forwards,69,,,,New Hamphire,HEA,Ohio-State
+,21,"Dunlap, Joe",Sr,6-0,185,11/30/1999,"Windham, N.H.",Forwards,72,,,,Fargo,USHL,Ohio-State
+,18,"Gildon, Michael",Sr,6-2,196,6/21/2001,"Plano, Texas",Forwards,74,,,,USA U-18 Team,NTDP,Ohio-State
+,29,"Gordon, Ryan",Fr,6-0,185,5/5/2002,"Duluth, Ga.",Forwards,72,,,,Sioux Falls,USHL,Ohio-State
+,71,"Guzzo, Patrick",Sr,6-3,198,11/27/2001,"Marysville, Mich.",Forwards,75,,,,Waterloo,USHL,Ohio-State
+,19,"Halliday, Stephen",So,6-4,210,7/2/2002,"Ajax, Ont.",Forwards,76,2022,OTT,4,Dubuque,USHL,Ohio-State
+,9,"Hughes, Riley",Gr,6-2,200,6/27/2000,"Westwood, Mass.",Forwards,74,2018,NYR,7,Northeastern,HEA,Ohio-State
+,14,"Messina, Dalton",Gr,5-11,195,3/29/1998,"Macomb, Mich.",Forwards,71,,,,Youngstown,USHL,Ohio-State
+,16,"Montes, Max",Fr,5-8,165,9/1/2003,"Waukesha, Wis.",Forwards,68,,,,Dubuque,USHL,Ohio-State
+,15,"Thiesing, Cam",Jr,6-0,184,3/26/2001,"Franklin, Tenn.",Forwards,72,,,,Green Bay,USHL,Ohio-State
+,10,"Weis, Thomas",Fr,5-10,180,2/8/2002,"Madison, Wis.",Forwards,70,,,,Madison,USHL,Ohio-State
+,60,"Eberly, Kristoffer",Fr,6-4,208,12/10/2002,"Pinckney, Mich.",Goaltenders,76,,,,Green Bay,USHL,Ohio-State
+,34,"Herbst, Reilly",Jr,6-0,185,2/17/2000,"Niwot, Colo.",Goaltenders,72,,,,Omaha,USHL,Ohio-State
+,1,"Terness, Logan",Sr,6-0,175,9/18/2002,"Burnaby, B.C.",Goaltenders,72,,,,Connecticut,HEA,Ohio-State
+,3,"Aman, Casey",Fr,6-0,185,1/15/2003,"Johnstown, Pa.",Defensemen,72,,,,Powell River,BCHL,Penn-State
+,5,"Berger, Christian",Sr,6-0,182,5/22/2000,"St. Louis, Mo.",Defensemen,72,,,,Omaha,USHL,Penn-State
+,24,"Crespo, Jarod",So,6-0,190,4/30/2002,"Easthampton Township, N.J.",Defensemen,72,,,,Green Bay,USHL,Penn-State
+,6,"Dowd, Jr., Jimmy",Sr,5-9,165,7/19/2000,"Pt. Pleasant, N.J.",Defensemen,69,,,,Chicago,USHL,Penn-State
+,25,"Gratton, Dylan",So,6-0,180,2/25/2003,"Pottstown, Pa.",Defensemen,72,,,,Sioux City,USHL,Penn-State
+,4,"Mack, Simon",Jr,5-10,180,3/29/2001,"Brockville, Ont.",Defensemen,70,,,,Des Moines,USHL,Penn-State
+,22,"Palocsik, Tanner",Gr,5-11,190,5/26/1999,"Aliquippa, Pa.",Defensemen,71,,,,Dartmouth,ECAC,Penn-State
+,2,"Schade, Carter",So,5-11,185,3/7/2003,"Mars, Pa.",Defensemen,71,,,,Lincoln,USHL,Penn-State
+,27,"Bouquot, Jacques",Gr,6-1,185,2/10/2000,"South Windsor, Conn.",Forwards,73,,,,Vermont,HEA,Penn-State
+,14,"DiMarsico, Matt",Fr,6-0,180,1/7/2004,"Wexford, Pa.",Forwards,72,,,,Green Bay,USHL,Penn-State
+,19,"Dowiak, Dane",Fr,5-10,180,3/27/2002,"Wexford, Pa.",Forwards,70,,,,Tri-City,USHL,Penn-State
+,7,"Dyck, Carson",Jr,6-0,180,6/7/2001,"Lethbridge, Alb.",Forwards,72,,,,Okotoks,AJHL,Penn-State
+,13,"Dzhaniyev, Danny",Jr,5-4,145,9/15/2002,"Brooklyn, N.Y.",Forwards,64,,,,Dubuque,USHL,Penn-State
+,18,"Fink, Aiden",Fr,5-10,160,11/24/2004,"Calgary, Alb.",Forwards,70,2023,NSH,7,Brooks,AJHL,Penn-State
+,11,"Kirwan, Ryan",Jr,6-2,195,2/27/2002,"DeWitt, N.Y.",Forwards,74,,,,Green Bay,USHL,Penn-State
+,9,"Lamppa, Xander",Sr,6-1,205,4/30/2000,"Rochester, Minn.",Forwards,73,,,,Waterloo,USHL,Penn-State
+,29,"Laubach, Reese",Fr,6-0,170,11/20/2003,"San Jose, Calif.",Forwards,72,2022,SJS,7,Omaha,USHL,Penn-State
+,16,"Lugris, Dylan",Jr,6-2,185,6/23/2001,"Tampa, Fla.",Forwards,74,,,,Jersey,NCDC,Penn-State
+,17,"McLane, Chase",Sr,6-2,185,4/22/2000,"Trenton, Mich.",Forwards,74,2020,NSH,7,Tri-City,USHL,Penn-State
+,23,"Paquette, Tyler",Sr,6-3,200,3/18/2001,"Collegeville, Pa.",Forwards,75,,,,Green Bay,USHL,Penn-State
+,15,"Sarlo, Christian",Sr,6-0,190,6/29/2001,"Lynbrook, N.J.",Forwards,72,,,,Lincoln,USHL,Penn-State
+,12,"Schoen, Ben",Jr,5-8,150,5/18/2002,"Toledo, Ohio",Forwards,68,,,,Youngstown,USHL,Penn-State
+,8,"Servagno, Alex",So,5-9,170,6/16/2002,"Gibsonia, Pa.",Forwards,69,,,,Green Bay,USHL,Penn-State
+,30,"Dorr, Doug",Sr,6-4,200,5/7/1999,"Pittsburgh, Pa.",Goaltenders,76,,,,Youngstown,USHL,Penn-State
+,33,"Grannan, Noah",So,6-2,190,4/27/2002,"Germantown, Wis.",Goaltenders,74,,,,Sioux Falls,USHL,Penn-State
+,31,"Souliere, Liam",Sr,5-11,180,3/16/1999,"Brampton, Ont.",Goaltenders,71,,,,Victoria,BCHL,Penn-State
+,18,"Anderson, Jack",So,6-6,225,11/14/2002,"St. Louis, Mo.",Defensemen,78,,,,El Paso,NAHL,Lindenwood
+,28,"Dunn, Kabore",So,6-2,180,11/10/2001,"Mill Bay, B.C.",Defensemen,74,,,,Maine,HEA,Lindenwood
+,16,"Price, Caleb",Jr,5-10,165,3/31/2000,"Hooksett, N.H.",Defensemen,70,,,,New Jersey,NAHL,Lindenwood
+,15,"Prouty, Joe",So,6-0,181,11/29/2001,"Apple Valley, Minn.",Defensemen,72,,,,New Mexico,NAHL,Lindenwood
+,22,"Rons, Brenden",Gr,6-5,220,3/3/1998,"Farmington Hills, Mich.",Defensemen,77,,,,Ferris State,CCHA,Lindenwood
+,3,"Ruscheinski, Kieran",So,6-6,209,3/5/2001,"Calgary, Alb.",Defensemen,78,,,,Salmon Arm,BCHL,Lindenwood
+,2,"Teleki, Cole",Fr,6-2,194,3/13/2002,"Dallas, Texas",Defensemen,74,,,,Oklahoma,NAHL,Lindenwood
+,14,"Wilkie, Coltan",So,5-8,181,4/3/2000,"Elkhorn, Neb.",Defensemen,68,,,,Okotoks,AJHL,Lindenwood
+,5,"Yakimchuk, Aiden",Jr,6-4,205,5/14/2000,"Montréal, Que.",Defensemen,76,,,,Drumheller,AJHL,Lindenwood
+,10,"Allard, Mitch",Jr,6-1,210,1/27/2000,"Shelby Township, Mich.",Forwards,73,,,,Minnesota,NAHL,Lindenwood
+,13,"Aughe, Zachary",Sr,6-3,205,2/18/2000,"Clarkston, Mich.",Forwards,75,,,,Maine,HEA,Lindenwood
+,24,"Conquest, Adam",Gr,6-0,190,5/10/2000,"Brighton, Mich.",Forwards,72,,,,Bowling Green,CCHA,Lindenwood
+,6,"DeStefani, Cade",So,6-2,185,6/21/2001,"Bedford, N.H.",Forwards,74,,,,Janesville,NAHL,Lindenwood
+,25,"Fraser, Austin",Fr,6-2,205,8/24/2003,"West Vancouver, B.C.",Forwards,74,,,,Prince George,BCHL,Lindenwood
+,27,"Gagnon, David",Jr,6-0,181,4/19/2000,"Halifax, N.S.",Forwards,72,,,,Truro,MJAHL,Lindenwood
+,8,"Jeffers, Kyle",Jr,5-10,165,1/6/1999,"Winter Springs, Fla.",Forwards,70,,,,American Int'l,AHA,Lindenwood
+,9,"Kuzma, Drew",So,6-6,218,11/13/2002,"St. Albert, Alb.",Forwards,78,,,,Flin Flon,SJHL,Lindenwood
+,23,"Lavelle, Shane",So,6-1,180,8/16/2001,"Chaska, Minn.",Forwards,73,,,,Cowichan Valley,BCHL,Lindenwood
+,11,"Mercier, Jaeden",Fr,5-11,170,2/12/2002,"Saskatoon, Sask.",Forwards,71,,,,Flin Flon,SJHL,Lindenwood
+,17,"Schmiedlin, Patrick",Fr,6-1,185,3/20/2002,"Culver, Ind.",Forwards,73,,,,Maine,NAHL,Lindenwood
+,21,"Southgate, Jake",Fr,5-11,185,11/4/2002,"North Battleford, Sask.",Forwards,71,,,,Battleford,SJHL,Lindenwood
+,19,"Sterzer, Caige",Jr,6-5,216,8/8/2000,"Kimberley, B.C.",Forwards,77,,,,Lone Star,NAHL,Lindenwood
+,12,"Zielke, Ethan",Fr,5-10,180,8/3/2003,"Calgary, Alb.",Forwards,70,,,,Humboldt,SJHL,Lindenwood
+,1,"Burnham, Trent",Jr,6-0,165,3/27/2000,"Eagle River, Alaska",Goaltenders,72,,,,Sioux Falls,USHL,Lindenwood
+,30,"Johnson, Adam",Fr,6-3,185,10/15/2002,"Chicago, Ill.",Goaltenders,75,,,,Johnstown,NAHL,Lindenwood
+,31,"Syverson, Matthew",Fr,6-4,185,4/22/2003,"Apple Valley, Minn.",Goaltenders,76,,,,,,Lindenwood
+,6,"Bevilacqua, Michael",Fr,6-0,187,1/26/2003,"Hamburg, N.Y.",Defensemen,72,,,,Des Moines,USHL,Bowling-Green
+,26,"Blake, Jack",So,6-1,189,9/21/2001,"Manhattan Beach, Calif.",Defensemen,73,,,,Oakville,OJHL,Bowling-Green
+,27,"McKinley, Breck",Fr,5-9,175,10/8/2003,"St. Albert, Alb.",Defensemen,69,,,,Spruce Grove,AJHL,Bowling-Green
+,14,"Norris, Dalton",So,5-10,185,9/28/2001,"Oxford, Mich.",Defensemen,70,,,,Lincoln,USHL,Bowling-Green
+,4,"O'Hanisain, Nick",Fr,5-11,181,2/9/2002,"Detroit, Mich.",Defensemen,71,,,,Minot,NAHL,Bowling-Green
+,24,"Parker, Eric",Jr,6-2,174,1/15/2001,"Calgary, Alb.",Defensemen,74,,,,Okotoks,AJHL,Bowling-Green
+,25,"Pasanen, Tommy",Sr,6-5,218,7/30/2001,"Schweinfurt, Germany",Defensemen,77,,,,Clarkson,ECAC,Bowling-Green
+,5,"Stjernberg, Gustav",Fr,6-4,208,10/12/2002,"Enebyberg, Sweden",Defensemen,76,,,,Des Moines,USHL,Bowling-Green
+,2,"Wozney, Ben",Jr,6-2,194,6/15/2001,"Richmond, B.C.",Defensemen,74,,,,Penticton,BCHL,Bowling-Green
+,23,"Doran, Ben",Fr,5-11,177,2/27/2003,"Chesterfield, Mo.",Forwards,71,,,,Sioux City,USHL,Bowling-Green
+,18,"Emerson, Quinn",So,5-11,185,3/12/2001,"Manhattan Beach, Calif.",Forwards,71,,,,Wenatchee,BCHL,Bowling-Green
+,21,"Fyten, Seth",Sr,6-2,200,11/23/2000,"Didsbury, Alb.",Forwards,74,,,,Spruce Grove,AJHL,Bowling-Green
+,28,"Grant, Jaden",So,6-2,187,9/2/2002,"White Lake, Mich.",Forwards,74,,,,Youngstown,USHL,Bowling-Green
+,15,"Kersten, Spencer",Gr,5-10,185,5/16/2000,"Waterloo, Ont.",Forwards,70,,,,Princeton,ECAC,Bowling-Green
+,16,"Krieger, Brayden",Jr,6-0,180,2/9/2001,"Elora, Ont.",Forwards,72,,,,Brooks,AJHL,Bowling-Green
+,10,"Nodler, Josh",Gr,5-11,203,4/27/2001,"Oak Park, Mich.",Forwards,71,2019,CGY,5,Massachusetts,HEA,Bowling-Green
+,20,"O'Hara, Ryan",Jr,5-10,184,7/18/2001,"Oakville, Ont.",Forwards,70,,,,Waterloo,USHL,Bowling-Green
+,22,"Ozar, Owen",Jr,5-8,163,4/5/2000,"Prince Albert, Sask.",Forwards,68,,,,Denver,NCHC,Bowling-Green
+,13,"Pfoh, Brett",So,5-11,186,1/22/2002,"Port Moody, B.C.",Forwards,71,,,,Spruce Grove,AJHL,Bowling-Green
+,8,"Santa Juana, Brandon",Fr,5-8,173,8/5/2002,"Langley, B.C.",Forwards,68,,,,Salmon Arm,BCHL,Bowling-Green
+,17,"Scardina, Ethan",Sr,6-0,202,11/2/2000,"South Surrey, B.C.",Forwards,72,,,,Nanaimo,BCHL,Bowling-Green
+,7,"Schneider, Spencer",Jr,5-11,159,9/11/2000,"Lakeville, Minn.",Forwards,71,,,,Aberdeen,NAHL,Bowling-Green
+,29,"Waters, Brody",Fr,6-2,203,4/9/2002,"Heidelberg, Ont.",Forwards,74,,,,Nanaimo,BCHL,Bowling-Green
+,31,"Eigner, Pete",Jr,6-1,190,5/4/2002,"Bowling Green, Ohio",Goaltenders,73,,,,Tri-State,Midget AAA,Bowling-Green
+,35,"Evola, Salvatore",So,5-11,178,4/24/2001,"Rochester, Mich.",Goaltenders,71,,,,Johnstown,NAHL,Bowling-Green
+,34,"Moore, Cole",Fr,6-6,198,6/4/2003,"Toronto, Ont.",Goaltenders,78,,,,Aberdeen,NAHL,Bowling-Green
+,30,"Stoever, Christian",Jr,6-2,190,4/16/2000,"Northville, Mich.",Goaltenders,74,,,,New Jersey,NAHL,Bowling-Green
+,22,"Celebrini, Aiden",Fr,6-1,195,10/26/2004,"Vancouver, B.C.",Defensemen,73,2023,VAN,6,Brooks,AJHL,Boston-University
+,14,"Frechette, Mick",Fr,6-2,205,10/27/2003,"Weston, Mass.",Defensemen,74,,,,Dexter Southfield,,Boston-University
+,4,"Gallagher, Ty",Jr,6-0,190,3/6/2003,"Clarkston, Mich.",Defensemen,72,2021,BOS,7,USA U-18 Team,NTDP,Boston-University
+,20,"Hutson, Lane",So,5-10,155,2/14/2004,"Chicago, Ill.",Defensemen,70,2022,MTL,2,USA U-18 Team,NTDP,Boston-University
+,28,"Jarman, Thomas",Sr,6-3,200,4/9/2001,"Gibsonia, Pa.",Defensemen,75,,,,Maryland,NAHL,Boston-University
+,7,"McCarthy, Case",Gr,6-1,202,1/9/2001,"Clarence Center, N.Y.",Defensemen,73,2019,NJD,4,USA U-18 Team,NTDP,Boston-University
+,2,"McCarthy, Gavin",Fr,6-2,185,6/2/2005,"Clarence Center, N.Y.",Defensemen,74,2023,BUF,3,Muskegon,USHL,Boston-University
+,19,"Page, Jack",Jr,6-4,194,11/27/2001,"West Chester, Pa.",Defensemen,76,,,,New Jersey,NCDC,Boston-University
+,8,"Webber, Cade",Sr,6-7,215,1/5/2001,"Meadville, Pa.",Defensemen,79,2019,CAR,4,Penticton,BCHL,Boston-University
+,5,"Willander, Tom",Fr,6-1,179,2/9/2005,"Stockholm, Sweden",Defensemen,73,2023,VAN,1,Rögle BK,J20 Nationell,Boston-University
+,3,"Amonte, Tristan",Jr,6-0,177,2/1/2000,"Norwell, Mass.",Forwards,72,,,,Penticton Vees,BCHL,Boston-University
+,71,"Celebrini, Macklin",Fr,6-0,190,6/13/2006,"Vancouver, B.C.",Forwards,72,,,,Chicago,USHL,Boston-University
+,26,"Gorton, Jack",Fr,6-3,200,2/13/2002,"Granite Springs, N.Y.",Forwards,75,,,,Victoria,BCHL,Boston-University
+,9,"Greene, Ryan",So,6-1,180,10/21/2003,"Paradise, Newf.",Forwards,73,2022,CHI,2,Green Bay ,USHL,Boston-University
+,23,"Grimes, Doug",Fr,6-3,205,4/18/2002,"Brookline, Mass.",Forwards,75,,,,Lincoln,USHL,Boston-University
+,12,"Harvey, Jack",Fr,5-10,176,3/31/2003,"Stacy, Minn.",Forwards,70,2023,TBL,7,Chicago,USHL,Boston-University
+,27,"Hughes, Jack",Jr,6-0,170,11/2/2003,"Westwood, Mass.",Forwards,72,2022,LAK,2,Northeastern,HEA,Boston-University
+,17,"Hutson, Quinn",So,5-11,170,1/1/2002,"Chicago, Ill.",Forwards,71,,,,Muskegon,USHL,Boston-University
+,21,"Kaplan, Devin",So,6-3,204,1/10/2004,"Bridgewater, N.J.",Forwards,75,2022,PHI,3,USA U-18 Team,NTDP,Boston-University
+,18,"Lachance, Shane",Fr,6-5,218,8/30/2003,"Andover, Mass.",Forwards,77,,,,Youngstown,USHL,Boston-University
+,13,"Peterson, Dylan",Sr,6-4,203,1/8/2002,"Roseville, Calif.",Forwards,76,2020,STL,3,USA U-18 Team,NTDP,Boston-University
+,25,"Stevens, Sam",Gr,6-1,186,4/27/2000,"Montréal, Que.",Forwards,73,,,,Sioux Falls,USHL,Boston-University
+,11,"Tuch, Luke",Sr,6-2,210,3/7/2002,"Baldwinsville, N.Y.",Forwards,74,2020,MTL,2,USA U-18 Team,NTDP,Boston-University
+,16,"Wilmer, Jeremy",So,5-8,155,8/16/2003,"Rockville Centre, N.Y.",Forwards,68,,,,Tri-City,USHL,Boston-University
+,10,"Zabaneh, Nick",Sr,5-10,188,3/27/2001,"Toronto, Ont.",Forwards,70,,,,Green Bay,USHL,Boston-University
+,62,"Caron, Mathieu",Sr,6-0,192,3/29/2000,"Abbotsford, B.C.",Goaltenders,72,,,,Brown,ECAC,Boston-University
+,30,"Graham, Henry",Gr,6-0,185,7/25/2000,"Manhattan, N.Y.",Goaltenders,72,,,,Massachusetts,HEA,Boston-University
+,29,"Howard, Nick",Gr,6-0,210,2/1/1998,"Burlington, Mass.",Goaltenders,72,,,,Saint Anselm,,Boston-University
+,5,"Clement, Jack",Gr,6-4,200,6/9/1999,"Detroit, Mich.",Defensemen,76,,,,Des Moines,USHL,Miami
+,2,"Cox, Spencer",Jr,6-0,185,2/7/2001,"West Chester, Pa.",Defensemen,72,,,,Long Island,DI Independent,Miami
+,10,"Demsey, Zane",So,6-2,190,11/4/2001,"Harrison Township, Mich.",Defensemen,74,,,,Dubuque,USHL,Miami
+,7,"Drazner, Robby",Sr,6-1,195,2/13/2000,"Buffalo Grove, Ill.",Defensemen,73,,,,Nanaimo,BCHL,Miami
+,4,"Feenstra, Michael",So,6-3,195,4/3/2001,"Grand Haven, Mich.",Defensemen,75,,,,Dubuque,USHL,Miami
+,3,"Kumlin, Axel",So,6-1,195,2/23/2002,"Stockholm, Sweden",Defensemen,73,,,,Dubuque,USHL,Miami
+,27,"Moulton, Dylan",Sr,6-2,207,4/24/2001,"Nolensville, Tenn.",Defensemen,74,,,,Green Bay,USHL,Miami
+,16,"Rydqvist, Hampus",Sr,5-10,185,3/12/1999,"Göteborg, Sweden",Defensemen,70,,,,Maryland,NAHL,Miami
+,19,"Simanovičs, Rihards",Fr,6-3,205,10/7/2003,"Riga, Latvia",Defensemen,75,,,,Amarillo,NAHL,Miami
+,28,"Bajzer, Tanyon",Fr,6-1,180,8/25/2002,"Cleveland, Ohio",Forwards,73,,,,Odessa,NAHL,Miami
+,29,"Barbolini, Matthew",Sr,6-2,205,6/1/2000,"Williamsville, N.Y.",Forwards,74,,,,Lincoln,USHL,Miami
+,18,"Carogioiello, Frankie",So,5-10,173,6/21/2002,"Woodbridge, Ont.",Forwards,70,,,,Chilliwack,BCHL,Miami
+,14,"Daskas, Thomas",Sr,6-2,200,9/3/1999,"Rochester, Minn.",Forwards,74,,,,Air Force,AHA,Miami
+,13,"Dukovac, Max",So,6-2,182,2/19/2002,"Aurora, Ill.",Forwards,74,,,,Langley,BCHL,Miami
+,8,"Fletcher, PJ",Sr,6-2,185,7/12/2001,"Dana Point, Calif.",Forwards,74,,,,Quinnipiac,ECAC,Miami
+,11,"Hallén, William",So,6-1,187,4/15/2002,"Göteborg, Sweden",Forwards,73,,,,Dubuque,USHL,Miami
+,34,"Lagerbäck, Teddy",Jr,6-1,190,8/21/2001,"Chanhassen, Minn.",Forwards,73,,,,Arizona State,DI Independent,Miami
+,26,"Mesenburg, Blake",So,5-11,183,6/5/2002,"Orono, Minn.",Forwards,71,,,,St. Cloud,NAHL,Miami
+,23,"Morrison, Brayden",Sr,5-11,175,5/4/2002,"Calgary, Alb.",Forwards,71,,,,Wisconsin,B10,Miami
+,9,"Nilsson, Albin",Gr,6-0,195,9/18/1998,"Ljungby, Sweden",Forwards,72,,,,Niagara,AHA,Miami
+,22,"Sullivan, Ryan",Gr,5-11,190,3/7/2000,"Grosse Pointe, Mich.",Forwards,71,,,,Massachusetts,HEA,Miami
+,25,"Turansky, Artur",So,5-11,176,7/12/2001,"Bratislava, Slovakia",Forwards,71,,,,Lone Star,NAHL,Miami
+,6,"Vitolins, Raimonds",Jr,6-1,180,1/12/2002,"Ogre, Latvia",Forwards,73,,,,Vermont,HEA,Miami
+,17,"Waldron, John",So,6-1,185,11/13/2002,"Batavia, Ill.",Forwards,73,,,,Waterloo,USHL,Miami
+,30,"Bruveris, Bruno",Fr,6-0,173,3/9/2002,"Riga, Latvia",Goaltenders,72,,,,Cedar Rapids,USHL,Miami
+,33,"McPhail, Carter",Sr,5-11,178,12/4/1998,"Fenton, Mich.",Goaltenders,71,,,,Ferris State,CCHA,Miami
+,31,"Neaton, Logan",Gr,6-4,200,4/7/1999,"Brighton, Mich.",Goaltenders,76,2019,WPG,5,Mass.-Lowell,HEA,Miami
+,28,"Donovan, Shay",Gr,6-3,195,5/26/1998,"Duluth, Minn.",Defensemen,75,,,,Wisconsin,B10,Augustana
+,9,"Hennen, Hayden",Fr,6-4,0,8/13/2002,"Hallock, Minn.",Defensemen,76,,,,Anchorage,NAHL,Augustana
+,84,"Hutchinson, Jeff",Fr,6-2,0,5/2/2002,"St. Louis, Mo.",Defensemen,74,,,,New Mexico,NAHL,Augustana
+,7,"McIntyre, Evan",Sr,5-10,174,10/17/2000,"Oakville, Ont.",Defensemen,70,,,,Ohio State,B10,Augustana
+,6,"Perrault, Ethan",Fr,6-3,0,1/26/2003,"Tipp City, Ohio",Defensemen,75,,,,Johnstown,NAHL,Augustana
+,20,"Ruikka, Uula",Sr,5-9,168,5/28/2000,"Oulu, Finland",Defensemen,69,,,,Providence,HEA,Augustana
+,3,"Stark, Anthony",Gr,5-9,170,4/9/1999,"New York, N.Y.",Defensemen,69,,,,Colgate,ECAC,Augustana
+,22,"Ziemer, Brady",Sr,5-10,180,5/24/2000,"Carver, Minn.",Defensemen,70,,,,St. Cloud State,NCHC,Augustana
+,12,"Bischoff, Hunter",Fr,6-1,190,3/24/2003,"Cohasset, Minn.",Forwards,73,,,,Youngstown,USHL,Augustana
+,81,"Bohn, Owen",Fr,5-11,0,2/12/2002,"San Jose, Calif.",Forwards,71,,,,Victoria,BCHL,Augustana
+,27,"Brand, Chase",Gr,5-10,165,2/25/1999,"Nevis, Minn.",Forwards,70,,,,St. Cloud State,NCHC,Augustana
+,23,"Falk, Simon",Jr,6-3,200,1/20/2000,"Värmdö, Sweden",Forwards,75,,,,Alaska,Independents,Augustana
+,24,"Friesen, Colton",So,5-10,170,12/9/2001,"Winnipeg, MB",Forwards,70,,,,Wisconsin-Superior,DIII,Augustana
+,26,"Gau, Callum",Fr,6-2,0,6/19/2002,"Camrose, Alb.",Forwards,74,,,,Camrose,AJHL,Augustana
+,13,"Howard, Will",Fr,6-2,0,7/30/2002,"Grand Forks, N.D.",Forwards,74,,,,New Mexico,NAHL,Augustana
+,18,"Jensen, Jack",Jr,6-2,205,8/31/2000,"Eden Prairie, Minn.",Forwards,74,,,,Arizona State,Independents,Augustana
+,72,"Meerman, Brett",Fr,5-9,0,2/4/2002,"Blackfalds, Alb.",Forwards,69,,,,Blackfalds,AJHL,Augustana
+,15,"Mobley, Luke",Sr,6-3,215,11/26/1999,"St. Louis Park, Minn.",Forwards,75,,,,Clarkson,ECAC,Augustana
+,17,"Naumovski, Ryan",Gr,6-0,160,7/28/1999,"Shelby Township, Mich.",Forwards,72,,,,Niagara,AHA,Augustana
+,21,"Rudrud, Quinn",So,6-2,185,8/18/2001,"Farmington, Minn.",Forwards,74,,,,Alaska,Independents,Augustana
+,25,"Silver, Brian",Sr,5-10,180,11/6/2000,"Lake Bluff, Ill.",Forwards,70,,,,Miami,NCHC,Augustana
+,19,"Svenddal, Will",So,6-1,196,10/12/2001,"Minneapolis, Minn.",Forwards,73,,,,Minnesota,NAHL,Augustana
+,8,"Troumbly, Ben",So,5-7,0,11/21/2001,"Bovey, Minn.",Forwards,67,,,,Bismarck,NAHL,Augustana
+,10,"Vachon, Arnaud",Gr,6-2,209,5/13/1998,"Ajax, Ont.",Forwards,74,,,,Colgate,ECAC,Augustana
+,29,"Hargraves, Kayden",Fr,6-1,0,2/25/2002,"Denver, Colo.",Goaltenders,73,,,,Fairbanks,NAHL,Augustana
+,32,"Kotai, Josh",Fr,6-2,0,3/13/2003,"Abbotsford, B.C.",Goaltenders,74,,,,Battleford,SJHL,Augustana
+,40,"Rose, Zack",Gr,6-1,185,7/3/1999,"Paradise, Newf.",Goaltenders,73,,,,Bowling Green,CCHA,Augustana
+,2,"Becker, Mitchell",So,6-4,222,5/24/2001,"Rogers, Minn.",Defensemen,76,,,,New Mexico,NAHL,Mass-Lowell
+,77,"Blanchard, Gabe",Jr,6-1,199,9/15/2000,"East Aurora, N.Y.",Defensemen,73,,,,Sioux City,USHL,Mass-Lowell
+,52,"Brunette, Ben",Fr,6-0,190,8/1/2002,"North Bay, Ont.",Defensemen,72,,,,Penticton,BCHL,Mass-Lowell
+,22,"Cardona, Adam",Fr,6-2,200,10/5/2003,"Beaconsfield, Que.",Defensemen,74,,,,Omaha,USHL,Mass-Lowell
+,7,"Cooper, Mark",So,5-10,180,3/1/2001,"Cambridge, Ont.",Defensemen,70,,,,Hawkesbury,CCHL,Mass-Lowell
+,10,"Engum, Brehdan",Sr,6-3,221,8/10/2000,"Burnsville, Minn.",Defensemen,75,,,,Waterloo,USHL,Mass-Lowell
+,6,"Jonsson, Isac",Jr,5-10,182,10/8/2000,"Ängelholm, Sweden",Defensemen,70,,,,Tri-City,USHL,Mass-Lowell
+,18,"Kilcullen, Sean",Fr,6-0,190,8/3/2002,"Kensington, Md.",Defensemen,72,,,,Maryland,NAHL,Mass-Lowell
+,14,"Meehan, Ben",Sr,6-0,188,4/20/2001,"Walpole, Mass.",Defensemen,72,2020,LAK,5,Cedar Rapids,USHL,Mass-Lowell
+,4,"Schweighardt, TJ",So,5-10,182,3/15/2001,"Wayne, N.J.",Defensemen,70,,,,Youngstown,USHL,Mass-Lowell
+,19,"Bentley, Dillan",So,6-4,192,3/31/2001,"Peoria, Ill.",Forwards,76,,,,New Mexico,NAHL,Mass-Lowell
+,5,"Cole, Owen",Jr,5-10,183,1/29/2000,"Dunnville, Ont.",Forwards,70,,,,Brooks,AJHL,Mass-Lowell
+,9,"Collins, Jack",So,6-4,221,11/13/2001,"Canton, N.Y.",Forwards,76,,,,Lone Star,NAHL,Mass-Lowell
+,25,"Crasa, Matt",Jr,5-11,190,3/4/2001,"New York, N.Y.",Forwards,71,,,,Fargo,USHL,Mass-Lowell
+,13,"Fornåå Svensson, Filip",Gr,6-4,215,1/5/1999,"Linköping, Sweden",Forwards,76,,,,Alaska,D-I Independent,Mass-Lowell
+,16,"Fowler, Owen",So,5-9,190,6/4/2002,"Tewksbury, Mass.",Forwards,69,,,,Sioux City,USHL,Mass-Lowell
+,71,"Granowicz, Nick",Fr,6-1,183,3/28/1998,"Macomb, Mich.",Forwards,73,,,,Michigan,B10,Mass-Lowell
+,17,"Horn, Jonathan",Fr,6-0,190,2/16/2002,"Southbury, Conn.",Forwards,72,,,,Vernon,BCHL,Mass-Lowell
+,8,"Moriello, Jaiden",Fr,6-2,190,5/4/2003,"Saugus, Mass.",Forwards,74,,,,West Kelowna,BCHL,Mass-Lowell
+,23,"O'Donnell, Shawn",Fr,5-11,180,6/21/2003,"Pittsburgh, Pa.",Forwards,71,,,,Dubuque,USHL,Mass-Lowell
+,27,"Owens, Stefan",Jr,5-10,176,4/24/2000,"Midlothian, Va.",Forwards,70,,,,Maine,NAHL,Mass-Lowell
+,11,"Peterson, Alex",Fr,5-10,180,3/27/1998,"Lansdale, Pa.",Forwards,70,,,,Holy Cross,AHA,Mass-Lowell
+,26,"Rhéaume, Nick",So,6-2,197,5/2/2002,"Sherbrooke, Que.",Forwards,74,,,,Prince George,BCHL,Mass-Lowell
+,21,"Silkalns, Girts",Fr,6-2,187,6/30/2003,"Talsi, Latvia",Forwards,74,,,,Fargo,USHL,Mass-Lowell
+,28,"Stella, Jake",Sr,5-11,190,11/14/1998,"Karlstad, Sweden",Forwards,71,,,,American Int'l,Atlantic Hockey,Mass-Lowell
+,12,"Truman, Roc",So,6-0,198,4/25/2001,"Lethbridge, Alb.",Forwards,72,,,,Camrose,AJHL,Mass-Lowell
+,24,"Truman, Scout",So,5-10,188,10/15/2002,"Lethbridge, Alb.",Forwards,70,,,,Des Moines,USHL,Mass-Lowell
+,29,"Vaarwerk, Jak",Fr,6-0,180,6/13/2003,"East Amherst, N.Y.",Forwards,72,,,,Des Moines,USHL,Mass-Lowell
+,39,"Nordlund, Edvard",Jr,6-2,183,7/12/2001,"Stockholm, Sweden",Goaltenders,74,,,,Danbury,NAHL,Mass-Lowell
+,1,"Pavicich, Luke",Jr,6-2,195,3/21/2002,"Clarence Center, N.Y.",Goaltenders,74,,,,Kenai River,NAHL,Mass-Lowell
+,33,"Welsch, Henry",Sr,6-2,200,11/17/2000,"Lakeville, Minn.",Goaltenders,74,,,,Aberdeen,NAHL,Mass-Lowell
+,24,"Bezick, Oliver",So,6-0,190,6/12/2001,"Delray Beach, Fla.",Defensemen,72,,,,Amarillo,NAHL,Michigan-Tech
+,15,"Campbell, Matthew",Fr,6-1,180,3/4/2003,"North Vancouver, B.C.",Defensemen,73,,,,Quinnipiac,ECAC,Michigan-Tech
+,10,"Getz, Lachlan",Fr,6-3,195,2/1/2002,"Northfield, Ill.",Defensemen,75,,,,Boston University,HEA,Michigan-Tech
+,2,"Moger, Cameron",Fr,6-2,177,4/22/2002,"Vernon, B.C.",Defensemen,74,,,,Coquitlam,BCHL,Michigan-Tech
+,26,"Orr, Evan",So,5-11,185,1/9/2001,"Shelby Township, Mich.",Defensemen,71,,,,Northeast,NAHL,Michigan-Tech
+,25,"Pietila, Jed",Sr,5-11,190,1/13/1999,"Howell, Mich.",Defensemen,71,,,,Austin,NAHL,Michigan-Tech
+,17,"Pietila, Chase",Fr,6-3,188,3/3/2004,"Howell, Mich.",Defensemen,75,,,,Youngstown,USHL,Michigan-Tech
+,8,"Russell, Trevor",Jr,6-2,205,2/2/2000,"Old Hickory, Tenn.",Defensemen,74,,,,Aberdeen,NAHL,Michigan-Tech
+,7,"Vaharautio, Kasper",So,6-0,194,10/2/2002,"Vantaa, Finland",Defensemen,72,,,,Jokerit,SM-sarja,Michigan-Tech
+,19,"Williams, Nick",Fr,5-10,177,9/21/2002,"Edina, Minn.",Defensemen,70,,,,Youngstown,USHL,Michigan-Tech
+,4,"Bartle, Henry",Fr,6-2,185,6/3/2003,"Blaine, Minn.",Forwards,74,,,,Des Moines,USHL,Michigan-Tech
+,5,"Bronte, Tyrone",Sr,5-10,180,5/7/1999,"Melbourne, Austria",Forwards,70,,,,Ala.-Huntsville,WCHA,Michigan-Tech
+,20,"Caderoth, Arvid",Sr,6-5,220,5/14/2000,"Gothenburg, Sweden",Forwards,77,,,,Frolunda HC,Europe,Michigan-Tech
+,16,"Gordon, Isaac",Fr,5-11,190,1/29/2004,"Landmark, Man.",Forwards,71,,,,Sioux Falls,USHL,Michigan-Tech
+,14,"Koskipirtti, Max",Fr,6-0,180,8/16/2004,"Espoo, Finland",Forwards,72,,,,Kiekko-Espoo,SM-sarja,Michigan-Tech
+,9,"Kukkonen, Kyle",So,5-10,177,11/13/2002,"Maple Grove, Minn.",Forwards,70,2021,ANA,6,Madison,USHL,Michigan-Tech
+,23,"Kukkonen, Trevor",So,5-10,184,2/1/2001,"Maple Grove, Minn.",Forwards,70,,,,Minnesota,NAHL,Michigan-Tech
+,27,"Marcinkevics, Patriks",Jr,5-8,163,5/6/2001,"Riga, Latvia",Forwards,68,,,,Long Island,DI Independent,Michigan-Tech
+,11,"Mosley, Ryland",Sr,5-11,190,2/15/2000,"Arnprior, Ont.",Forwards,71,,,,Carleton Place,CCHL,Michigan-Tech
+,18,"Nordstrom, Alex",Jr,6-0,180,11/15/2000,"Atlantic Mine, Mich.",Forwards,72,,,,Green Bay,USHL,Michigan-Tech
+,22,"Pedersen, Marcus",Jr,6-3,200,5/25/2001,"Stockholm, Sweden",Forwards,75,,,,Malmo,J20 Nationell,Michigan-Tech
+,13,"Pietila, Logan",Sr,5-11,185,1/27/2000,"Howell, Mich.",Forwards,71,,,,Dubuque,USHL,Michigan-Tech
+,6,"Raiman, Lauri",Fr,5-11,179,1/27/2004,"Vantaa, Finland",Forwards,71,,,,Pelicans,SM-sarja,Michigan-Tech
+,12,"Rasmussen, Kash",So,6-2,185,4/20/2001,"Cochrane, Alb.",Forwards,74,,,,Bonnyville,AJHL,Michigan-Tech
+,21,"Richartz, Blais",Sr,6-0,195,6/23/2000,"Menomonie, Wis.",Forwards,72,,,,Lincoln,USHL,Michigan-Tech
+,28,"Stauber, Levi",Jr,5-11,184,1/16/2000,"Hermantown, Minn.",Forwards,71,,,,Danbury,NAHL,Michigan-Tech
+,29,"Works, Jack",Jr,5-11,185,5/23/2001,"Yellowknife, NWT",Forwards,71,,,,Denver,NCHC,Michigan-Tech
+,35,"Morelli, Michael",So,5-11,180,4/25/2001,"Arvada, Colo.",Goaltenders,71,,,,Maryland,NAHL,Michigan-Tech
+,31,"Pietila, Blake",Sr,6-0,178,1/27/2000,"Howell, Mich.",Goaltenders,72,,,,Cedar Rapids,USHL,Michigan-Tech
+,30,"Vayrynen, Max",So,6-2,195,6/18/2002,"Espoo, Finland",Goaltenders,74,,,,Assat,SM-sarja,Michigan-Tech
+,21,"Anderson, Kent",So,6-3,205,11/13/2003,"Calgary, Alb.",Defensemen,75,,,,Green Bay,USHL,Denver
+,3,"Ashcroft, Cale",Fr,5-11,190,8/5/2004,"St. Albert, Alb.",Defensemen,71,,,,Tri-City,USHL,Denver
+,2,"Behrens, Sean",Jr,5-10,190,3/31/2003,"Barrington, Ill.",Defensemen,70,2021,COL,2,US Under-18 Team,NTDP,Denver
+,5,"Brown, Garrett",Fr,6-3,200,4/4/2004,"San Jose, Calif.",Defensemen,75,2022,WPG,4,Waterloo,USHL,Denver
+,9,"Buckberger, Boston",Fr,5-11,180,6/1/2003,"Saskatoon, Sask.",Defensemen,71,,,,Lincoln,USHL,Denver
+,28,"Buium, Zeev",Fr,6-2,180,12/7/2005,"Laguna Niguel, Calif.",Defensemen,74,,,,US Under-18 Team,NTDP,Denver
+,8,"Buium, Shai",Jr,6-4,210,3/26/2003,"San Diego, Calif.",Defensemen,76,2021,DET,2,Sioux City,USHL,Denver
+,11,"Olvestad, Lucas",So,6-1,185,3/19/2002,"Tampa, Fla.",Defensemen,73,,,,Dubuque,USHL,Denver
+,16,"Broz, Tristan",Jr,6-0,190,10/10/2002,"Bloomington, Minn.",Forwards,72,2021,PIT,2,Minnesota,Big Ten,Denver
+,22,"Caponi, Connor",Sr,5-9,185,3/20/2000,"Nashville, Tenn.",Forwards,69,,,,Waterloo,USHL,Denver
+,24,"Cebrian, Kieran",Fr,6-2,195,3/31/2003,"Denver, Colo.",Forwards,74,,,,Tri-City,USHL,Denver
+,4,"Devine, Jack",Jr,5-11,180,10/2/2003,"Glencoe, Ill.",Forwards,71,2022,FLA,7,US Under-18 Team,NTDP,Denver
+,12,"Harris, Sam",Fr,6-1,190,10/14/2003,"San Diego, Calif.",Forwards,73,2023,MTL,5,Sioux Falls,USHL,Denver
+,15,"King, Carter",Jr,5-11,195,8/30/2001,"Calgary, Alb.",Forwards,71,,,,Surrey,BCHL,Denver
+,17,"LaJoy, Peter",Fr,5-7,165,2/27/2002,"Evergreen, Colo.",Forwards,67,,,,Danbury,NAHL,Denver
+,29,"Lemyre, Tristan",So,5-9,170,1/15/2001,"Mirabel, Que.",Forwards,69,,,,Dubuque,USHL,Denver
+,14,"Lorenz, Rieger",So,6-3,205,3/30/2004,"Calgary, Alb.",Forwards,75,2022,MIN,2,Okotoks,AJHL,Denver
+,10,"Matikka, Miko",Fr,6-4,200,10/26/2003,"Helsinki, Finland",Forwards,76,2022,ARI,3,Waterloo,USHL,Denver
+,13,"Rizzo, Massimo",Jr,5-11,185,6/13/2001,"Burnaby, B.C.",Forwards,71,2019,CAR,7,Chilliwack,BCHL,Denver
+,7,"Thompson, Aidan",So,5-11,175,2/18/2002,"Fort Collins, Colo.",Forwards,71,2022,CHI,3,Lincoln,USHL,Denver
+,6,"Webster, McKade",Sr,5-11,190,7/28/2000,"St. Louis, Mo.",Forwards,71,2019,TBL,7,Green Bay,USHL,Denver
+,39,"Weiermair, Alex",Fr,6-1,190,5/10/2005,"Los Angeles, Calif.",Forwards,73,,,,US Under-18 Team,NTDP,Denver
+,18,"Wright, Jared",So,6-3,195,11/22/2002,"Burnsville, Minn.",Forwards,75,2022,LAK,6,Omaha,USHL,Denver
+,31,"Caruso, Jack",Sr,5-10,190,6/7/1999,"St. Louis, Mo.",Goaltenders,70,,,,Fairbanks,NAHL,Denver
+,35,"Davis, Matt",Jr,6-1,195,6/16/2001,"Calgary, Alb.",Goaltenders,73,,,,Green Bay,USHL,Denver
+,1,"Halyk, Freddie",Fr,6-5,210,8/27/2003,"Cochrane, Alb.",Goaltenders,77,,,,Camrose,AJHL,Denver
+,4,"Anhorn, Dylan",Gr,6-0,185,1/21/1999,"Calgary, Alb.",Defensemen,72,,,,Union,ECAC,St-Cloud-State
+,5,"Clark, Warren",Fr,6-3,195,8/31/2004,"Riverside, Ont.",Defensemen,75,2023,TBL,6,Steinbach,MJHL,St-Cloud-State
+,8,"Ewart, Tynan",Fr,6-2,160,2/26/2002,"Duncan, B.C.",Defensemen,74,,,,Battleford,SJHL,St-Cloud-State
+,2,"Falk, Karl",Sr,6-3,205,1/20/2000,"Värmdö, Sweden",Defensemen,75,,,,Alaska,DI Independent,St-Cloud-State
+,21,"Luedtke, Josh",Jr,5-9,175,9/29/2000,"Minnetonka, Minn.",Defensemen,69,,,,Des Moines,USHL,St-Cloud-State
+,23,"Peart, Jack",Jr,5-11,175,5/15/2003,"Grand Rapids, Minn.",Defensemen,71,2021,MIN,2,Fargo,USHL,St-Cloud-State
+,6,"Reiners, Mason",So,6-1,195,5/3/2001,"Edina, Minn.",Defensemen,73,,,,Waterloo,USHL,St-Cloud-State
+,27,"Tiessen, Kaleb",Fr,6-5,210,6/3/2002,"Leamington, Ont.",Defensemen,77,,,,Maryland,NAHL,St-Cloud-State
+,26,"Wylie, Cooper",So,6-1,190,10/26/2001,"Stillwater, Minn.",Defensemen,73,,,,Waterloo,USHL,St-Cloud-State
+,11,"Ahcan, Grant",So,5-10,160,5/18/2002,"Burnsville, Minn.",Forwards,70,,,,Cedar Rapids,USHL,St-Cloud-State
+,17,"AuCoin, Ethan",So,6-1,170,8/10/2002,"Calgary, Alb.",Forwards,73,,,,Lloydminster,AJHL,St-Cloud-State
+,13,"Gross, Tyson",Fr,6-3,180,9/23/2002,"Calgary, Alb.",Forwards,75,,,,Cedar Rapids,USHL,St-Cloud-State
+,15,"Hall, Barrett",Fr,6-0,170,12/29/2003,"Apple Valley, Minn.",Forwards,72,2022,SEA,6,Green Bay,USHL,St-Cloud-State
+,34,"Ingram, Adam",So,6-1,175,10/14/2003,"West St. Paul, Man.",Forwards,73,2022,NSH,3,Youngstown,USHL,St-Cloud-State
+,10,"Kupka, Kyler",Gr,6-0,185,5/11/1999,"Camrose, Alb.",Forwards,72,,,,Camrose,AJHL,St-Cloud-State
+,19,"Miettinen, Verner",Fr,5-11,165,4/7/2003,"Espoo, Finland",Forwards,71,,,,Fargo,USHL,St-Cloud-State
+,29,"Miettinen, Veeti",Sr,5-9,160,9/20/2001,"Espoo, Finland",Forwards,69,2020,TOR,6,Kiekko-Espoo U20,Europe,St-Cloud-State
+,22,"Molenaar, Joe",Sr,6-1,175,10/16/1999,"Minnetonka, Minn.",Forwards,73,,,,Cedar Rapids,USHL,St-Cloud-State
+,14,"Okabe, Zach",Gr,5-9,170,1/4/2001,"Okotoks, Alb.",Forwards,69,,,,Grande Prairie,AJHL,St-Cloud-State
+,20,"Portz, Nick",Sr,5-11,174,5/15/2000,"St. Cloud, Minn.",Forwards,71,,,,North Dakota,NCHC,St-Cloud-State
+,7,"Reimann, Jack",Fr,6-0,190,10/10/2002,"Ham Lake, Minn.",Forwards,72,,,,Des Moines,USHL,St-Cloud-State
+,20,"Rogers, Jack",So,6-1,190,9/23/2002,"East Northport, N.Y.",Forwards,73,,,,Steinbach,MJHL,St-Cloud-State
+,12,"Rosborough, Ryan",Jr,6-3,190,5/24/2000,"Mount Brydges, Ont.",Forwards,75,,,,Boston,NCDC,St-Cloud-State
+,16,"Salquist, Mason",Jr,5-8,165,3/21/2000,"Grand Forks, N.D.",Forwards,68,,,,Fargo,USHL,St-Cloud-State
+,31,"Basse, Dominic",Sr,6-6,185,4/22/2001,"Alexandria, Va.",Goaltenders,78,2019,CHI,6,Youngstown,USHL,St-Cloud-State
+,1,"Gray, James",Fr,6-2,190,5/24/2002,"Toronto, Ont.",Goaltenders,74,,,,North York,OJHL,St-Cloud-State
+,30,"Posch, Isak",Fr,6-3,210,1/31/2002,"Umeå, Sweden",Goaltenders,75,,,,Minnesota,NAHL,St-Cloud-State
+,3,"Andres, Mitch",Gr,6-1,187,9/2/1998,"Brainerd, Minn.",Defensemen,73,,,,Boston College,HEA,Robert-Morris
+,2,"Craig, Michael",Fr,5-10,174,8/26/2002,"St. Catharines, Ont.",Defensemen,70,,,,Nanaimo,BCHL,Robert-Morris
+,7,"Gangl, Tom",Fr,6-3,201,1/8/2002,"Wingham, Ont.",Defensemen,75,,,,Smiths Falls,CCHL,Robert-Morris
+,44,"Haynes, Thomas",Fr,6-2,190,2/6/2002,"Mississauga, Ont.",Defensemen,74,,,,Smiths Falls,CCHL,Robert-Morris
+,23,"Johnson, Luke",Gr,5-11,173,1/7/1999,"Edina, Minn.",Defensemen,71,,,,Providence,HEA,Robert-Morris
+,25,"Ledonne, Trevor",Sr,6-1,195,2/27/2000,"Stoney Creek, Ont.",Defensemen,73,,,,St. Thomas,CCHA,Robert-Morris
+,8,"Lunn, Gabriel",Fr,6-0,190,8/25/2003,"Lockport, N.Y.",Defensemen,72,,,,Johnstown,NAHL,Robert-Morris
+,6,"Townend, Cade",Gr,6-1,185,6/17/1999,"Carleton Place, Ont.",Defensemen,73,,,,Mercyhurst,AHA,Robert-Morris
+,5,"van Why, Luke",Fr,5-10,163,1/21/2003,"Hatfield, Pa.",Defensemen,70,,,,Maryland,NAHL,Robert-Morris
+,4,"Boczar, Matthew",Fr,6-1,165,5/13/2001,"Sewell, N.J.",Forwards,73,,,,Northeast,NAHL,Robert-Morris
+,33,"Chaing, Lee",Fr,5-9,170,12/7/2002,"Toronto, Ont.",Forwards,69,,,,Markham,OJHL,Robert-Morris
+,28,"Ganie, Logan",Gr,5-10,174,6/28/1999,"Irma, Alb.",Forwards,70,,,,Michigan Tech,CCHA,Robert-Morris
+,21,"Garvey, Cameron",Fr,6-0,181,7/23/2002,"Oakville, Ont.",Forwards,72,,,,Collingwood,OJHL,Robert-Morris
+,18,"Gulash, Gavin",Jr,6-2,190,1/11/1999,"Red Bank, N.J.",Forwards,74,,,,New Jersey,NAHL,Robert-Morris
+,20,"Hayes, McKay",Fr,6-2,205,1/27/2002,"Ancaster, Ont.",Forwards,74,,,,Markham,OJHL,Robert-Morris
+,11,"Hebert, Cameron",Sr,6-1,175,3/17/1999,"St. Andrews West, Ont.",Forwards,73,,,,Johnstown,NAHL,Robert-Morris
+,17,"Hutton, Matt",Sr,6-1,190,4/1/1999,"Carmel, Ind.",Forwards,73,,,,Shreveport,NAHL,Robert-Morris
+,19,"Klimpke, Tanner",Fr,6-2,174,12/13/2002,"Calgary, Alb.",Forwards,74,,,,Whitecourt,AJHL,Robert-Morris
+,16,"Krotiris, George",Fr,5-11,165,8/8/2002,"Markham, Ont.",Forwards,71,,,,Cobourg,OJHL,Robert-Morris
+,10,"Maust, Paul",Gr,5-10,170,6/24/1998,"Butler, Pa.",Forwards,70,,,,Mercyhurst,AHA,Robert-Morris
+,15,"Merkley, Charles",Fr,5-9,195,5/8/2001,"Fairport, N.Y.",Forwards,69,,,,Corpus Christi,NAHL,Robert-Morris
+,12,"Reineke, Jackson",Fr,5-10,174,10/3/2002,"Faribault, Minn.",Forwards,70,,,,Anchorage,NAHL,Robert-Morris
+,22,"Schimizzi, Dominic",Fr,5-11,175,3/12/2001,"Greensburg, Pa.",Forwards,71,,,,Aberdeen,NAHL,Robert-Morris
+,27,"St. Onge, Rylee",Gr,5-11,196,4/22/1998,"St. Catharines, Ont.",Forwards,71,,,,Mercyhurst,AHA,Robert-Morris
+,9,"Tulik, Dallas",Gr,5-11,185,6/23/1998,"Kalamazoo, Mich.",Forwards,71,,,,Ferris State,CCHA,Robert-Morris
+,24,"Zacher, Walter",Fr,5-11,181,4/2/2002,"Buffalo, N.Y.",Forwards,71,,,,Austin,NAHL,Robert-Morris
+,31,"Boisvert, Francis",Gr,6-2,170,3/11/1999,"Blainville, Que.",Goaltenders,74,,,,St. Lawrence,ECAC,Robert-Morris
+,35,"Sochan, Michael",Fr,6-1,179,7/21/2002,"Redwood City, Calif.",Goaltenders,73,,,,Surrey,BCHL,Robert-Morris
+,30,"Veltri, Chad",Gr,5-11,187,6/3/1998,"Fox Chapel, Pa.",Goaltenders,71,,,,Niagara,AHA,Robert-Morris
+,3,"Casperson, AJ",So,6-2,190,7/19/2001,"Flower Mound, Texas",Defensemen,74,,,,Janesville,NAHL,Long-Island
+,7,"Di Cicco, Jordan",Sr,5-9,180,5/17/1999,"London, Ont.",Defensemen,69,,,,Brooks,AJHL,Long-Island
+,24,"Gormley, John",Jr,6-4,225,8/19/2000,"Bronx, N.Y.",Defensemen,76,,,,Bismark,NAHL,Long-Island
+,16,"Gurney, Xan",So,6-3,205,5/28/2000,"Grosse Ile, Mich.",Defensemen,75,,,,Western Michigan,NCHC,Long-Island
+,4,"Lehikoinen, Atte",Fr,6-3,215,7/5/2003,"Joensuu, Finland",Defensemen,75,,,,Tappara U20 A,SM-sarja,Long-Island
+,6,"Mason, Cade",So,5-11,176,8/26/2001,"Red Deer, Alb.",Defensemen,71,,,,Spruce Grove,AJHL,Long-Island
+,2,"Muzyka, Peter",So,6-3,205,5/14/2000,"Toronto, Ont.",Defensemen,75,,,,Cornell,ECAC,Long-Island
+,5,"Piironen, Valtteri",So,6-4,195,9/11/2001,"Pyhäselkä, Finland",Defensemen,76,,,,Sioux Falls,USHL,Long-Island
+,28,"Valk, Garrett",Fr,6-3,205,10/20/2002,"North Vancouver, B.C.",Defensemen,75,,,,Langley,BCHL,Long-Island
+,10,"Armstrong, Heath",Fr,5-8,172,5/12/2002,"Calgary, Alb.",Forwards,68,,,,Brooks,AJHL,Long-Island
+,9,"Baldassarra, Daniel",So,5-10,170,3/15/2002,"Vaughan, Ont.",Forwards,70,,,,North York,OJHL,Long-Island
+,21,"Brimmer, Austin",So,6-3,218,10/10/2001,"Markham, Ont.",Forwards,75,,,,Shreveport,NAHL,Long-Island
+,25,"Brodziak, Preston",Sr,6-0,185,6/29/1999,"Estevan, Sask.",Forwards,72,,,,Prince George,BCHL,Long-Island
+,15,"Constable, Grayson",Gr,6-2,205,5/5/1998,"Lethbridge, Alb.",Forwards,74,,,,Holy Cross,AHA,Long-Island
+,8,"Fox, Isaiah",Jr,5-11,175,7/5/2000,"Pierrefonds, Que.",Forwards,71,,,,Maine,NAHL,Long-Island
+,23,"Grounds, Aaron",Gr,6-2,190,12/24/1999,"Jamestown, N.D.",Forwards,74,,,,American Int'l,AHA,Long-Island
+,44,"Kane, Noah",Sr,5-11,183,11/27/1999,"Buffalo, N.Y.",Forwards,71,,,,Mercyhurst,AHA,Long-Island
+,52,"Leppänen, Onni",Fr,5-8,165,12/1/2003,"Helsinki, Finland",Forwards,68,,,,Jokerit U20 A,SM-sarja,Long-Island
+,12,"Nazzarett, Zachary",Sr,5-8,155,8/25/2000,"Cheektowaga, N.Y.",Forwards,68,,,,Alaska-Anchorage,WCHA,Long-Island
+,11,"Pappas, Chris",Jr,5-11,175,11/26/2000,"Etobicoke, Ont.",Forwards,71,,,,St. Lawrence,ECAC,Long-Island
+,27,"Parker, Remy",Jr,6-3,184,4/27/1998,"Montclair, N.J.",Forwards,75,,,,Utica,NCAA DIII,Long-Island
+,18,"Peterson, Kade",Fr,6-1,190,5/2/2003,"West Fargo, N.D.",Forwards,73,,,,St. Cloud,NAHL,Long-Island
+,20,"Pitters, Adam",Gr,5-10,180,2/9/1999,"Grosse Pointe, Mich.",Forwards,70,,,,Bowling Green,CCHA,Long-Island
+,19,"Quinn, Jack",Sr,5-10,185,12/28/1999,"Lancaster, Mass.",Forwards,70,,,,Kenai River Brown,NAHL,Long-Island
+,14,"Strickland, Luke",Fr,6-0,192,10/16/2002,"Keswick, Ont.",Forwards,72,,,,Wellington,OJHL,Long-Island
+,22,"Wallack, Riley",So,6-5,225,4/5/2001,"South Surrey, B.C.",Forwards,77,,,,Langley,BCHL,Long-Island
+,17,"Welsh, Nolan",Sr,6-0,185,6/23/1999,"Whistler, B.C.",Forwards,72,,,,Prince George,BCHL,Long-Island
+,13,"Zary, Josh",So,6-0,190,10/15/2001,"Nanaimo, B.C.",Forwards,72,,,,Alberni Valley,BCHL,Long-Island
+,33,"DiMatteo, Rico",Sr,6-3,170,1/1/2001,"Brasher Falls, N.Y.",Goaltenders,75,,,,Northern Michigan,CCHA,Long-Island
+,35,"Perrone, Brandon",Gr,5-10,165,10/26/1998,"Hauppauge, N.Y.",Goaltenders,70,,,,Alaska-Anchorage,WCHA,Long-Island
+,31,"Rupprecht, Noah",Fr,5-11,180,6/15/2002,"Thief River Falls, Minn.",Goaltenders,71,,,,Minot,NAHL,Long-Island
+,53,"Budd, Jack",Fr,6-0,165,8/29/2003,"Toronto, Ont.",Defensemen,72,,,,Bonnyville,AJHL,Canisius
+,27,"Connor, Powell",Sr,6-2,188,5/4/2000,"Vernon, B.C.",Defensemen,74,,,,Michigan State,B10,Canisius
+,57,"Datema, Brenden",Gr,6-5,220,3/18/1999,"Sterling Heights, Mich.",Defensemen,77,,,,Michigan Tech,CCHA,Canisius
+,24,"Decker, Jackson",Sr,5-11,170,3/19/1999,"Algonquin, Ill.",Defensemen,71,,,,Chippewa,NAHL,Canisius
+,12,"Farthing, Luke",Sr,5-10,183,4/21/1999,"Stoutsville, Ohio",Defensemen,70,,,,Ferris State,CCHA,Canisius
+,5,"Kincaid, Robert",So,6-2,185,5/13/2002,"Barrhead, Alb.",Defensemen,74,,,,Maine,HEA,Canisius
+,94,"Lambert, Hudson",Gr,6-0,190,8/17/1998,"Richmond Hill, Ont.",Defensemen,72,,,,Brampton,OJHL,Canisius
+,4,"Langefels, Keegan",Jr,6-0,185,2/2/2001,"Eden Prairie, Minn.",Defensemen,72,,,,New Mexico,NAHL,Canisius
+,77,"Lyons, Jack",Sr,6-1,205,7/4/1999,"Mississauga, Ont.",Defensemen,73,,,,Oakville,OJHL,Canisius
+,59,"Melaragni, David",Gr,6-0,180,3/30/1998,"Philadelphia, Pa.",Defensemen,72,,,,Cowichan Valley,BCHL,Canisius
+,73,"Schiavon, Cody",Sr,6-0,201,7/1/2000,"West Kelowna, B.C.",Defensemen,72,,,,Vermont,HEA,Canisius
+,37,"Andrew, Hunter",So,6-0,165,10/25/2002,"Virden, Man.",Forwards,72,,,,Power River,BCHL,Canisius
+,26,"Bottini, Stefano",So,6-0,180,5/3/2002,"Lugano, Switzerland",Forwards,72,,,,Penticton,BCHL,Canisius
+,14,"Funk, Trey",Fr,6-1,180,4/11/2002,"Redwood Meadows, Alb.",Forwards,73,,,,Bonnyville,AJHL,Canisius
+,8,"Giampa, Matteo",Fr,6-0,175,9/3/2003,"Virgil, Ont.",Forwards,72,,,,Bonnyville,AJHL,Canisius
+,23,"Haar, Cooper",Sr,6-3,205,4/26/1999,"Huntington Beach, Calif.",Forwards,75,,,,Aberdeen,NAHL,Canisius
+,9,"Haskins, Kyle",Sr,5-11,185,2/16/2000,"Huntington, Vt.",Forwards,71,,,,Michigan State,B10,Canisius
+,20,"Hernandez, Randy",Sr,6-0,190,1/12/1999,"Miami, Fla.",Forwards,72,,,,Robert Morris,AHA,Canisius
+,88,"Kiecker-Olson, Killian",So,6-1,190,1/19/2001,"Andover, Minn.",Forwards,73,,,,Maine,HEA,Canisius
+,72,"Kouznetsov, Max",Sr,5-11,175,12/6/2000,"Voorhees, N.J.",Forwards,71,,,,Johnstown,NAHL,Canisius
+,13,"Loughran, Griffin",Sr,5-6,145,11/13/1998,"West Seneca, N.Y.",Forwards,66,,,,Michigan State,B10,Canisius
+,55,"MacDougall, Christian",So,6-0,180,3/13/2001,"Toronto, Ont.",Forwards,72,,,,Coquitlam,BCHL,Canisius
+,91,"McDermott, Alton",Jr,5-10,170,6/4/2001,"Oakville, Ont.",Forwards,70,,,,Oakville,OJHL,Canisius
+,25,"Nieuwendyk, Jackson",Fr,6-1,175,9/4/2002,"Dallas, Texas",Forwards,73,,,,Penticton,BCHL,Canisius
+,47,"Porter, Grant",Fr,5-10,176,2/21/2002,"Weston, Mass.",Forwards,70,,,,Providence,HEA,Canisius
+,92,"Tarr, Oliver",So,6-0,170,1/20/2002,"Uxbridge, Ont.",Forwards,72,,,,Haliburton County,OJHL,Canisius
+,61,"Urbank, Erik",Gr,6-2,195,3/28/1999,"Lakeview, N.Y.",Forwards,74,,,,Dartmouth,ECAC,Canisius
+,15,"Vermaeten, Matt",Jr,5-10,165,1/4/2001,"Ottawa, Ont.",Forwards,70,,,,Shreveport,NAHL,Canisius
+,41,"Fessenden, David",Gr,6-6,230,4/30/1998,"Parker, Colo.",Goaltenders,78,,,,New Hampshire,HEA,Canisius
+,32,"Houston, Alex",Jr,6-2,190,3/21/2002,"Canton, Ohio",Goaltenders,74,,,,Cornwall,CCHL,Canisius
+,30,"Robertson, Ethan",Fr,6-1,170,2/22/2002,"Courtice, Ont.",Goaltenders,73,,,,Auston,NAHL,Canisius
+,15,"Lee, Jayden",Gr,5-9,160,1/10/2001,"North Vancouver, B.C.",Defensemen,69,,,,Powell,BCHL,Quinnipiac
+,6,"Legault, Charles-Alexis",So,6-3,214,9/5/2003,"Pierrefonds, Que.",Defensemen,75,2023,CAR,5,West Kelowna,BCHL,Quinnipiac
+,7,"Martin, Jake",So,6-0,193,3/18/2003,"White Bear Lake, Minn.",Defensemen,72,,,,Green Bay,USHL,Quinnipiac
+,5,"McGee, CJ",Gr,6-0,180,3/12/1999,"Pearl River, N.Y.",Defensemen,72,,,,Shreveport,NAHL,Quinnipiac
+,3,"Moore, Cooper",Sr,6-2,188,2/16/2001,"Greenwich, Conn.",Defensemen,74,2019,DET,5,North Dakota,NCHC,Quinnipiac
+,4,"Pennington, Davis",Sr,5-10,180,5/27/2001,"Saline, Mich.",Defensemen,70,,,,Omaha,NCHC,Quinnipiac
+,19,"Ramsay, Chase",Fr,6-0,181,6/10/2003,"Granite Springs, N.Y.",Defensemen,72,,,,Des Moines,USHL,Quinnipiac
+,2,"Rasanen, Iivari",Sr,6-1,200,5/23/2001,"Tampere, Finland",Defensemen,73,,,,Muskegon,USHL,Quinnipiac
+,12,"Wallace, Nicky",Fr,5-8,165,5/7/2003,"Atlantic Highlands, N.J.",Defensemen,68,,,,Madison,USHL,Quinnipiac
+,27,"Cerbone, Andon",Fr,5-9,163,4/13/2004,"Stamford, Conn.",Forwards,69,,,,Youngstown,USHL,Quinnipiac
+,18,"Cipollone, Anthony",So,5-6,165,5/14/2002,"Purchase, N.Y.",Forwards,66,,,,Brooks,AJHL,Quinnipiac
+,14,"Czerneckianair, Victor",So,5-11,174,2/17/2002,"Southington, Conn.",Forwards,71,,,,Tri-City,USHL,Quinnipiac
+,13,"Fillion, Christophe",Jr,5-10,175,6/18/2000,"Sherbrooke, Que.",Forwards,70,,,,Muskegon,USHL,Quinnipiac
+,11,"Graf, Collin",Jr,6-0,180,9/21/2002,"Lincoln, Mass.",Forwards,72,,,,Union,ECAC,Quinnipiac
+,26,"Heinke, Timothy",So,6-1,194,10/2/2001,"Kensington, Conn.",Forwards,73,,,,South Shore,NCDC,Quinnipiac
+,28,"Lipkin, Sam",So,6-2,192,1/3/2003,"Philadelphia, Pa.",Forwards,74,,,,Chicago,USHL,Quinnipiac
+,20,"Marcellus, Mason",Fr,5-9,165,7/19/2002,"Greely, Ont.",Forwards,69,,,,Lincoln,USHL,Quinnipiac
+,8,"McGroarty, Matthew",Fr,5-10,172,1/30/2003,"Westport, Conn.",Forwards,70,,,,Madison,USHL,Quinnipiac
+,24,"Power, Alex",So,6-1,185,1/4/2002,"St. John's, Newf.",Forwards,73,,,,Bonnyville,AJHL,Quinnipiac
+,16,"Quillan, Jacob",Jr,6-0,201,2/2/2002,"Dartmouth, N.S.",Forwards,72,,,,Salisbury School,,Quinnipiac
+,29,"Tellier, Cristophe",Jr,6-0,172,5/23/2000,"Sherbrooke, Que.",Forwards,72,,,,Muskegon,USHL,Quinnipiac
+,17,"Treloar, Travis",Sr,5-11,177,5/12/2001,"Fredrikstad, Norway",Forwards,71,,,,Ohio State,B10,Quinnipiac
+,10,"Tupker, Zach",Gr,6-1,197,12/23/1999,"Collingwood, Ont.",Forwards,73,,,,Cornell,ECAC,Quinnipiac
+,31,"Altman, Noah",Jr,6-7,209,8/16/2000,"Los Angeles, Calif.",Goaltenders,79,,,,Bismarck,NAHL,Quinnipiac
+,37,"Duplessis, Vinny",Sr,6-1,170,3/19/1999,"Quebec City, Que.",Goaltenders,73,,,,Whitecourt,AJHL,Quinnipiac
+,35,"Marinov, Matej",Fr,6-0,157,6/16/2003,"Nitra, Slovakia",Goaltenders,72,,,,Fargo,USHL,Quinnipiac
+,5,"Alger, Linden",Sr,6-3,194,4/9/2000,"Centerville, Mass.",Defensemen,75,,,,Youngstown,USHL,Massachusetts
+,25,"Bohlinger, Aaron",Sr,5-9,165,8/25/2000,"Walden, N.Y.",Defensemen,69,,,,Waterloo,USHL,Massachusetts
+,24,"McDermott, Elliott",Sr,5-11,193,2/3/1999,"Kingston, Ont.",Defensemen,71,,,,Colgate,ECAC,Massachusetts
+,23,"Morrow, Scott",Jr,6-2,192,11/1/2002,"Darien, Conn.",Defensemen,74,2021,CAR,2,Shattuck St. Mary's,Prep,Massachusetts
+,26,"Murray, Owen",So,5-10,181,12/1/2002,"Decker, Man.",Defensemen,70,,,,Green Bay,USHL,Massachusetts
+,7,"Niinisaari, Samuli",Sr,6-1,190,8/11/1998,"Hamina, Finland",Defensemen,73,,,,Brown,ECAC,Massachusetts
+,4,"O'Connor, Kennedy",So,6-2,194,5/10/2001,"Springfield, Mass.",Defensemen,74,,,,Omaha,USHL,Massachusetts
+,21,"Törnqvist, Sebastian",Fr,5-11,188,5/22/2003,"Everlöv, Sweden",Defensemen,71,,,,Tri-City,USHL,Massachusetts
+,6,"Ufko, Ryan",Jr,5-10,181,5/7/2003,"Long Island, N.Y.",Defensemen,70,2021,NSH,4,Chicago,USHL,Massachusetts
+,27,"Cameron, Michael",So,5-10,174,7/24/2002,"Berwyn, Pa.",Forwards,70,,,,Omaha,USHL,Massachusetts
+,17,"Connors, Kenny",So,6-1,190,3/10/2003,"Glen Mills, Pa.",Forwards,73,2022,LAK,4,Dubuque,USHL,Massachusetts
+,28,"Cosman, Bo",Fr,6-3,192,1/18/2002,"Milton, Ga.",Forwards,75,,,,Minnesota,NAHL,Massachusetts
+,29,"DeDobbelaer, Eric",Jr,5-10,180,6/15/2000,"Hamilton, Ont.",Forwards,70,,,,Brantford,OJHL,Massachusetts
+,20,"Gorman, Liam",Gr,6-3,200,5/8/2000,"Arlington, Mass.",Forwards,75,2018,PIT,6,St. Sebastian's,PREP,Massachusetts
+,14,"Lautenbach, Ryan",Jr,5-11,185,2/27/2000,"Dearborn, Mich.",Forwards,71,,,,Omaha,USHL,Massachusetts
+,10,"Locmelis, Dans",Fr,6-0,172,1/21/2004,"Jelgava, Latvia",Forwards,72,,,,Luleå HF J20,J20 Nationell,Massachusetts
+,18,"Makar, Taylor",Jr,6-3,190,3/13/2001,"Calgary, Alb.",Forwards,75,2021,COL,7,Brooks,AJHL,Massachusetts
+,11,"Mercuri, Lucas",Jr,6-3,192,3/7/2002,"Montréal, Que.",Forwards,75,,,,Des Moines,USHL,Massachusetts
+,9,"Musa, Jack",Fr,5-9,173,7/22/2003,"Orange Park, Fla.",Forwards,69,,,,Cedar Rapids,USHL,Massachusetts
+,19,"O'Hara, Cole",So,6-0,183,6/20/2002,"Richmond Hill, Ont.",Forwards,72,2022,NSH,4,Tri-City,USHL,Massachusetts
+,8,"O'Neill, Cam",Fr,5-10,198,1/24/2004,"Odenton, Md.",Forwards,70,2022,OTT,5,Tri-City,USHL,Massachusetts
+,15,"Sanda, Christian",Gr,6-0,185,3/13/1998,"Vadnais Heights, Minn.",Forwards,72,,,,Union,ECAC,Massachusetts
+,16,"Suniev, Aydar",Fr,6-2,192,11/16/2004,"Kazan, Russia",Forwards,74,2023,CGY,3,Penticton,BCHL,Massachusetts
+,12,"Vanroboys, Lucas",Gr,6-2,185,7/24/1999,"Thamesville, Ont.",Forwards,74,,,,Bentley,AHA,Massachusetts
+,22,"VanTassell, Nick",Fr,6-4,200,4/18/2004,"Basking Ridge, N.J.",Forwards,76,2023,OTT,7,Green Bay,USHL,Massachusetts
+,34,"Brady, Cole",Sr,6-5,180,2/12/2001,"Pickering, Ont.",Goaltenders,77,2019,NJD,5,Arizona State,D-I Independent,Massachusetts
+,30,"Hrabal, Michael",Fr,6-7,215,1/20/2005,"Praha, Czech Republic",Goaltenders,79,2023,ARI,2,Omaha,USHL,Massachusetts
+,1,"Irving, Jackson",Fr,6-0,160,2/3/2004,"Newbury, Mass.",Goaltenders,72,,,,Sioux Falls,USHL,Massachusetts
+,15,"Acheson, Logan",So,5-11,173,4/24/2002,"Edmonton, Alb.",Defensemen,71,,,,Spruce Grove,AJHL,Bemidji-State
+,25,"Corcoran, Vince",So,5-8,160,9/21/2001,"Plainfield, Ill.",Defensemen,68,,,,Wichita Falls,NAHL,Bemidji-State
+,2,"Follmer, Tony",Jr,6-3,191,10/26/2000,"O'Fallon, Mo.",Defensemen,75,,,,Lincoln,USHL,Bemidji-State
+,7,"Looft, Kyle",Gr,6-4,215,6/27/1998,"Mankato, Minn.",Defensemen,76,,,,Cedar Rapids,USHL,Bemidji-State
+,5,"Magnuson, Will",Jr,5-10,178,10/16/2001,"Chaska, Minn.",Defensemen,70,,,,Bismarck,NAHL,Bemidji-State
+,23,"Pohlkamp, Eric",Fr,5-11,205,3/23/2004,"Brainerd, Minn.",Defensemen,71,2023,SJS,5,Cedar Rapids,USHL,Bemidji-State
+,3,"Powell, Jack",Sr,5-11,176,9/11/1999,"Alexandria, Minn.",Defensemen,71,,,,Aberdeen,NAHL,Bemidji-State
+,12,"Satosaari, Patrik",So,6-0,180,6/18/2001,"Jyväskylä, Finland",Defensemen,72,,,,U20 SM Sarja-Pelicans,,Bemidji-State
+,6,"Wolfe, Mitch",So,6-0,183,7/19/2002,"Andover, Minn.",Defensemen,72,,,,Des Moines,USHL,Bemidji-State
+,18,"Chiddenton, Rhys",Fr,6-0,182,5/23/2003,"Campbellville, Ont.",Forwards,72,,,,Georgetown,OJHL,Bemidji-State
+,14,"Engstrom, Liam",Fr,5-8,155,9/17/2004,"Surahammar, Sweden",Forwards,68,,,,Örebro HK,,Bemidji-State
+,8,"Flammang, Adam",So,6-0,187,11/9/2001,"St. Michael, Minn.",Forwards,72,,,,Cedar Rapids,USHL,Bemidji-State
+,20,"Irey, Kirklan",So,5-11,176,1/8/2001,"Bismarck, N.D.",Forwards,71,,,,Sioux City,USHL,Bemidji-State
+,9,"Jones, Carter",Gr,5-10,177,5/15/1999,"Hillyard, Wash.",Forwards,70,,,,Trail,BCHL,Bemidji-State
+,22,"Jouppi, Austin",Sr,5-11,173,4/18/2000,"Duluth, Minn.",Forwards,71,,,,Bismarck,NAHL,Bemidji-State
+,19,"Jutting, Jackson",Sr,5-11,186,2/27/2001,"Savage, Minn.",Forwards,71,,,,Colorado College,NCHC,Bemidji-State
+,13,"Lawson, Donte",Jr,5-11,172,11/3/2000,"Taconite, Minn.",Forwards,71,,,,Minnesota,NAHL,Bemidji-State
+,26,"Lewandowski, Jakub",Jr,6-4,200,10/25/2001,"Torun, Poland",Forwards,76,,,,Czech U20-HC Vitkovice,,Bemidji-State
+,21,"Lundman, Alexander",Jr,6-2,191,6/17/2001,"Norrköping, Sweden",Forwards,74,,,,Hockeyettan-Boras HC,,Bemidji-State
+,28,"Magnussen, Kasper",Fr,6-1,196,2/19/2004,"Fredrikstad, Norway",Forwards,73,,,,Leksands IF,,Bemidji-State
+,11,"Martin, Eric",Sr,5-11,166,6/5/2000,"Calgary, Alb.",Forwards,71,,,,Drumheller,AJHL,Bemidji-State
+,27,"McLean, Jake",Fr,6-0,183,7/27/2002,"North Vancouver, B.C.",Forwards,72,,,,Bismarck,NAHL,Bemidji-State
+,23,"Myers, Aaron",Sr,6-0,172,9/28/1999,"Thief River Falls, Minn.",Forwards,72,,,,Fargo,USHL,Bemidji-State
+,17,"Quinn, Noah",Fr,6-1,173,6/2/2003,"Nelson, B.C.",Forwards,73,,,,Cranbrook,BCHL,Bemidji-State
+,29,"Roed, Lleyton",So,5-11,174,8/8/2002,"White Bear Lake, Minn.",Forwards,71,,,,Tri-City,USHL,Bemidji-State
+,16,"Vaisanen, Jere",Jr,5-10,175,7/10/2000,"Espoo, Finland",Forwards,70,,,,Amarillo,NAHL,Bemidji-State
+,1,"Enright, Gavin",Sr,6-2,170,8/26/1999,"Farmington, Minn.",Goaltenders,74,,,,Green Bay,USHL,Bemidji-State
+,35,"Robbins, Raythan",Fr,5-11,187,6/5/2002,"Anchorage, Alaska",Goaltenders,71,,,,Anchorage,NAHL,Bemidji-State
+,30,"Sholl, Mattias",Jr,5-10,175,9/30/2000,"Hermosa Beach, Calif.",Goaltenders,70,,,,Youngstown,USHL,Bemidji-State
+,2,"Barnett, Eli",Fr,6-6,227,9/16/2003,"Ottawa, Ont.",Defensemen,78,,,,Victoria,BCHL,Vermont
+,39,"Bergmanis, Ralfs",So,5-10,175,3/13/2002,"Liepaja, Latvia",Defensemen,70,,,,Sioux City,USHL,Vermont
+,4,"Bucheler, Jeremie",Gr,6-4,218,3/31/2000,"St.-Laurent, Que.",Defensemen,76,,,,Northeastern,HEA,Vermont
+,10,"Gasparini, Mario",Fr,5-11,182,2/28/2003,"Lakeville, Minn.",Defensemen,71,,,,Wenatchee,BCHL,Vermont
+,20,"Henry, Xavier",So,6-5,216,3/20/2001,"Scarborough, Ont.",Defensemen,77,,,,Chilliwack,BCHL,Vermont
+,28,"Jones, Lucas",So,6-4,205,2/24/2001,"Calgary, Alb.",Defensemen,76,,,,Fort McMurray,AJHL,Vermont
+,25,"Malinski, Jack",Fr,5-10,165,6/23/2002,"Lakeville, Minn.",Defensemen,70,,,,Austin,NAHL,Vermont
+,15,"Münzenberger, Luca",Jr,6-3,200,11/24/2002,"Düsseldorf, Germany",Defensemen,75,2021,EDM,3,Kölner U20,,Vermont
+,24,"Ramsay, Duncan",Fr,6-5,204,2/8/2004,"Halifax, N.S.",Defensemen,77,,,,Chiliwack,BCHL,Vermont
+,33,"Törnqvist, Philip",So,6-0,181,8/24/2001,"Gothenburg, Sweden",Defensemen,72,,,,Wichita Falls,NAHL,Vermont
+,37,"Ahern, Nick",Fr,5-10,165,12/2/2002,"Chicago, Ill.",Forwards,70,,,,,,Vermont
+,12,"Buyalsky, Andrei",Jr,6-3,190,8/18/2000,"Karaganda, Kazakhstan",Forwards,75,2021,COL,3,Dubuque,USHL,Vermont
+,17,"Cato, Matt",Fr,5-11,180,9/15/2003,"Whitby, Ont.",Forwards,71,,,,Trenton,OJHL,Vermont
+,11,"Dixon, Mateo",Fr,5-10,185,8/19/2002,"Toronto, Ont.",Forwards,70,,,,Coquitlam,BCHL,Vermont
+,32,"Dubinsky, Zach",Sr,5-8,175,3/14/2000,"Highland Park, Ill.",Forwards,68,,,,Michigan State,B10,Vermont
+,14,"Good, Dawson",So,6-1,205,4/17/2002,"Abbotsford, B.C.",Forwards,73,,,,Chilliwack,BCHL,Vermont
+,19,"Jellus, Simon",Jr,6-3,202,1/18/2001,"Ilava, Slovakia",Forwards,75,,,,Karlskrona HK,,Vermont
+,18,"Lombardi, Massimo",So,5-10,195,5/18/2002,"Beaconsfield, Que.",Forwards,70,,,,Cowichan Valley,BCHL,Vermont
+,9,"Maatta, Joel",Jr,6-3,202,7/6/2002,"Helsinki, Finland",Forwards,75,2022,EDM,7,Sioux City,USHL,Vermont
+,23,"Miotto, Ryan",Gr,6-0,187,7/11/1999,"Thorold, Ont.",Forwards,72,,,,Canisius,AHA,Vermont
+,29,"Richards, Jens",So,6-2,194,12/14/2002,"Detroit Lakes, Minn.",Forwards,74,,,,Austin,NAHL,Vermont
+,21,"Sambuco, Daniel",Fr,6-0,200,6/10/2003,"Springfield, Pa.",Forwards,72,,,,Lincoln,USHL,Vermont
+,26,"Sinclair, Thomas",So,6-3,194,12/26/2002,"Toronto, Ont.",Forwards,75,,,,Fargo,USHL,Vermont
+,13,"Spitserov, Timofei",Jr,6-0,176,3/26/2002,"St. Petersburg, Russia",Forwards,72,2020,SJS,7,Muskegon,USHL,Vermont
+,7,"Theodore, Chris",Gr,5-6,178,10/15/1997,"Beaconsfield, Que.",Forwards,66,,,,Union,ECAC,Vermont
+,22,"Walther, Isak",Jr,6-3,179,8/2/2001,"Södertälje, Sweden",Forwards,75,,,,Södertälje SK J20,,Vermont
+,16,"Zapernick, Will",Sr,5-10,180,11/16/1999,"Edmonton, Alb.",Forwards,70,,,,Sherwood Park,AJHL,Vermont
+,35,"Carriere, Gabe",Sr,6-2,185,11/5/2000,"Ottawa, Ont.",Goaltenders,74,,,,Waterloo,USHL,Vermont
+,1,"MacKenzie, Connor",Fr,6-0,190,5/10/2002,"Toronto, Ont.",Goaltenders,72,,,,Grand Prairie,AJHL,Vermont
+,50,"Mangbo, Axel",Fr,6-3,181,4/15/2003,"Höganäs, Sweden",Goaltenders,75,,,,Sioux City,USHL,Vermont
+,6,"Adamson, Mikey",Jr,5-9,170,8/16/2001,"Quincy, Mass.",Defensemen,69,,,,Massachusetts,HEA,Sacred-Heart
+,3,"Anderson, Grant",Sr,6-2,180,9/15/1999,"Plymouth, Minn.",Defensemen,74,,,,Omaha,USHL,Sacred-Heart
+,4,"Dangos, Blake",Jr,5-10,170,4/8/2002,"St. Louis, Mo.",Defensemen,70,,,,Arizona State,DI Independent,Sacred-Heart
+,25,"Fantauzzi, Dante",Sr,6-1,190,5/1/2000,"Woodbridge, Ont.",Defensemen,73,,,,Alaska-Anchorage,WCHA,Sacred-Heart
+,22,"Hutchison, Conner",Jr,5-11,170,6/2/2000,"Hicksville, N.Y.",Defensemen,71,,,,Tri-City,USHL,Sacred-Heart
+,14,"Kennette, Brendan",So,6-2,195,6/9/2002,"Windsor, Ont.",Defensemen,74,,,,Brooks,AJHL,Sacred-Heart
+,5,"Kulbis-Marino, Andrius",Sr,6-0,182,2/16/2000,"Methuen, Mass.",Defensemen,72,,,,Tri City,USHL,Sacred-Heart
+,8,"Sansbury, Hunter",Jr,5-11,180,10/8/2000,"Lomita, Calif.",Defensemen,71,,,,Salmon Arm,BCHL,Sacred-Heart
+,11,"Spott, Tyler",Gr,5-11,175,6/17/2000,"Toronto, Ont.",Defensemen,71,,,,Northeastern,HEA,Sacred-Heart
+,7,"Sundquist, Garrett",Sr,6-3,208,7/17/2001,"South Glastonbury, Conn.",Defensemen,75,,,,Providence,HEA,Sacred-Heart
+,19,"Bongo, Jake",Fr,5-10,170,2/4/2003,"Ridgefield, Conn.",Forwards,70,,,,Surrey,BCHL,Sacred-Heart
+,24,"Cheremeta, Mark",Fr,5-11,185,7/12/1999,"Parkland, Fla.",Forwards,71,,,,Ohio State,B10,Sacred-Heart
+,17,"Connolly, Aidan",So,5-10,180,10/5/2001,"Marshfield, Mass.",Forwards,70,,,,Maine,NAHL,Sacred-Heart
+,21,"Dumas, Brendan",Fr,5-10,185,8/28/2002,"North Attleborough, Mass.",Forwards,70,,,,New Jersey,NAHL,Sacred-Heart
+,9,"Ebrahim, Daniel",Jr,6-0,185,7/12/2000,"Brooklin, Ont.",Forwards,72,,,,Jersey,NCDC,Sacred-Heart
+,27,"Galata, Cole",Fr,5-10,175,3/18/2002,"Barrie, Ont.",Forwards,70,,,,Surrey,BCHL,Sacred-Heart
+,10,"Hanzawa, Chikara",So,5-8,165,7/12/2001,"Tokyo, Japan",Forwards,68,,,,South Shore,NCDC,Sacred-Heart
+,29,"Hlusiak, Rylee",Fr,5-10,175,6/3/2002,"Barrie, Ont.",Forwards,70,,,,West Kelowna,BCHL,Sacred-Heart
+,20,"Humphrey, Blake",So,5-9,170,1/18/2002,"Syracuse, N.Y.",Forwards,69,,,,Sioux Falls,USHL,Sacred-Heart
+,26,"Izyk, Liam",Fr,6-1,187,12/27/1998,"Blackie, Alb.",Forwards,73,,,,Boston College,HEA,Sacred-Heart
+,18,"Jaworski, John",Sr,5-10,176,3/20/2000,"Grinnell, Iowa",Forwards,70,,,,Chicago,USHL,Sacred-Heart
+,28,"Joughin, Marcus",So,5-11,181,7/5/2001,"Tecumseh, Ont.",Forwards,71,,,,West Kelowna,BCHL,Sacred-Heart
+,12,"Lombardi, Kevin",Gr,6-4,234,8/12/1998,"Schwenksville, Pa.",Forwards,76,,,,Sioux City,USHL,Sacred-Heart
+,16,"Robbins, Dylan",So,6-0,174,8/29/2001,"Alpine, N.J.",Forwards,72,,,,Chicago,USHL,Sacred-Heart
+,23,"Tuck, Braeden",Gr,6-0,183,4/15/1998,"Calgary, Alb.",Forwards,72,,,,Trail,BCHL,Sacred-Heart
+,13,"Walsh, TJ",Gr,5-8,175,4/29/2000,"Shrewsbury, Mass.",Forwards,68,,,,Rensselaer,ECAC,Sacred-Heart
+,32,"Clark, Chase",Jr,6-6,218,4/8/2002,"Williamsville, N.Y.",Goaltenders,78,2021,WSH,6,Quinnipiac,ECAC,Sacred-Heart
+,39,"DeYoung, Cullen",Fr,5-10,165,2/3/2002,"Canton, Mich.",Goaltenders,70,,,,Northeast,NAHL,Sacred-Heart
+,1,"O'Dea, Jack",Jr,5-10,140,9/7/2000,"Brighton, Mass.",Goaltenders,70,,,,Bridgton Academy,Prep,Sacred-Heart
+,31,"Robbins, Justin",Gr,5-9,160,3/10/1999,"Alpine, N.J.",Goaltenders,69,,,,Arizona State,D1 Independent,Sacred-Heart
+,6,"Agnew, Jack",Jr,5-11,195,10/22/2001,"Oakville, Ont.",Defensemen,71,,,,Boston College,HEA,Rensselaer
+,11,"Ardanaz, Nick",So,5-10,175,5/30/2002,"Surrey, B.C.",Defensemen,70,,,,West Kelowna,BCHL,Rensselaer
+,10,"Davies, Dylan",Sr,6-3,195,2/9/2001,"Traverse City, Mich.",Defensemen,75,,,,Austin Bruins,,Rensselaer
+,61,"Matta, Lucas",Fr,6-2,200,10/4/2002,"Kleinburg, Ont.",Defensemen,74,,,,Western Michigan,NCHC,Rensselaer
+,8,"Regula, CJ",Gr,6-3,205,5/29/1998,"Bloomfield Hills, Mich.",Defensemen,75,,,,Ohio State,B10,Rensselaer
+,3,"Sertti, Lauri",Sr,6-1,200,7/11/1999,"Espoo, Finland",Defensemen,73,,,,Amarillo,NAHL,Rensselaer
+,7,"Smolinski, Max",So,5-11,180,4/2/2003,"Bloomfield Hills, Mich.",Defensemen,71,,,,Fargo,USHL,Rensselaer
+,23,"Strom, Nick",Jr,6-0,190,3/21/2000,"Dayton, Minn.",Defensemen,72,,,,Fargo,USHL,Rensselaer
+,17,"Beaton, John",Sr,6-2,190,10/30/2000,"Stittsville, Ont.",Forwards,74,,,,Kemptville 73's,,Rensselaer
+,24,"Brackett, Jack",Sr,5-10,180,12/31/2000,"Manassas, Va.",Forwards,70,,,,Powell River,BCHL,Rensselaer
+,51,"Brown, Finn",So,6-3,195,4/6/2002,"North York, Ont.",Forwards,75,,,,Alberni,BCHL,Rensselaer
+,9,"Brushett, Ryan",Gr,6-0,185,6/14/1998,"Verdun, Que.",Forwards,72,,,,Omaha,NCHC,Rensselaer
+,29,"Budy, Brendan",Gr,5-11,190,6/6/2000,"Langley, B.C.",Forwards,71,,,,North Dakota,NCHC,Rensselaer
+,22,"Ciccarello, Danny",So,6-0,200,3/23/2001,"Kirkland, Que.",Forwards,72,,,,Fort McMurray,AJHL,Rensselaer
+,14,"Evans, John",So,5-10,150,4/8/2002,"South Surrey, B.C.",Forwards,70,,,,West Kelowna,BCHL,Rensselaer
+,27,"Gagnon, Jake",Sr,5-10,175,11/4/1999,"Pointe-Claire, Que.",Forwards,70,,,,Wellington,OJHL,Rensselaer
+,12,"Heidemann, Austin",Sr,6-0,190,6/27/1999,"Maple Grove, Minn.",Forwards,72,,,,Mercyhurst,AHA,Rensselaer
+,28,"Hotson, Tyler",Fr,5-10,180,3/17/2003,"Stratford, Ont.",Forwards,70,,,,Sioux City,USHL,Rensselaer
+,18,"Lee, Jakob",Sr,6-0,190,2/12/1999,"Owen Sound, Ont.",Forwards,72,,,,Merrimack,HEA,Rensselaer
+,43,"McNeil, Brad",Fr,6-1,185,3/15/2002,"Royal Oak, Mich.",Forwards,73,,,,Maryland,NAHL,Rensselaer
+,19,"Muzzatti, Sutter",So,6-6,240,6/28/2003,"Okemos, Mich.",Forwards,78,2023,NSH,5,Austin,NAHL,Rensselaer
+,15,"Nykanen, Altti",Sr,6-3,200,9/26/2001,"Vihti, Finland",Forwards,75,,,,Bishop's College Prep. School,,Rensselaer
+,71,"Payant, Jeremie",Fr,5-10,175,10/7/2002,"Saint-Lazare, Que.",Forwards,70,,,,Nanaimo,BCHL,Rensselaer
+,20,"Sullivan, Nathan",Fr,6-4,200,5/31/2004,"Calgary, Alb.",Forwards,76,,,,Camrose,AJHL,Rensselaer
+,25,"Tinling, Dovar",Jr,5-11,180,3/3/2003,"Pointe-Claire, Que.",Forwards,71,,,,Penticton,BCHL,Rensselaer
+,1,"Cherepak, Carson",So,6-0,170,10/9/2002,"Winnipeg, Man.",Goaltenders,72,,,,Dauphin,MJHL,Rensselaer
+,30,"Miller, Brett",Sr,6-3,185,4/26/1999,"Northville, Mich.",Goaltenders,75,,,,Cedar Rapids,USHL,Rensselaer
+,34,"Watson, Jack",Jr,6-3,195,3/14/2000,"Toronto, Ont.",Goaltenders,75,,,,Coquitlam,BCHL,Rensselaer
+,22,"Brockhoff, Lane",So,6-1,207,4/11/2000,"Edberg, Alb.",Defensemen,73,,,,Camrose,AJHL,Niagara
+,5,"Carlin, Noah",Jr,6-0,174,6/13/2000,"Marine City, Mich.",Defensemen,72,,,,Omaha,USHL,Niagara
+,28,"Lund, Ethan",So,5-10,185,3/16/2001,"Calgary, Alb.",Defensemen,70,,,,Brooks,AJHL,Niagara
+,3,"Mickel, Cole",Fr,5-11,170,5/3/2002,"Broomfield, Colo.",Defensemen,71,,,,Wisconsin,NAHL,Niagara
+,26,"Murray, Alex",Sr,5-11,183,3/17/2000,"Glenview, Ill.",Defensemen,71,,,,Miami,NCHC,Niagara
+,24,"Mysak, Josef",Sr,6-3,215,9/8/1999,"Litvínov, Czech Republic",Defensemen,75,,,,Austin,NAHL,Niagara
+,29,"Posma, David",So,6-0,170,8/27/2003,"Pomona, N.Y.",Defensemen,72,,,,New Jersey,NAHL,Niagara
+,17,"Ruoho, Max",So,6-0,174,3/5/2001,"Madison, Wis.",Defensemen,72,,,,Minnesota,NAHL,Niagara
+,2,"Ziskie, Jonathan",So,6-3,187,3/19/2001,"Macomb, Mich.",Defensemen,75,,,,Bismarck,NAHL,Niagara
+,9,"Ahearn, Jay",Jr,5-11,170,5/23/2001,"Staten Island, N.Y.",Forwards,71,,,,Johnstown,NAHL,Niagara
+,11,"Gauthier, Olivier",Sr,5-10,185,4/9/1999,"Ferme-Neuve, Que.",Forwards,70,,,,Alaska Anchorage,WCHA,Niagara
+,20,"Gorscak, Christian",Sr,5-11,183,6/8/2000,"Jeannette, Pa.",Forwards,71,,,,Johnstown,NAHL,Niagara
+,34,"Hackett, Noah",So,6-1,174,12/11/2001,"Ponoka, Alb.",Forwards,73,,,,Brooks,AJHL,Niagara
+,27,"Jessli, Aron",Fr,6-1,185,10/29/2004,"Lørenskog, Norway",Forwards,73,,,,Pickering,OJHL,Niagara
+,7,"Kesslering, Steven",Fr,5-11,190,5/17/2002,"Viceroy, Sask.",Forwards,71,,,,Battleford,SJHL,Niagara
+,16,"Leslie, Jaedon",Fr,6-1,187,8/4/1998,"St. Albert, Alb.",Forwards,73,,,,Ohio State,B10,Niagara
+,14,"Mylymok, Connor",Sr,6-1,205,3/18/2000,"Wilcox, Miss.",Forwards,73,,,,Alaska,D1 Independent,Niagara
+,8,"Mylymok, Luke",Sr,5-10,185,9/29/2001,"Wilcox, Sask.",Forwards,70,,,,Minnesota Duluth,NCHC,Niagara
+,21,"Ott, Shane",Jr,6-1,181,7/21/2000,"Centennial, Colo.",Forwards,73,,,,Janesville,NAHL,Niagara
+,4,"Prohorenkovs, Glebs",So,6-2,187,11/12/2001,"Riga, Latvia",Forwards,74,,,,Amarillo,NAHL,Niagara
+,10,"Randklev, Carter",Sr,5-8,163,11/5/1999,"Moorhead, Minn.",Forwards,68,,,,Fargo,USHL,Niagara
+,13,"Richard, Jack",Fr,6-4,180,12/13/2002,"Stoney Creek, Ont.",Forwards,76,2022,BUF,6,Burlington,OJHL,Niagara
+,23,"Rodne, Lars",Jr,6-0,181,7/22/2000,"Stavanger, Norway",Forwards,72,,,,Bismarck,NAHL,Niagara
+,19,"Vieten, Drew",So,6-1,190,1/10/2001,"Calabasas, Calif.",Forwards,73,,,,Wichita Falls,NAHL,Niagara
+,18,"Wallace, Tyler",Fr,6-2,188,5/19/2002,"Calgary, Alb.",Forwards,74,,,,Blackfalds,AJHL,Niagara
+,25,"Wescoe, Johnny",So,5-8,150,6/6/2001,"Mechanicsburg, Pa.",Forwards,68,,,,New Jersey,NCDC,Niagara
+,30,"Day, Mitchell",Fr,5-10,175,1/18/2002,,Goaltenders,70,,,,North Iowa,NAHL,Niagara
+,31,"Fiske, Jarrett",Fr,6-4,190,5/28/1999,"Erie, Pa.",Goaltenders,76,,,,American Int'l,AHA,Niagara
+,39,"Ouellette, Ryan",Jr,6-0,185,12/6/2000,"Colorado Springs, Colo.",Goaltenders,72,,,,Wisconsin-Eau Claire,NCAA D3,Niagara
+,3,"Antonacci, Luke",So,5-9,168,11/26/2002,"Princeton, N.J.",Defensemen,69,,,,Sioux City,USHL,Maine
+,23,"Arnott, Grayson",So,5-9,170,6/14/2001,"Toronto, Ont.",Defensemen,69,,,,Penticton,BCHL,Maine
+,37,"Breazeale, David",Jr,6-4,201,4/22/2000,"Jenison, Mich.",Defensemen,76,,,,Shreveport,NAHL,Maine
+,15,"Chabrier, Brandon",So,5-11,170,7/19/2002,"Bayville, N.Y.",Defensemen,71,,,,Madison ,USHL,Maine
+,4,"Holt, Brandon",So,5-11,175,4/30/2001,"Grand Forks, N.D.",Defensemen,71,,,,New Mexico,NAHL,Maine
+,5,"Hopkins, Ryan",Fr,6-1,183,4/15/2004,"Lunenburg, N.S.",Defensemen,73,,,,Penticton,BCHL,Maine
+,6,"Lesakowski, Liam",Fr,6-5,220,12/12/2003,"Buffalo, N.Y.",Defensemen,77,,,,Cedar Rapids,USHL,Maine
+,34,"Nobes, Bodie",Fr,5-10,185,7/18/2003,"Kitchener, Ont.",Defensemen,70,,,,Green Bay,USHL,Maine
+,27,"Breen, Lynden",Sr,5-9,168,5/31/2001,"Grand Bay-Westfield, N.B.",Forwards,69,,,,Fargo,USHL,Maine
+,28,"Calafiore, Anthony",Fr,5-9,170,4/6/2002,"Staten Island, N.Y.",Forwards,69,,,,New Jersey,NAHL,Maine
+,16,"Carney, Aiden",So,6-4,195,9/8/2001,"Paradise Valley, Ariz.",Forwards,76,,,,Amarillo,NAHL,Maine
+,26,"Freel, Thomas",So,5-11,165,6/26/2001,"Aberdeen, Great Britain",Forwards,71,,,,Ottawa,CCHL,Maine
+,10,"Hanson, Cole",Jr,5-11,180,9/19/2000,"Grand Forks, N.D.",Forwards,71,,,,Colgate,ECAC,Maine
+,18,"Lindauer, Parker",So,5-11,181,5/17/2001,"Madison, Wis.",Forwards,71,,,,Muskegon,USHL,Maine
+,20,"Nadeau, Josh",Fr,5-8,158,10/22/2003,"St-François-de-Madawaska, NB",Forwards,68,,,,Penticton,BCHL,Maine
+,82,"Nadeau, Bradly",Fr,5-10,163,5/5/2005,"St-François-de-Madawaska, NB",Forwards,70,2023,CAR,1,Penticton,BCHL,Maine
+,25,"Niemo, Nicholas",Jr,5-11,180,3/28/2001,"Middlebury, Vt.",Forwards,71,,,,Bentley,AHA,Maine
+,21,"Pabich, Reid",So,5-10,174,10/5/2001,"Verona, Wis.",Forwards,70,,,,Madison,USHL,Maine
+,12,"Poisson, Ben",Gr,6-1,205,8/31/1999,"Vancouver, B.C.",Forwards,73,,,,Prince George,BCHL,Maine
+,24,"Renwick, Nolan",Jr,6-3,196,2/16/2001,"Milestone, Sask.",Forwards,75,,,,Omaha,USHL,Maine
+,14,"Scholle, Sully",Fr,5-10,170,3/19/2003,"Chaska, Minn.",Forwards,70,,,,New Mexico,NAHL,Maine
+,22,"Scott, Harrison",Sr,6-0,185,9/27/2000,"San Jose, Calif.",Forwards,72,,,,Bentley,AHA,Maine
+,17,"Trudeau, Felix",So,6-2,190,9/24/2002,"Terrebonne, Que.",Forwards,74,,,,West Kelowna,BCHL,Maine
+,11,"Villeneuve-Houle, Donavan",Sr,6-0,185,11/4/1999,"Montreal, Que.",Forwards,72,,,,Flin Flon,SJHL,Maine
+,33,"Androlewicz, Connor",Sr,6-2,202,11/28/2000,"St. Louis, Mo.",Goaltenders,74,,,,Lincoln,USHL,Maine
+,30,"Boija, Albin",Fr,6-1,181,8/20/2003,"Sundsvall, Sweden",Goaltenders,73,,,,IF Sundsvall,,Maine
+,32,"Ostman, Victor",Sr,6-4,200,10/3/2000,"Danderyd, Sweden",Goaltenders,76,,,,Chicago,USHL,Maine
+,15,"Benoit, Nate",Fr,6-0,183,11/26/2002,"Bow, N.H.",Defensemen,72,2021,MIN,6,Waterloo,USHL,North-Dakota
+,6,"Britt, Logan",Gr,6-2,185,2/10/1999,"Crystal Lake, Ill.",Defensemen,74,,,,Sacred Heart,AHA,North-Dakota
+,10,"Komzak, Tanner",Fr,6-4,207,6/30/2002,"North Vancouver, B.C.",Defensemen,76,,,,Whitecourt,AJHL,North-Dakota
+,4,"Livanavage, Jake",Fr,5-10,183,5/6/2004,"Phoenix, Ariz.",Defensemen,70,,,,Chicago,USHL,North-Dakota
+,20,"Pehrson, Keaton",Gr,6-2,206,12/10/1998,"Lakeville, Minn.",Defensemen,74,,,,Tri-City,USHL,North-Dakota
+,7,"Pyke, Garrett",Sr,6-0,190,8/1/1999,"Mississauga, Ont.",Defensemen,72,,,,Alaska,DI Independent,North-Dakota
+,25,"Wiebe, Abram",Fr,6-2,200,8/28/2003,"Mission, B.C.",Defensemen,74,2022,VGK,7,Chiliwack,BCHL,North-Dakota
+,2,"Zmolek, Bennett",Jr,6-2,193,4/17/2002,"Rochester, Minn.",Defensemen,74,,,,Minnesota State,CCHA,North-Dakota
+,13,"Albrecht, Carson",Gr,5-10,190,5/23/1998,"Martensville, Sask.",Forwards,70,,,,Melfort,SJHL,North-Dakota
+,14,"Berg, Cameron",Jr,5-11,200,1/29/2002,"West Fargo, N.D.",Forwards,71,2021,NYI,4,Omaha,NCHC,North-Dakota
+,9,"Blake, Jackson",So,5-11,173,8/3/2003,"Fargo, N.D.",Forwards,71,2021,CAR,4,Chicago,USHL,North-Dakota
+,24,"Emerson, Michael",Fr,6-1,190,12/26/2003,"Yorktown Heights, N.Y.",Forwards,73,2023,CAR,6,Chicago,USHL,North-Dakota
+,17,"Gaber, Riese",Sr,5-8,170,10/10/1999,"Gilbert Plains, Man.",Forwards,68,,,,Dubuque,USHL,North-Dakota
+,27,"Jamernik V, Louis",Sr,5-11,203,2/22/2000,"Calgary, Alb.",Forwards,71,,,,Okotoks,AJHL,North-Dakota
+,26,"James, Dylan",So,6-0,178,10/12/2003,"Calgary, Alb.",Forwards,72,2022,DET,2,Sioux City,USHL,North-Dakota
+,28,"Johannes, Hunter",Gr,6-3,217,7/24/1998,"Eden Prairie, Minn.",Forwards,75,,,,Lindenwood,DI Independent,North-Dakota
+,29,"Kunz, Jackson",Jr,6-3,224,8/13/2002,"Grand Forks, N.D.",Forwards,75,2020,VAN,4,Green Bay,USHL,North-Dakota
+,22,"McLaughlin, Owen",So,6-0,172,3/25/2003,"Spring City, Pa.",Forwards,72,2021,PHI,7,Sioux City,USHL,North-Dakota
+,5,"Montgomery, Dane",Jr,5-10,169,1/7/2002,"Grand Forks, N.D.",Forwards,70,,,,Waterloo,USHL,North-Dakota
+,11,"Ness, Griffin",Sr,6-0,184,12/10/1999,"Wayzata, Minn.",Forwards,72,,,,Waterloo,USHL,North-Dakota
+,18,"Perron, Jayden",Fr,5-9,160,1/11/2005,"Winnipeg, Man.",Forwards,69,2023,CAR,3,Chicago,USHL,North-Dakota
+,8,"Schmaltz, Jake",Jr,6-2,186,4/24/2001,"McFarland, Wis.",Forwards,74,2019,BOS,7,Green Bay,USHL,North-Dakota
+,21,"Strinden, Ben",So,6-1,201,6/4/2002,"Fargo, N.D.",Forwards,73,2022,NSH,7,Muskegon,USHL,North-Dakota
+,30,"Hedquist, Hobie",Fr,6-2,191,2/14/2003,"Heron Lake, Minn.",Goaltenders,74,,,,Alberni Valley,BCHL,North-Dakota
+,1,"Johnson, Kaleb",So,6-0,181,1/7/2001,"Grand Forks, N.D.",Goaltenders,72,,,,Minnesota,NAHL,North-Dakota
+,32,"Persson, Ludvig",Sr,6-0,181,10/6/1999,"Hindås, Sweden",Goaltenders,72,,,,Miami,NCHC,North-Dakota
+,22,"Bellini, Steven",Jr,5-10,170,5/23/2000,"Sault Ste. Marie, Ont.",Defensemen,70,,,,Tri-City,USHL,Minnesota-State
+,8,"Cichosz, Campbell",So,6-0,182,8/23/2001,"Albert Lea, Minn.",Defensemen,72,,,,Alaska,NAHL,Minnesota-State
+,3,"Koch, Brandon",Gr,6-0,190,1/18/1999,"Hastings, Minn.",Defensemen,72,,,,Air Force,AHA,Minnesota-State
+,27,"Malinowski, Tony",Sr,6-5,202,10/15/1999,"Clarkston, Mich.",Defensemen,77,,,,Des Moines,USHL,Minnesota-State
+,10,"Murr, Evan",Fr,5-10,178,2/27/2003,"Stillwater, Minn.",Defensemen,70,,,,Sioux Falls,USHL,Minnesota-State
+,13,"Power, Jordan",Gr,6-1,187,7/13/2001,"Ottawa, Ont.",Defensemen,73,,,,Clarkson,ECAC,Minnesota-State
+,18,"Stender, Jakob",Fr,5-11,185,8/7/2002,"Alexandria, Minn.",Defensemen,71,,,,Fargo,USHL,Minnesota-State
+,5,"Wheeler, Mason",So,6-1,201,9/29/2001,"Inver Grove Heights, Minn.",Defensemen,73,,,,Tri-City,USHL,Minnesota-State
+,26,"Bohlsen, Kaden",Gr,6-3,192,1/10/2001,"Willmar, Minn.",Forwards,75,,,,Omaha,NCHC,Minnesota-State
+,28,"Carrabes, Brian",Sr,5-10,165,8/1/2001,"North Andover, Mass.",Forwards,70,,,,Boston University,HEA,Minnesota-State
+,9,"Edwards, Tanner",Jr,6-1,177,3/11/2000,"Anchorage, Alaska",Forwards,73,,,,Muskegon,USHL,Minnesota-State
+,15,"Eisele, Adam",So,6-1,178,7/11/2001,"Lake Elmo, Minn.",Forwards,73,,,,Penticton,BCHL,Minnesota-State
+,20,"Gregga, Connor",Sr,5-10,180,7/24/2000,"Markham, Ont.",Forwards,70,,,,Coquitlam,BCHL,Minnesota-State
+,12,"Groll, Josh",Sr,5-11,175,8/9/2001,"San Diego, Calif.",Forwards,71,,,,Lincoln,USHL,Minnesota-State
+,11,"Haskins, Tyler",Jr,6-1,170,7/7/2003,"Rochester, Minn.",Forwards,73,,,,Denver,NCHC,Minnesota-State
+,19,"Hillman, Will",Jr,6-2,181,11/22/2000,"Blaine, Minn.",Forwards,74,,,,Youngstown,USHL,Minnesota-State
+,24,"Krajnik, Zach",Jr,5-11,172,5/13/1999,"Eagle River, Alaska",Forwards,71,,,,Kenai River,NAHL,Minnesota-State
+,4,"Moravec, Bret",Fr,5-10,176,2/26/2003,"Airdrie, Alb.",Forwards,70,,,,Penticton,BCHL,Minnesota-State
+,6,"Morton, Sam",Gr,6-0,180,7/28/1999,"Lafayette, Colo.",Forwards,72,,,,Union,ECAC,Minnesota-State
+,14,"Nielsen, Kade",Fr,5-9,170,8/6/2002,"Burnsville, Minn.",Forwards,69,,,,Chippewa,NAHL,Minnesota-State
+,25,"Olson, Brenden",Jr,6-1,173,10/18/2000,"Eau Claire, Wis.",Forwards,73,,,,Sioux City,USHL,Minnesota-State
+,21,"Sowder, Lucas",Gr,5-11,172,11/15/1998,"Trinity, Fla.",Forwards,71,,,,Wenatchee,BCHL,Minnesota-State
+,23,"Steinmetz, Jordan",Fr,5-8,160,1/10/1999,"Chippewa Falls, Wis.",Forwards,68,,,,St. Lawrence,ECAC,Minnesota-State
+,7,"Wilson, Luc",So,5-8,173,11/22/2001,"Duncan, B.C.",Forwards,68,,,,Penticton,BCHL,Minnesota-State
+,32,"Miller, Andrew",Jr,6-0,182,2/10/2000,"Boulder, Colo.",Goaltenders,72,,,,Fargo,USHL,Minnesota-State
+,35,"Rancier, Keenan",Jr,6-2,185,6/21/2000,"Victoria, B.C.",Goaltenders,74,,,,Minot,NAHL,Minnesota-State
+,33,"Tracy, Alex",So,6-0,179,5/4/2001,"Chicago, Ill.",Goaltenders,72,,,,Sioux City,USHL,Minnesota-State
+,37,"Andrews, Nicklas",Sr,5-10,192,7/6/2001,"Canton, Mich.",Defensemen,70,,,,Des Moines,USHL,Colorado-College
+,4,"Burkholder, Max",Fr,5-8,176,8/8/2003,"Chaska, Minn.",Defensemen,68,,,,Dubuque,USHL,Colorado-College
+,22,"Charchenko, Nikolai",So,6-2,209,6/3/2001,"Victoria, Minn.",Defensemen,74,,,,Minot,NAHL,Colorado-College
+,21,"Dunbar, Tyler",Fr,6-1,190,12/18/2003,"Sault Ste. Marie, Mich.",Defensemen,73,,,,Lincoln,USHL,Colorado-College
+,15,"Fernandez, Antonio",Fr,5-9,181,10/11/2003,"San Jose, Calif.",Defensemen,69,,,,Lincoln,USHL,Colorado-College
+,7,"Foley, Chase",Sr,5-10,168,2/17/2000,"Mendota Heights, Minn.",Defensemen,70,,,,Sioux Falls,USHL,Colorado-College
+,18,"Mayer, Connor",Gr,5-11,177,6/13/1999,"Champlin, Minn.",Defensemen,71,,,,Central Illinois,USHL,Colorado-College
+,5,"Millar, Jack",Sr,6-5,211,11/30/2000,"Westminster, Colo.",Defensemen,77,,,,Cedar Rapids Roughriders,USHL,Colorado-College
+,23,"Straky, Ethan",So,5-11,179,4/18/2003,"Walnut Creek, Calif.",Defensemen,71,,,,Green Bay,USHL,Colorado-College
+,8,"Beck, Ryan",So,5-9,185,8/25/2002,"Linden, Mich.",Forwards,69,,,,Dubuque,USHL,Colorado-College
+,11,"Christy, Ray",Sr,5-10,165,9/15/1999,"St. Paul, Minn.",Forwards,70,,,,Sioux City,USHL,Colorado-College
+,17,"Coffey, Tyler",Sr,5-10,179,5/19/2000,"Hamilton, N.J.",Forwards,70,,,,Sioux Falls,USHL,Colorado-College
+,27,"Cooley, Stanley",Jr,5-11,194,5/27/2002,"Ottawa, Ont.",Forwards,71,,,,Lincoln,USHL,Colorado-College
+,26,"Laba, Noah",So,6-1,181,8/4/2003,"Northville, Mich.",Forwards,73,2022,NYR,4,Lincoln,USHL,Colorado-College
+,10,"Link, Bret",Fr,6-2,187,4/9/2002,"Anchorage, Alaska",Forwards,74,,,,Fargo,USHL,Colorado-College
+,12,"Middleton, Tommy",Jr,5-11,176,6/19/2000,"Midland, Mich.",Forwards,71,,,,Janesville,NAHL,Colorado-College
+,29,"Montgomery, Drew",Fr,5-11,170,3/27/2003,"Grand Forks, N.D.",Forwards,71,,,,Omaha,USHL,Colorado-College
+,9,"Serdachny, Noah",So,6-1,174,3/9/2003,"Edmonton, Alb.",Forwards,73,,,,Salmon Arm,BCHL,Colorado-College
+,25,"Stuart, Riley",Fr,6-2,201,1/17/2002,"Phoenix, Ariz.",Forwards,74,,,,Dubuque,USHL,Colorado-College
+,24,"Veinbergs, Klavs",Fr,6-3,198,3/27/2003,"Riga, Latvia",Forwards,75,,,,Lincoln,USHL,Colorado-College
+,28,"Veremyev, Gleb",So,6-4,201,6/28/2003,"Sayreville, N.J.",Forwards,76,,,,Lincoln,USHL,Colorado-College
+,39,"Weight, Danny",Sr,5-11,178,5/1/2001,"Lattingtown, N.Y.",Forwards,71,,,,Boston College,HEA,Colorado-College
+,19,"Werner, Evan",Fr,5-8,165,2/13/2003,"Flower Mound, Texas",Forwards,68,,,,Tri-City,USHL,Colorado-College
+,20,"Will, Logan",Sr,5-11,186,6/14/2000,"Ames, Iowa",Forwards,71,,,,Omaha,USHL,Colorado-College
+,2,"Wisdom, Zaccharya",Fr,6-0,174,4/21/2004,"Toronto, Ont.",Forwards,72,,,,Cedar Rapids,USHL,Colorado-College
+,1,"Begley, Jake",Sr,6-1,158,3/18/1999,"Mahtomedi, Minn.",Goaltenders,73,,,,Brockville,CCHL,Colorado-College
+,30,"Mbereko, Kaidan",So,5-11,190,7/28/2003,"West Bloomfield, Mich.",Goaltenders,71,,,,Lincoln,USHL,Colorado-College
+,31,"Wilder, Henry",Gr,6-0,185,3/19/2001,"Needham, Mass.",Goaltenders,72,,,,Boston College,HEA,Colorado-College
+,9,"Basgall, Matt",So,5-9,190,8/16/2002,"Lake Forest, Ill.",Defensemen,69,,,,Tri-City,USHL,Michigan-State
+,24,"Crossman, James",Sr,6-3,200,11/23/1998,"Denver, Colo.",Defensemen,75,,,,Odessa,NAHL,Michigan-State
+,2,"Geary, Patrick",Fr,6-1,185,2/18/2004,"Hamburg, N.Y.",Defensemen,73,,,,Waterloo,USHL,Michigan-State
+,7,"Gucciardi, David",Jr,6-1,190,10/9/2002,"Toronto, Ont.",Defensemen,73,2022,WSH,7,Waterloo,USHL,Michigan-State
+,3,"Hurtig, Viktor",So,6-6,191,4/28/2002,"Falun, Sweden",Defensemen,78,,,,Växjö Lakers HC J20,,Michigan-State
+,5,"Levshunov, Artyom",Fr,6-2,198,10/28/2005,"Zhlobin, Belarus",Defensemen,74,,,,Green Bay,USHL,Michigan-State
+,4,"Nienhuis, Nash",Sr,5-10,185,12/5/1999,"Sarnia, Ont.",Defensemen,70,,,,Omaha,USHL,Michigan-State
+,6,"Oravetz, Austin",Fr,5-9,192,9/26/2003,"Canonsburg, Pa.",Defensemen,69,,,,Green Bay,USHL,Michigan-State
+,8,"Štrbák, Maxim",Fr,6-2,205,4/13/2005,"Kosice, Slovakia",Defensemen,74,2023,BUF,2,Sioux City,USHL,Michigan-State
+,16,"Baker, Owen",Fr,5-10,185,1/29/2004,"Howell, Mich.",Forwards,70,,,,Waterloo,USHL,Michigan-State
+,27,"Best, Gavin",So,6-2,187,8/24/2001,"Richfield, Minn.",Forwards,74,,,,Minnesota,NAHL,Michigan-State
+,11,"Davidson, Jeremy",Sr,5-10,170,2/28/2000,"Schoolcraft, Mich.",Forwards,70,,,,Fargo,USHL,Michigan-State
+,28,"Dorwart, Karsen",So,6-1,191,9/17/2002,"Sherwood, Ore.",Forwards,73,,,,Sioux Falls,USHL,Michigan-State
+,22,"Howard, Isaac",Jr,5-11,190,3/30/2004,"Hudson, Wis.",Forwards,71,2022,TBL,1,Minnesota Duluth,NCHC,Michigan-State
+,12,"Jurecki, Griffin",Fr,5-10,182,5/3/2003,"Grosse Ile, Mich.",Forwards,70,,,,Omaha,USHL,Michigan-State
+,26,"Kelly, Tanner",Jr,5-10,165,5/11/2002,"San Diego, Calif.",Forwards,70,,,,Muskegon,USHL,Michigan-State
+,18,"Larson, Joey",So,6-1,194,3/27/2001,"Brighton, Mich.",Forwards,73,,,,Muskegon,USHL,Michigan-State
+,23,"Lebster, Reed",Gr,6-0,188,3/4/1999,"Grand Rapids, Mich.",Forwards,72,,,,Massachusetts,HEA,Michigan-State
+,10,"Männistö, Tommi",Fr,6-0,185,2/7/2004,"Riihimäki, Finland",Forwards,72,,,,Tappara J20,,Michigan-State
+,19,"Muller, Nicolas",Gr,6-0,188,6/21/1999,"Arisdorf, Switzerland",Forwards,72,,,,Modo,Europe,Michigan-State
+,29,"O'Connell, Gavin",Fr,6-0,181,2/19/2004,"Wayzata, Minn.",Forwards,72,,,,Waterloo,USHL,Michigan-State
+,20,"Russell, Daniel",So,5-9,153,11/16/2001,"Traverse City, Mich.",Forwards,69,,,,Sioux Falls,USHL,Michigan-State
+,21,"Savage, Red",Jr,5-11,185,5/15/2003,"Scottsdale, Ariz.",Forwards,71,2021,DET,4,Miami,NCHC,Michigan-State
+,13,"Shoudy, Tiernan",So,5-9,180,3/15/2002,"Marysville, Mich.",Forwards,69,,,,Youngstown,USHL,Michigan-State
+,1,"Augustine, Trey",Fr,6-1,179,2/23/2005,"South Lyon, Mich.",Goaltenders,73,2023,DET,2,USNTDP,,Michigan-State
+,31,"Di Pasquo, Luca",Fr,6-0,201,9/24/2003,"Livonia, Mich.",Goaltenders,72,,,,Penticton,BCHL,Michigan-State
+,30,"Mor, Jon",Sr,6-2,200,7/20/2000,"Highland Park, Ill.",Goaltenders,74,,,,Langley,BCHL,Michigan-State
+,24,"Bavaro, Drew",Jr,6-3,185,6/10/2000,"Bradenton, Fla.",Defensemen,75,,,,Bentley,AHA,Notre-Dame
+,6,"Boltmann, Jake",Jr,6-1,192,10/19/2001,"Edina, Minn.",Defensemen,73,2020,CGY,3,Lincoln,USHL,Notre-Dame
+,16,"Fischer, Paul",Fr,6-0,183,1/30/2005,"River Forest, Ill.",Defensemen,72,2023,STL,5,USA U-18 Team,NTDP,Notre-Dame
+,17,"Helliwell, Ryan",Jr,6-0,192,8/5/2002,"Burnaby, B.C.",Defensemen,72,,,,Trail,BCHL,Notre-Dame
+,4,"Mastrodomenico, Michael",So,6-0,205,4/19/2004,"Kirkland, Que.",Defensemen,72,,,,Lincoln,USHL,Notre-Dame
+,12,"Nelson, Henry",Fr,6-1,174,3/25/2003,"Maple Grove, Minn.",Defensemen,73,,,,Lincoln,USHL,Notre-Dame
+,26,"Plucinski, Zach",Sr,6-1,200,7/26/2000,"Eagle River, Alaska",Defensemen,73,,,,Omaha,USHL,Notre-Dame
+,2,"Siedem, Ryan",Gr,6-2,192,2/25/2001,"Madison, N.J.",Defensemen,74,,,,Harvard,ECAC,Notre-Dame
+,3,"Weiss, Hunter",Jr,6-3,213,3/29/2001,"Lake Forest, Ill.",Defensemen,75,,,,Minnesota,NAHL,Notre-Dame
+,13,"Ali, Brennan",Fr,6-0,194,2/9/2004,"Glencoe, Ill.",Forwards,72,2022,DET,7,Lincoln,USHL,Notre-Dame
+,23,"Bjork, Brady",Sr,6-1,177,5/17/1999,"Mequon, Wis.",Forwards,73,,,,St. Cloud,NAHL,Notre-Dame
+,28,"Carpenter, Tyler",Jr,5-11,185,8/27/2000,"Palatine, Ill.",Forwards,71,,,,Omaha,USHL,Notre-Dame
+,15,"Davis, Jayden",Fr,5-11,185,3/2/2003,"Calgary, Alb.",Forwards,71,,,,Green Bay,USHL,Notre-Dame
+,14,"Fleming, Maddox",Fr,6-1,194,2/13/2004,"Rochester, Minn.",Forwards,73,,,,Sioux Falls,USHL,Notre-Dame
+,8,"Janicke, Justin",Jr,6-0,184,6/30/2003,"Maple Grove, Minn.",Forwards,72,2021,SEA,7,USA U-18 Team,NTDP,Notre-Dame
+,27,"Janicke, Trevor",Gr,5-10,195,12/25/2000,"Maple Grove, Minn.",Forwards,70,2019,ANA,5,Central Illinois,USHL,Notre-Dame
+,20,"Jovanovic, Niko",So,6-4,216,6/13/2002,"North Vancouver, B.C.",Forwards,76,,,,Spruce Grove,AJHL,Notre-Dame
+,22,"Knuble, Cole",Fr,5-11,185,7/1/2004,"Grand Rapids, Mich.",Forwards,71,2023,PHL,4,Fargo,USHL,Notre-Dame
+,18,"Moynihan, Patrick",Fr,5-11,186,1/23/2001,"Millis, Mass.",Forwards,71,2019,NJD,6,Providence,HEA,Notre-Dame
+,11,"Nelson, Danny",Fr,6-3,203,8/3/2005,"Maple Grove, Minn.",Forwards,75,2023,NYI,2,USA U-18 Team,NTDP,Notre-Dame
+,9,"Silianoff, Grant",Sr,5-11,170,1/4/2001,"Edina, Minn.",Forwards,71,,,,Cedar Rapids,USHL,Notre-Dame
+,19,"Slaggert, Landon",Sr,6-0,190,6/25/2002,"South Bend, Ind.",Forwards,72,2020,CHI,3,USA U-18 Team,NTDP,Notre-Dame
+,25,"Slaggert, Carter",Fr,5-9,172,3/4/2005,"South Bend, Ind.",Forwards,69,,,,USA U-18 Team,NTDP,Notre-Dame
+,10,"Strand, Hunter",Jr,5-11,187,11/13/2002,"Anchorage, Alaska",Forwards,71,,,,Tri-City,USHL,Notre-Dame
+,21,"Williams, Fin",So,6-1,186,4/21/2003,"North Vancouver, B.C.",Forwards,73,,,,Penticton,BCHL,Notre-Dame
+,30,"Bischel, Ryan",Gr,6-1,187,7/5/1999,"Medina, Minn.",Goaltenders,73,,,,Fargo,USHL,Notre-Dame
+,33,"Graziano, Josh",Sr,6-3,202,3/22/2000,"Buffalo, N.Y.",Goaltenders,75,,,,Union,ECAC,Notre-Dame
+,34,"Napoli, Brayden",Sr,6-0,170,6/19/2002,"Lake Villa, Ill.",Goaltenders,72,,,,Highland Park Falcons,,Notre-Dame
+,29,"Williams, Jack",So,6-3,187,6/21/2001,"St. Louis, Mo.",Goaltenders,75,,,,Waterloo,USHL,Notre-Dame
+,16,"Burgin, Drake",Jr,5-11,180,10/22/2000,"Winnipeg, Man.",Defensemen,71,,,,Cranbrook,BCHL,St-Lawrence
+,9,"Chapleau, Philippe",Jr,5-8,170,7/6/2000,"Longueuil, Que.",Defensemen,68,,,,Penticton,BCHL,St-Lawrence
+,3,"Erickson, Luke",Sr,6-2,210,4/15/1999,"Woodbury, Minn.",Defensemen,74,,,,Fairbanks,NAHL,St-Lawrence
+,26,"Lammens, Jake",Fr,6-1,185,10/3/2002,"Norwalk, Conn.",Defensemen,73,,,,Salmon Arm,BCHL,St-Lawrence
+,24,"McIntosh, Tucker",Sr,6-1,175,5/20/2001,"Toronto, Ont.",Defensemen,73,,,,Ottawa Jr. Senators,CCHL,St-Lawrence
+,15,"Mitchell, Evan",Fr,5-11,185,2/13/2002,"Kanata, Ont.",Defensemen,71,,,,Blackfalds,AJHL,St-Lawrence
+,2,"Mollica, Anthony",So,6-3,215,6/7/2001,"Jenison, Mich.",Defensemen,75,,,,New Jersey,NAHL,St-Lawrence
+,23,"Olenginski, Jan",Fr,5-9,165,3/23/2003,"Philadelphia, Pa.",Defensemen,69,,,,Madison,USHL,St-Lawrence
+,7,"Salem, Luc",Sr,5-10,175,7/9/1999,"Santa Monica, Calif.",Defensemen,70,,,,Topeka,NAHL,St-Lawrence
+,4,"Waite, Mason",Jr,6-1,200,4/4/2000,"Winnipeg, Man.",Defensemen,73,,,,Prince George,BCHL,St-Lawrence
+,11,"Arquiett, Will",Jr,5-8,170,6/25/2000,"Brasher Falls, N.Y.",Forwards,68,,,,Aberdeen,NAHL,St-Lawrence
+,28,"Boyer, Josh",Gr,6-3,200,10/7/1999,"Wasilla, Alaska",Forwards,75,,,,Omaha,NCHC,St-Lawrence
+,21,"Buhl, Cameron",Gr,5-10,184,12/3/1998,"South St. Paul, Minn.",Forwards,70,,,,Minnesota,NAHL,St-Lawrence
+,18,"Cristall, Tyler",So,5-9,170,5/13/2002,"North Vancouver, B.C.",Forwards,69,,,,West Kelowna ,BCHL,St-Lawrence
+,19,"Dorrington, Max",Sr,6-3,205,8/30/2001,"North Reading, Mass.",Forwards,75,,,,Cushing Academy,PREP,St-Lawrence
+,25,"Gavars, Felikss",So,5-11,184,5/15/2002,"Riga, Latvia",Forwards,71,,,,Fargo ,USHL,St-Lawrence
+,12,"Lapointe, Greg",Jr,5-9,175,1/1/2001,"Granby, Que.",Forwards,69,,,,Coquitlam,BCHL,St-Lawrence
+,34,"Lasak, Jan",So,6-1,200,8/11/2002,"Banska Stiavnica, Slovakia",Forwards,73,,,,Janesville,NAHL,St-Lawrence
+,8,"MacLeod, Oak",Jr,5-10,185,4/4/2002,"Caledonia, Ont.",Forwards,70,,,,Jersey,USPHL,St-Lawrence
+,10,"Mazura, Tomáš",Jr,6-4,200,9/23/2000,"Pardubice, Czech Republic",Forwards,76,2019,EDM,6,Providence,,St-Lawrence
+,17,"Moran, Reilly",Sr,5-11,176,4/24/2000,"Hingham, Mass.",Forwards,71,,,,Powell River,BCHL,St-Lawrence
+,22,"Naaykens, Ty",Jr,6-1,190,1/27/2001,"Winnipeg, Man.",Forwards,73,,,,Fairbanks,NAHL,St-Lawrence
+,14,"Paul, Justin",Sr,5-11,188,4/10/2000,"Thunder Bay, Ont.",Forwards,71,,,,Wellington,OJHL,St-Lawrence
+,27,"Ritchie, Logan",Sr,5-11,180,7/27/1999,"O'Fallon, Mo.",Forwards,71,,,,Kenai River,NAHL,St-Lawrence
+,29,"Thoreson, Gunnar",Fr,5-10,185,3/19/2002,"Andover, Minn.",Forwards,70,,,,Minnesota,NAHL,St-Lawrence
+,20,"Trela, Nicholas",Sr,6-2,185,8/26/1999,"Trenton, Mich.",Forwards,74,,,,Amarillo,NAHL,St-Lawrence
+,35,"Adams, Grant",Sr,6-2,195,9/22/2000,"South Bend, Ind.",Goaltenders,74,,,,Salmon Arm,BCHL,St-Lawrence
+,33,"Kraws, Ben",Fr,6-5,195,8/2/2000,"Cranbury, N.J.",Goaltenders,77,,,,Arizona State,Independents,St-Lawrence
+,32,"Kucenski, Mason",Fr,6-3,175,4/8/2002,"Gill, Mass.",Goaltenders,75,,,,Madison,USHL,St-Lawrence
+,1,"Smith, Cameron",Fr,6-2,175,1/21/2002,"Westchester, N.Y.",Goaltenders,74,,,,PAL,NCDC,St-Lawrence
+,26,"Casey, Seamus",So,5-10,178,1/8/2004,"Miami, Fla.",Defensemen,70,2022,NJD,2,USA U-18 Team,NTDP,Michigan
+,5,"Duke, Tyler",Jr,5-9,180,7/19/2004,"Strongsville, Ohio",Defensemen,69,,,,Ohio State,B10,Michigan
+,73,"Edwards, Ethan",Jr,5-11,185,6/6/2002,"Grande Prairie, Alb.",Defensemen,71,2020,NJD,4,Sioux City,USHL,Michigan
+,63,"Fantilli, Luca",So,6-0,183,12/30/2002,"Kleinburg, Ont.",Defensemen,72,,,,Chicago,USHL,Michigan
+,24,"Holtz, Steven",Sr,6-4,200,4/2/1999,"White Lake, Mich.",Defensemen,76,,,,Penticton,BCHL,Michigan
+,12,"Miles, Brendan",So,6-1,175,12/12/2001,"Farmington Hills, Mich.",Defensemen,73,,,,Fairbanks,NAHL,Michigan
+,68,"Orrico, Josh",Fr,5-9,165,6/15/2003,"Woodbridge, Ont.",Defensemen,69,,,,Janesville,NAHL,Michigan
+,15,"Truscott, Jacob",Sr,6-1,193,4/12/2002,"Port Huron, Mich.",Defensemen,73,2020,VAN,5,USA U-18 Team,NTDP,Michigan
+,77,"Warren, Marshall",Gr,5-11,180,4/20/2001,"Laurel Hollow, N.Y.",Defensemen,71,2019,MIN,6,Boston College,HEA,Michigan
+,4,"Brindley, Gavin",So,5-9,170,10/5/2004,"Estero, Fla.",Forwards,69,2023,CBJ,2,Tri-City,USHL,Michigan
+,33,"Draper, Kienan",So,6-2,205,2/19/2002,"Royal Oak, Mich.",Forwards,74,,,,Chilliwack,BCHL,Michigan
+,25,"Duke, Dylan",Jr,5-10,181,3/4/2003,"Strongsville, Ohio",Forwards,70,2021,TBL,4,USA U-18 Team,NTDP,Michigan
+,6,"Eernisse, Josh",Fr,6-2,205,12/31/2001,"Apple Valley, Minn.",Forwards,74,,,,St. Thomas,CCHA,Michigan
+,94,"Estapa, Mark",Jr,6-2,197,1/13/2002,"St. Clair, Mich.",Forwards,74,,,,Tri-City,USHL,Michigan
+,21,"Hallum, Jackson",So,6-0,183,9/8/2002,"Eagan, Minn.",Forwards,72,2020,VGK,3,Dubuque,USHL,Michigan
+,13,"Hughes, T.J.",So,6-0,185,11/9/2001,"Hamilton, Ont.",Forwards,72,,,,Brooks,AJHL,Michigan
+,22,"Lapointe, Philippe",Sr,5-11,185,2/29/2000,"Novi, Mich.",Forwards,71,,,,Trail,BCHL,Michigan
+,2,"McGroarty, Rutger",So,6-1,200,3/30/2004,"Lincoln, Neb.",Forwards,73,2022,WPG,1,USA U-18 Team,NTDP,Michigan
+,9,"Moldenhauer, Nick",Fr,5-10,170,5/25/2004,"Mississauga, Ont.",Forwards,70,2022,TOR,3,Chicago,USHL,Michigan
+,91,"Nazar III, Frank",So,5-10,175,1/14/2004,"Mt. Clemens, Mich.",Forwards,70,2022,CHI,1,USA U-18 Team,NTDP,Michigan
+,23,"Pletzke, Chase",Gr,5-11,175,4/10/2000,"Bay City, Mich.",Forwards,71,,,,Miami,NCHC,Michigan
+,20,"Rowe, Tanner",Fr,6-1,179,8/26/2002,"Calumet, Mich.",Forwards,73,,,,Omaha,USHL,Michigan
+,17,"Schifsky, Garrett",Fr,5-9,174,4/8/2003,"Andover, Minn.",Forwards,69,,,,Waterloo,USHL,Michigan
+,29,"Albano, Andrew",Gr,6-0,175,11/9/1998,"Hamilton, Ont.",Goaltenders,72,,,,Norwich,NCAA DIII,Michigan
+,30,"Barczewski, Jake",Gr,6-1,175,1/7/1999,"O'Fallon, Mo.",Goaltenders,73,,,,Canisius,AHA,Michigan
+,31,"West, Noah",Sr,6-2,185,11/25/2000,"Pittsboro, Ind.",Goaltenders,74,,,,Robert Morris,AHA,Michigan
+,27,"Anderson, Nick",Sr,5-10,161,1/4/1999,"Independence, Minn.",Defensemen,70,,,,Sioux Falls,USHL,Colgate
+,9,"Belpedio, Nic",Jr,5-10,194,10/9/2001,"Skokie, Ill.",Defensemen,70,,,,Waterloo,USHL,Colgate
+,25,"Bergsland, Tommy",Jr,6-3,185,3/23/2001,"Minnetrista, Minn.",Defensemen,75,,,,Bismarck,NAHL,Colgate
+,2,"Brandon, Pierson",Sr,6-0,180,6/6/2000,"Irvington, N.Y.",Defensemen,72,,,,Aberdeen,NAHL,Colgate
+,15,"Foglia, Dom",Fr,6-1,190,4/29/2002,"Tinton Falls, N.J.",Defensemen,73,,,,Philadephia,NAHL,Colgate
+,8,"Garrett, PJ",Sr,6-4,210,1/17/2000,"Duxbury, Mass.",Defensemen,76,,,,Powell,BCHL,Colgate
+,4,"Irwin, Reid",Jr,6-1,157,3/1/1999,"Victoria, B.C.",Defensemen,73,,,,Denver,NCHC,Colgate
+,6,"Metz, Bobby",So,5-9,174,8/20/2001,"Detroit, Mich.",Defensemen,69,,,,Minnesota,NAHL,Colgate
+,29,"Chorske, Brett",Sr,6-6,205,5/24/2001,"Edina, Minn.",Forwards,78,,,,Colorado College,NCHC,Colgate
+,28,"DiPaolo, Alex",Jr,6-1,188,4/28/2000,"Oakville, Ont.",Forwards,73,,,,Victoria ,BCHL,Colgate
+,20,"Glasman, Levi",Sr,6-2,172,7/31/1999,"Lacombe, Alb.",Forwards,74,,,,Powell,BCHL,Colgate
+,7,"Labelle, Simon",So,5-11,176,9/3/2002,"Ottawa, Ont.",Forwards,71,,,,Prince George,BCHL,Colgate
+,14,"Manderville, Ethan",Gr,6-4,230,7/1/2000,"Ottawa, Ont.",Forwards,76,,,,Ottawa Jr. Senators,CCHL,Colgate
+,19,"McGuire, Ryan",Jr,6-2,183,7/27/2002,"New Canaan, Conn.",Forwards,74,,,,Penticton,BCHL,Colgate
+,17,"Mitton, Ross",Sr,5-11,183,7/5/2000,"Copiague Harbor, N.Y.",Forwards,71,,,,Omaha,USHL,Colgate
+,23,"Neuharth, Owen",So,5-9,150,10/25/2001,"Prior Lake, Minn.",Forwards,69,,,,Fairbanks,NAHL,Colgate
+,22,"Newton, Robby",So,5-8,190,7/16/2001,"Milwaukee, Wis.",Forwards,68,,,,Wisconsin,B10,Colgate
+,12,"Panetta, Daniel",So,5-10,175,5/20/2001,"Belleville, Ont.",Forwards,70,,,,Salmon Arm,BCHL,Colgate
+,18,"Raymond, Ben",Jr,5-11,180,8/22/2001,"Newton, Mass.",Forwards,71,,,,Powell River,BCHL,Colgate
+,11,"Rexine, Niko",Fr,6-2,195,6/20/2002,"Syracuse, N.Y.",Forwards,74,,,,Muskegon,USHL,Colgate
+,24,"Schneider, Jake",Fr,5-11,185,12/24/2002,"Plymouth, Minn.",Forwards,71,,,,Prince George,BCHL,Colgate
+,16,"Sullivan, Ryan",Fr,6-3,196,5/15/2002,"Calgary, Alb.",Forwards,75,,,,Camrose,AJHL,Colgate
+,13,"Tamburro, Sebastian",So,5-11,170,3/4/2002,"Toronto, Ont.",Forwards,71,,,,Bonnyville,AJHL,Colgate
+,37,"Gylander, Carter",Sr,6-5,185,6/5/2001,"Beaumont, Alb.",Goaltenders,77,2019,DET,7,Sherwood Park,AJHL,Colgate
+,35,"Haas, Nick",So,6-5,194,11/11/2001,"Williamsville, N.Y.",Goaltenders,77,,,,Chippewa,NAHL,Colgate
+,1,"Takacs, Andrew",So,6-2,190,2/27/2001,"Bowie, Md.",Goaltenders,74,,,,New Jersey,NAHL,Colgate
+,22,"Borgesi, Vinny",So,5-8,175,3/2/2004,"Philadelphia, Pa.",Defensemen,68,,,,Tri City,USHL,Northeastern
+,10,"Dawson, Patrick",Gr,6-0,190,1/14/1999,"Medway, Mass.",Defensemen,72,,,,Sacred Heart,AHA,Northeastern
+,8,"Dorrington, Jackson",So,6-2,210,4/13/2004,"North Reading, Mass.",Defensemen,74,2022,VAN,6,Des Moines,USHL,Northeastern
+,17,"Doyle, Braden",Jr,6-0,185,8/24/2001,"Lynnfield, Mass.",Defensemen,72,2019,LAK,6,Boston University,HEA,Northeastern
+,16,"Fisher, Michael",Fr,6-3,195,5/2/2004,"Westborough, Mass.",Defensemen,75,2022,SJS,3,Youngstown,USHL,Northeastern
+,24,"Furey, Kyle",So,6-0,180,2/5/2002,"Marblehead, Mass.",Defensemen,72,,,,Lone Star,NAHL,Northeastern
+,3,"Hayes, Nolan",Fr,6-1,181,8/14/2002,"Boston, Mass.",Defensemen,73,,,,West Kelowna,BCHL,Northeastern
+,5,"McDonald, Hunter",So,6-4,215,5/11/2002,"Fairport, N.Y.",Defensemen,76,2022,PHI,6,Chicago,USHL,Northeastern
+,25,"Staudacher, Matt",Gr,6-2,200,2/7/2000,"Fenton, Mich.",Defensemen,74,,,,Minnesota,B10,Northeastern
+,4,"Walton, Pito",Gr,6-2,210,3/17/2000,"Peapack, N.J.",Defensemen,74,,,,Princeton,ECAC,Northeastern
+,27,"Campbell, Alex",Sr,5-11,175,2/27/2001,"Chateauguay, Que.",Forwards,71,2019,NSH,3,Clarkson,ECAC,Northeastern
+,9,"Choupani, Matt",Jr,5-10,185,1/2/2002,"Montréal, Que.",Forwards,70,,,,Des Moines,USHL,Northeastern
+,21,"DeMelis, Matt",Gr,6-0,190,6/2/1999,"Hingham, Mass.",Forwards,72,,,,Youngstown,USHL,Northeastern
+,20,"Edwards, Brett",Gr,5-10,192,9/10/1998,"Grande Prairie, Alb.",Forwards,70,,,,Denver,NCHC,Northeastern
+,11,"Fontaine, Gunnarwolfe",Sr,5-10,175,9/16/2000,"East Greenwich, R.I.",Forwards,70,2020,NSH,7,Chicago,USHL,Northeastern
+,13,"Hryckowian, Dylan",Fr,5-10,180,5/19/2004,"L'Île-Bizard, Que.",Forwards,70,,,,Cedar Rapids,USHL,Northeastern
+,29,"Hryckowian, Justin",Jr,5-10,195,2/23/2001,"L'Île-Bizard, Que.",Forwards,70,,,,Sioux City,USHL,Northeastern
+,12,"Lund, Cam",So,6-2,195,6/7/2004,"Bridgewater, Mass.",Forwards,74,2022,SJS,2,Green Bay,USHL,Northeastern
+,28,"Messuri, Anthony",So,5-8,170,7/24/2001,"Arlington, Mass.",Forwards,68,,,,Utica,NCDC,Northeastern
+,18,"Moore, Andy",Fr,5-11,195,1/21/2002,"Cumberland, Maine",Forwards,71,,,,Cedar Rapids,USHL,Northeastern
+,19,"Norcross, Billy",Fr,6-0,180,3/16/2003,"Lynn, Mass.",Forwards,72,,,,Penticton,BCHL,Northeastern
+,7,"Outzen, Michael",Sr,6-0,180,7/29/1999,"Lone Tree, Colo.",Forwards,72,,,,New Jersey,NAHL,Northeastern
+,23,"Sebastian, Eli",Fr,5-11,190,5/19/2004,"Burlington, Ont.",Forwards,71,,,,Green Bay,USHL,Northeastern
+,14,"Walsh, Liam",Gr,6-1,195,7/14/1999,"Bridgeville, Pa.",Forwards,73,,,,Merrimack,HEA,Northeastern
+,15,"Williams, Jack",So,5-11,185,3/2/2002,"Biddeford, Maine",Forwards,71,,,,Muskegon,USHL,Northeastern
+,35,"Chesney, Harrison",So,6-1,170,12/7/2001,"Malverne, N.Y.",Goaltenders,73,,,,PAL,NCDC,Northeastern
+,1,"Hopkins, Connor",Fr,6-1,200,3/9/2000,"Malden, Mass.",Goaltenders,73,,,,Yale,ECAC,Northeastern
+,37,"Riley, Grant",So,6-4,200,8/28/2002,"Rochester, N.Y.",Goaltenders,76,,,,Chilliwack,BCHL,Northeastern
+,39,"Whitehead, Cameron",Fr,6-3,185,6/13/2003,"Orleans, Ont.",Goaltenders,75,2022,VGK,4,Lincoln,USHL,Northeastern
+,3,"Beaune, Jake",Jr,6-3,195,6/13/2000,"Livonia, Mich.",Defensemen,75,,,,Lincoln,USHL,Mercyhurst
+,29,"Bisson, Adrien",Gr,6-2,185,1/18/1999,"Cornwall, Ont.",Defensemen,74,,,,Maine,Hockey East,Mercyhurst
+,7,"DesRochers, Tyler",Fr,6-0,185,4/2/2003,"Howell, N.J.",Defensemen,72,,,,Johnstown,NAHL,Mercyhurst
+,12,"Geregach, Dustin",Jr,6-0,181,11/14/2001,"McKees Rocks, Pa.",Defensemen,72,,,,Johnstown,NAHL,Mercyhurst
+,27,"Kent, Nicholas",So,5-10,195,2/1/2001,"Ladera Ranch, Calif.",Defensemen,70,,,,Vernon,BCHL,Mercyhurst
+,5,"McCarthy, Jackson",Fr,6-1,205,9/27/2002,"West Seneca, N.Y.",Defensemen,73,,,,Northeast,NAHL,Mercyhurst
+,28,"Nasca, Tyler",So,5-10,165,1/9/2001,"Wheatfield, N.Y.",Defensemen,70,,,,Lone Star,NAHL,Mercyhurst
+,6,"Sambrook, Trent",Fr,6-0,165,1/3/2002,"Winnipeg, Man.",Defensemen,72,,,,Winkler,MJHL,Mercyhurst
+,4,"Sych, Jaryd",Fr,6-2,194,2/10/2003,"Airdrie, Alb.",Defensemen,74,,,,Notre Dame,SJHL,Mercyhurst
+,10,"Agriogianis, Steven",Sr,5-9,175,1/7/1999,"East Hanover, N.J.",Forwards,69,,,,Northeastern,HEA,Mercyhurst
+,15,"Bannister, Tommy",So,5-9,180,9/5/2001,"Clayton, N.Y.",Forwards,69,,,,New Jersey,NAHL,Mercyhurst
+,11,"Brooks, Barrett",So,5-8,170,12/19/2001,"Stevens Point, Wis.",Forwards,68,,,,Madison,USHL,Mercyhurst
+,21,"Burns, Mickey",Sr,5-9,175,4/3/2000,"Wayne, N.J.",Forwards,69,,,,Vermont,HEA,Mercyhurst
+,16,"Coughlin, Ryan",So,6-0,180,2/9/2001,"Rochester, N.Y.",Forwards,72,,,,New Jersey,NAHL,Mercyhurst
+,19,"Dahm, Garrett",Jr,6-1,175,6/29/2000,"Belleville, Ill.",Forwards,73,,,,Youngstown,USHL,Mercyhurst
+,18,"Fry, Davis",Fr,6-4,194,8/4/2003,"Regina, Sask.",Forwards,76,,,,Steinbach,MJHL,Mercyhurst
+,8,"Gaulin, Tyler",So,6-0,180,11/9/2001,"Kingston, N.H.",Forwards,72,,,,Maine,NAHL,Mercyhurst
+,22,"Head, Kyler",Sr,6-4,210,7/13/1999,"Malone, N.Y.",Forwards,76,,,,New Jersey,NAHL,Mercyhurst
+,9,"James, Sean",Fr,6-0,161,9/10/2002,"Almonte, Ont.",Forwards,72,,,,Smith's Falls,CCHL,Mercyhurst
+,39,"Margel, Will",Sr,5-9,165,3/16/2001,"Potomac, Md.",Forwards,69,,,,Johnstown,NAHL,Mercyhurst
+,37,"Pelc, Connor",Fr,6-2,200,4/28/2003,"Buffalo, N.Y.",Forwards,74,,,,Sioux Falls,USHL,Mercyhurst
+,24,"Reifenberger, Marko",Sr,6-0,190,1/19/1999,"Hastings, Minn.",Forwards,72,,,,Minnesota,NAHL,Mercyhurst
+,23,"Ricotta, Cameron",Fr,5-8,170,5/17/2002,"Cheektowaga, N.Y.",Forwards,68,,,,Fairbanks,NAHL,Mercyhurst
+,14,"Skalos, Boris",Fr,5-11,175,1/16/2003,"Clifton, N.J.",Forwards,71,,,,Fargo,USHL,Mercyhurst
+,26,"Smith, Spencer",Fr,5-8,174,5/20/2002,"St. Catharines, Ont.",Forwards,68,,,,Minnesota,NAHL,Mercyhurst
+,20,"Stewart, Keanan",Sr,6-3,195,4/29/2000,"Elmira, Ont.",Forwards,75,,,,Burlington,OJHL,Mercyhurst
+,2,"Waugh, Philip",Sr,6-4,217,1/10/2000,"McLean, Va.",Forwards,76,,,,Brooks,AJHL,Mercyhurst
+,44,"Bucheler, Simon",Fr,6-2,185,3/29/2002,"St-Laurent, Que.",Goaltenders,74,,,,Shreveport,NAHL,Mercyhurst
+,1,"Lenz, Matt",Jr,5-11,170,6/2/1999,"Calgary, Alb.",Goaltenders,71,,,,Steinbach,MJHL,Mercyhurst
+,31,"Say, Owen",So,6-2,175,6/5/2001,"London, Ont.",Goaltenders,74,,,,Salmon Arm,BCHL,Mercyhurst
+,6,"Baumgartner, Owen",Fr,5-10,185,7/1/2002,"Owatonna, Minn.",Defensemen,70,,,,Oklahoma,NAHL,Air-Force
+,16,"Brennan, Sam",Sr,6-0,200,1/16/2000,"Brighton, Mich.",Defensemen,72,,,,Lone Star,NAHL,Air-Force
+,12,"Callahan, James",Fr,6-0,175,12/18/2002,"Minneapolis, Minn.",Defensemen,72,,,,Springfield,NAHL,Air-Force
+,20,"Cunningham, Nolan",Fr,6-2,185,12/17/2001,"Great Falls, Mont.",Defensemen,74,,,,Fairbanks,NAHL,Air-Force
+,28,"Digby, Mitchell",Jr,5-11,185,6/26/2000,"Ottawa Lake, Mich.",Defensemen,71,,,,Lone Star,NAHL,Air-Force
+,22,"Hedden, Chris",So,6-0,180,9/20/2002,"Kalamazoo, Mich.",Defensemen,72,,,,Omaha,USHL,Air-Force
+,29,"Lester, Jasper",Jr,5-11,175,7/31/2000,"Colorado Springs, Colo.",Defensemen,71,,,,Fairbanks,NAHL,Air-Force
+,27,"Robinson, Luke",Sr,6-3,205,2/16/2000,"Nashville, Tenn.",Defensemen,75,,,,Dubuque,USHL,Air-Force
+,4,"Rowe, Luke",Sr,6-1,210,8/8/1998,"Succasunna, N.J.",Defensemen,73,,,,Boston Junior Bruins,USPHL,Air-Force
+,44,"Staring, Will",Fr,6-2,195,2/28/2003,"Springfield, Va.",Defensemen,74,,,,Dubuque,USHL,Air-Force
+,7,"Adams, Brian",Sr,5-9,175,12/7/1999,"San Ramon, Calif.",Forwards,69,,,,Wenatchee,BCHL,Air-Force
+,17,"Brown, Parker",Sr,5-10,155,9/8/1999,"Hanahan, S.C.",Forwards,70,,,,Fairbanks,NAHL,Air-Force
+,9,"Coon, Lucas",Jr,6-0,190,11/24/2001,"Steamboat Springs, Colo.",Forwards,72,,,,Odessa,NAHL,Air-Force
+,26,"Cosentino, Clayton",Jr,6-2,190,6/18/2000,"Colorado Springs, Colo.",Forwards,74,,,,Aberdeen,NAHL,Air-Force
+,82,"DeCarlo, Andrew",Jr,6-0,185,7/23/2000,"Huntington Beach, Calif.",Forwards,72,,,,Lone Star,NAHL,Air-Force
+,15,"Dubois, Owen",Fr,6-4,200,7/6/2002,"Madison, Wis.",Forwards,76,,,,Aberdeen,NAHL,Air-Force
+,37,"Gavin, Will",Sr,5-10,190,10/21/1999,"Durham, Conn.",Forwards,70,,,,Northern,USPHL,Air-Force
+,64,"Gibbons, Brendan",Fr,6-2,205,6/15/2002,"South Kingstown, R.I.",Forwards,74,,,,Maine,NAHL,Air-Force
+,24,"Horn, Nate",Sr,5-11,160,3/2/1999,"Elk River, Minn.",Forwards,71,,,,Minnesota,NAHL,Air-Force
+,11,"Jacobs, Sam",Fr,6-0,185,8/13/2002,"Plymouth, Minn.",Forwards,72,,,,Wisconsin,NAHL,Air-Force
+,14,"Marti, Jacob",Sr,5-11,190,6/10/1999,"Highlands Ranch, Colo.",Forwards,71,,,,Bismarck,NAHL,Air-Force
+,13,"McCormick, Mason",So,6-3,190,5/25/2001,"Verona, Wis.",Forwards,75,,,,Waterloo,USHL,Air-Force
+,18,"Oliphant, Holt",So,5-11,185,5/17/2001,"Northbrook, Ill.",Forwards,71,,,,Johnstown,NAHL,Air-Force
+,19,"Remissong, Nick",Fr,6-0,185,5/19/2002,"Lake Forest, Ill.",Forwards,72,,,,Trail,BCHL,Air-Force
+,10,"Schwartz, Austin",Jr,5-9,178,6/18/2001,"Parker, Colo.",Forwards,69,,,,Bismarck,NAHL,Air-Force
+,8,"Ullrick, Ethan",Fr,5-11,175,4/25/2003,"Lakewood, Ill.",Forwards,71,,,,Salmon Arm,BCHL,Air-Force
+,51,"Balboa, Maiszon",Sr,6-2,205,4/18/2000,"Colorado Springs, Colo.",Goaltenders,74,,,,Shreveport,NAHL,Air-Force
+,1,"Blessing, Guy",Jr,6-3,190,5/8/2001,"Chandler, Ariz.",Goaltenders,75,,,,Lone Star,NAHL,Air-Force
+,35,"Clafton, Carter",Fr,6-2,175,3/13/2002,"Grand Rapids, Minn.",Goaltenders,74,,,,Amarillo,NAHL,Air-Force
+,30,"Wasik, Dominik",Fr,6-1,165,7/2/2002,"Superior, Wisc.",Goaltenders,73,,,,Steinback,MJHL,Air-Force
+,6,"Bernard-Docker, Seth",So,6-0,195,10/30/2001,"Canmore, Alb.",Defensemen,72,,,,Sioux Falls,USHL,Bentley
+,5,"Bochen, Nick",Sr,5-9,170,8/29/2001,"North Vancouver, B.C.",Defensemen,69,,,,Prince George,BCHL,Bentley
+,24,"Cameron, Colton",Fr,5-11,190,7/7/2002,"Surrey, B.C.",Defensemen,71,,,,Prince George,BCHL,Bentley
+,4,"Duerr, Samuel",Jr,6-1,201,3/22/2002,"Chicago, Ill.",Defensemen,73,,,,Maine,HEA,Bentley
+,23,"Hodgson, Tucker",Jr,6-2,195,6/7/2001,"Grand Forks, N.D.",Defensemen,74,,,,Fargo ,USHL,Bentley
+,25,"Horsager, Garrett",Fr,6-0,180,2/2/2002,"Rosemount, Minn.",Defensemen,72,,,,Oklahoma,NAHL,Bentley
+,14,"Lawn, Pat",So,6-0,175,3/26/2001,"Waltham, Mass.",Defensemen,72,,,,Kelowna,BCHL,Bentley
+,28,"Main, Tanner",Jr,5-10,165,4/3/2000,"Welland, Ont.",Defensemen,70,,,,Prince George,BCHL,Bentley
+,27,"Nause, Ryan",So,5-11,180,8/27/2001,"Riverview, N.B.",Defensemen,71,,,,Alberni Valley,BCHL,Bentley
+,26,"Amici, Kolby",Fr,5-9,180,12/16/2002,"Orchard Park, N.Y.",Forwards,69,,,,Minot,NAHL,Bentley
+,21,"Armstrong-Kingkade, Nik",Sr,5-9,185,5/1/1999,"Alexandria, Va.",Forwards,69,,,,Mass.-Lowell,HEA,Bentley
+,3,"Bendorf, Jonathan",Gr,5-11,188,2/26/1999,"Yardville, N.J.",Forwards,71,,,,Mercyhurst,AHA,Bentley
+,17,"Castagna, Stephen",So,5-9,170,8/6/2001,"North Vancouver, B.C.",Forwards,69,,,,Alberni Valley,BCHL,Bentley
+,15,"Connell, Cooper",Jr,6-3,190,7/15/2001,"West Vancouver, B.C.",Forwards,75,,,,Grand Prairie,AJHL,Bentley
+,22,"Davis, Chase",Fr,6-5,194,4/8/2002,"Alpharetta, Ga.",Forwards,77,,,,Amarillo,NAHL,Bentley
+,10,"Doyle, Jimmy",Fr,6-2,190,4/22/2002,"Plainfield, Ill.",Forwards,74,,,,Janesville,NAHL,Bentley
+,7,"Harrison, Ethan",Sr,6-0,170,10/30/2000,"Plano, Texas",Forwards,72,,,,Sioux City,USHL,Bentley
+,16,"Hjartarson, Kellan",Fr,5-11,172,2/23/2003,"Calgary, Alb.",Forwards,71,,,,Cranbrook,BCHL,Bentley
+,20,"Hodges, A.J.",Sr,6-0,180,8/24/2001,"Littleton, Colo.",Forwards,72,,,,Michigan State,B10,Bentley
+,13,"Kramer, Peter",Fr,5-11,183,8/8/2002,"Bridgewater, Mass.",Forwards,71,,,,Green Bay,USHL,Bentley
+,9,"Latta, Josh",Gr,5-11,181,8/14/1998,"West Vancouver, B.C.",Forwards,71,,,,UMass Lowell,HEA,Bentley
+,19,"Leyh, Ethan",Gr,6-0,195,6/7/2001,"Anmore, B.C.",Forwards,72,,,,Langley,BCHL,Bentley
+,11,"Mansfield, Ryan",Fr,5-11,195,12/22/2002,"Burlington, Ont.",Forwards,71,,,,Odessa,NAHL,Bentley
+,18,"Merritt, Arlo",So,6-3,215,1/31/2001,"Halifax, N.S.",Forwards,75,,,,Alberni Valley,BCHL,Bentley
+,12,"Pearson, Danny",Jr,5-10,185,6/1/2000,"West Vancouver, B.C.",Forwards,70,,,,Coquitlam ,BCHL,Bentley
+,2,"Thomson, Matt",Gr,6-1,195,11/7/1998,"Reading, Mass.",Forwards,73,,,,Northeastern,HEA,Bentley
+,38,"Upson, Ryan",So,6-0,190,3/22/2001,"West Vancouver, B.C.",Forwards,72,,,,Langley,BCHL,Bentley
+,29,"Grabko, Nicholas",Sr,5-11,180,2/6/2000,"Channahon, Ill.",Goaltenders,71,,,,Green Bay,USHL,Bentley
+,33,"Hasley, Connor",So,6-1,200,2/27/2001,"North Tonawanda, N.Y.",Goaltenders,73,,,,Cedar Rapids,USHL,Bentley
+,30,"Seeley, Josh",So,6-4,220,5/7/2001,"Trenton, Mich.",Goaltenders,76,,,,Minnesota,NAHL,Bentley
+,4,"Cooper, Drew",Sr,6-1,191,8/28/2000,"Ann Arbor, Mich.",Defensemen,73,,,,Coquitlam,BCHL,Ferris-State
+,5,"DeVita, Nico",Sr,6-2,200,5/24/2001,"Bellevue, Wash.",Defensemen,74,,,,New Hampshire,HEA,Ferris-State
+,22,"Hale, Nick",Gr,5-9,165,5/7/1999,"Raleigh, N.C.",Defensemen,69,,,,Holy Cross,AHA,Ferris-State
+,6,"Mesic, Jack",Fr,5-9,176,10/18/2002,"Plymouth, Mich.",Defensemen,69,,,,North Iowa,NAHL,Ferris-State
+,20,"Noel, Andrew",So,6-1,198,1/2/2001,"Maynard, Mass.",Defensemen,73,,,,Nanaimo,BCHL,Ferris-State
+,3,"Schultheis, Ben",Sr,6-3,204,2/17/2000,"Mount Juliet, Tenn.",Defensemen,75,,,,Dubuque,USHL,Ferris-State
+,2,"Shoudy, Travis",So,5-9,173,3/15/2002,"Marysville, Mich.",Defensemen,69,,,,Cedar Rapids,USHL,Ferris-State
+,28,"Taulien, Trevor",Fr,6-4,217,4/14/2003,"Crystal Lake, Ill.",Defensemen,76,,,,Dubuque,USHL,Ferris-State
+,26,"Badal, Jacob",So,6-0,196,10/5/2001,"Flushing, Mich.",Forwards,72,,,,Johnstown,NAHL,Ferris-State
+,12,"Benincasa, Luigi",Fr,5-7,157,10/7/2002,"Edmonton, Alb.",Forwards,67,,,,Spruce Grove,AJHL,Ferris-State
+,21,"Brancheau, Jason",Sr,5-8,170,8/15/1999,"Brownstown, Mich.",Forwards,68,,,,Amarillo,NAHL,Ferris-State
+,11,"Dirks, Jacob",Sr,6-1,188,9/15/1999,"Mindoro, Wis.",Forwards,73,,,,Chippewa,NAHL,Ferris-State
+,10,"Doell, Holden",Fr,5-11,185,12/1/2003,"Martensville, Sask.",Forwards,71,,,,Battlefords,SJHL,Ferris-State
+,18,"Ergang, Kaleb",Jr,5-10,166,12/31/2000,"Spruce Grove, Alb.",Forwards,70,,,,Whitecourt ,AJHL,Ferris-State
+,25,"Faremouth, Zach",Jr,6-3,209,1/4/2000,"Jackson, Mich.",Forwards,75,,,,Des Moines,USHL,Ferris-State
+,16,"Gault, Caiden",So,6-1,191,4/16/2002,"Oakbank, Man.",Forwards,73,,,,Spruce Grove,AJHL,Ferris-State
+,27,"Goode, Emerson",Fr,5-9,176,10/16/2002,"Anaheim, Calif.",Forwards,69,,,,Odessa,NAHL,Ferris-State
+,34,"Grimaldi, Nick",Jr,5-7,170,6/26/1999,"Plymouth, Mich.",Forwards,67,,,,Odessa,NAHL,Ferris-State
+,24,"MacLaren, Brenden",Sr,5-11,196,11/30/1998,"Sault Ste. Marie, Mich.",Forwards,71,,,,Fairbanks,NAHL,Ferris-State
+,8,"McCarthy, Austin",Sr,6-0,195,3/1/1999,"Ludington, Mich.",Forwards,72,,,,Topeka,NAHL,Ferris-State
+,7,"McGrath, Connor",So,5-9,144,9/4/2003,"LeRoy, Sask.",Forwards,69,,,,Humboldt,SJHL,Ferris-State
+,9,"Nardecchia, Nick",Jr,5-10,176,1/1/2001,"Macomb, Mich.",Forwards,70,,,,Lincoln,USHL,Ferris-State
+,19,"Pokorny, Stepan",Sr,6-0,190,6/8/2000,"Kolin, Czech Republic",Forwards,72,,,,Madison,USHL,Ferris-State
+,15,"Schleppe, Tyler",So,6-4,205,11/11/2001,"Vancouver, B.C.",Forwards,76,,,,Langley,BCHL,Ferris-State
+,23,"Venuto, Antonio",Sr,6-3,204,2/26/2000,"Whitmore Lake, Mich.",Forwards,75,,,,Dubuque,USHL,Ferris-State
+,31,"Giesbrecht, Noah",Jr,6-3,200,4/18/1999,"White Rock, B.C.",Goaltenders,75,,,,Windsor,USports,Ferris-State
+,30,"Henson, Joey",So,5-9,157,8/15/2001,"Troy, Mich.",Goaltenders,69,,,,Odessa,NAHL,Ferris-State
+,1,"Stein, Logan",Sr,6-2,201,4/26/2001,"Suwanee, Ga.",Goaltenders,74,,,,Waterloo,USHL,Ferris-State
+,6,"Cleveland, Brady",Fr,6-5,211,4/1/2005,"Wausau, Wis.",Defensemen,77,,,,USA U-18 Team,NTDP,Wisconsin
+,4,"Dexheimer, Ben",So,5-9,172,6/21/2002,"Edina, Minn.",Defensemen,69,,,,Madison,USHL,Wisconsin
+,27,"Jugnauth, Tyson",So,6-0,162,4/17/2004,"Toronto, Ont.",Defensemen,72,2022,SEA,4,West Kelowna,BCHL,Wisconsin
+,24,"Kehrer, Anthony",Sr,5-11,210,3/4/2002,"Winnipeg, Man.",Defensemen,71,,,,Sioux City,USHL,Wisconsin
+,2,"Laatsch, Daniel",Jr,6-5,190,2/13/2002,"Altoona, Wis.",Defensemen,77,2021,PIT,7,Sioux City,USHL,Wisconsin
+,14,"Palodichuk, Joe",Fr,6-0,171,2/26/2003,"Cottage Grove, Minn.",Defensemen,72,,,,Fargo,USHL,Wisconsin
+,5,"Schulz, Zach",Fr,6-1,185,6/14/2005,"South Lyon, Mich.",Defensemen,73,2023,NYI,6,USA U-18 Team,NTDP,Wisconsin
+,7,"Vorlicky, Mike",Gr,6-1,203,7/17/2000,"Edina, Minn.",Defensemen,73,,,,Edina,USHS,Wisconsin
+,21,"Bantle, Carson",Sr,6-5,207,1/22/2002,"Onalaska, Wis.",Forwards,77,2020,ARI,5,Michigan Tech,WCHA,Wisconsin
+,12,"De St. Phalle, Mathieu",Sr,5-9,170,3/20/2000,"Greenwich, Conn.",Forwards,69,,,,Chicago,USHL,Wisconsin
+,16,"Dyck, Tyson",Jr,6-10,170,2/6/2004,"Abbotsford, B.C.",Forwards,82,2022,OTT,7,Massachusetts,HEA,Wisconsin
+,19,"Finley, Quinn",Fr,6-0,179,8/8/2004,"Suamico, Wis.",Forwards,72,2022,NYI,3,Chicago,USHL,Wisconsin
+,13,"Fitzgerald, Christian",Jr,6-0,178,5/31/2002,"Coquitlam, B.C.",Forwards,72,,,,Minnesota State,CCHA,Wisconsin
+,22,"Horbach, Jack",So,5-11,176,5/4/2002,"Naperville, Ill.",Forwards,71,,,,Madison,USHL,Wisconsin
+,18,"Lindmark, Owen",Gr,6-0,195,5/17/2001,"Naperville, Ill.",Forwards,72,2019,FLA,5,USA U-18 Team,NTDP,Wisconsin
+,51,"Lucius, Cruz",So,6-0,178,4/5/2004,"Grant, Minn.",Forwards,72,2022,CAR,4,USA U-18 Team,NTDP,Wisconsin
+,17,"Mehlenbacher, Owen",Fr,6-2,189,1/26/2004,"Fort Erie, Ont.",Forwards,74,2022,DET,7,Muskegon,USHL,Wisconsin
+,23,"Scholl, Sawyer",Fr,6-2,190,2/14/2002,"Green Bay, Wis.",Forwards,74,,,,Minnesota,NAHL,Wisconsin
+,15,"Silye, David",Gr,5-11,187,3/2/1999,"Arnprior, Ont.",Forwards,71,,,,Minnesota State,CCHA,Wisconsin
+,3,"Stange, Sam",Sr,6-1,200,4/20/2001,"Eau Claire, Wis.",Forwards,73,2020,DET,4,Sioux Falls,USHL,Wisconsin
+,9,"Stramel, Charlie",So,6-3,215,10/15/2004,"Rosemount, Minn.",Forwards,75,2023,MIN,1,USA U-18 Team,NTDP,Wisconsin
+,11,"Tassy, Simon",Jr,6-2,190,3/21/2001,"Montréal, Que.",Forwards,74,,,,Minnesota State,CCHA,Wisconsin
+,8,"Whitelaw, William",Fr,5-9,173,2/5/2005,"Rosemount, Minn.",Forwards,69,2023,CBJ,3,Youngstown,USHL,Wisconsin
+,33,"Garrity, Ben",Sr,6-2,193,1/20/2000,"Rosemount, Minn.",Goaltenders,74,,,,Minot,NAHL,Wisconsin
+,34,"Gramme, William",Fr,6-4,201,5/24/2002,"Stockholm, Sweden",Goaltenders,76,,,,Lone Star,NAHL,Wisconsin
+,31,"McClellan, Kyle",Jr,6-1,185,3/18/1999,"Manchester, Mo.",Goaltenders,73,,,,Omaha,USHL,Wisconsin
+,77,"Bamber, Brett",So,5-9,175,7/7/2001,"St. Albert, Alb.",Defensemen,69,,,,Drayton Valley,AJHL,Alaska-Anchorage
+,44,"Darby, James",So,6-3,204,4/12/2001,"North Vancouver, B.C.",Defensemen,75,,,,Surrey,BCHL,Alaska-Anchorage
+,26,"Finlay, Dylan",So,6-1,178,10/24/2001,"L'Île-Bizard, Que.",Defensemen,73,,,,Powell River,BCHL,Alaska-Anchorage
+,8,"Gilson, William",So,6-0,170,6/28/2001,"Old Greenwich, Conn.",Defensemen,72,,,,Aberdeen,NAHL,Alaska-Anchorage
+,4,"Goukler, Davis",So,6-1,195,4/22/2001,"Cumming, Ga.",Defensemen,73,,,,Shreveport,NAHL,Alaska-Anchorage
+,25,"Huffman, Caleb",So,6-4,190,1/31/2002,"Fairbanks, Alaska",Defensemen,76,,,,Kenai,NAHL,Alaska-Anchorage
+,7,"Kosobud, Carson",Jr,6-0,190,6/4/1999,"Moorhead, Minn.",Defensemen,72,,,,Arizona State,D1 Ind.,Alaska-Anchorage
+,2,"Osborne, Max",Sr,5-10,180,2/1/1999,"Anchorage, Alaska",Defensemen,70,,,,Saint John's University,,Alaska-Anchorage
+,17,"VanDamme, Gunnar",Fr,6-0,190,12/8/2002,"Pittsford, N.Y.",Defensemen,72,,,,Maryland,NAHL,Alaska-Anchorage
+,20,"Allen, Matt",Sr,5-10,168,5/13/2000,"Minco, Okla.",Forwards,70,,,,Mass.-Lowell,HEA,Alaska-Anchorage
+,11,"Almquist, Ben",Sr,6-0,185,10/1/1999,"Victoria, Minn.",Forwards,72,,,,Minnesota-Duluth,WCHA,Alaska-Anchorage
+,21,"Anderson, Ben",Fr,6-5,209,3/1/2002,"Crystal, Minn.",Forwards,77,,,,Wisconsin,NAHL,Alaska-Anchorage
+,37,"Belitski, Carter",So,6-1,180,1/13/2001,"Regina, Sask.",Forwards,73,,,,Drumheller,AJHL,Alaska-Anchorage
+,9,"Cole, Conor",So,5-10,183,10/28/2001,"St. John's, Newf.",Forwards,70,,,,Maryland,NAHL,Alaska-Anchorage
+,74,"Gomez, Alex",So,6-4,185,7/18/2001,"Parker, Colo.",Forwards,76,,,,New Mexico,NAHL,Alaska-Anchorage
+,23,"Helgeson, Maximilion",Jr,6-1,185,12/5/2000,"Anchorage, Alaska",Forwards,73,,,,Lindenwood,ACHA,Alaska-Anchorage
+,28,"Johnson, Matt",So,6-1,195,11/25/2001,"Calgary, Alb.",Forwards,73,,,,Anchorage,NAHL,Alaska-Anchorage
+,13,"Kinash, Matt",Jr,6-0,185,12/15/1999,"Edmonton, Alb.",Forwards,72,,,,Mass.-Lowell,HEA,Alaska-Anchorage
+,12,"Lafay, Mitch",Fr,6-6,209,8/6/2002,"Stratford, Ont.",Forwards,78,,,,Trenton,OJHL,Alaska-Anchorage
+,6,"Lajoie, Brandon",So,5-11,180,10/18/2001,"Eagle River, Alaska",Forwards,71,,,,St. Cloud,NAHL,Alaska-Anchorage
+,14,"Marritt, Connor",So,6-1,174,3/14/1999,"Kelowna, B.C.",Forwards,73,,,,Northern Michigan,CCHA,Alaska-Anchorage
+,43,"McNarland, Karter",Fr,5-11,170,2/10/2003,"Saskatoon, Sask.",Forwards,71,,,,Powell,BCHL,Alaska-Anchorage
+,19,"Miller, Rowan",So,5-11,160,10/7/2001,"Scottsdale, Ariz.",Forwards,71,,,,Prince George,BCHL,Alaska-Anchorage
+,79,"Schachle, Porter",Sr,6-4,194,11/22/2000,"Wasilla, Alaska",Forwards,76,,,,Vermont,HEA,Alaska-Anchorage
+,10,"Thompson, Riley",Fr,6-3,201,8/17/2002,"Orleans, Ont.",Forwards,75,,,,Smiths Falls,CCHL,Alaska-Anchorage
+,29,"Tisdale, Adam",Gr,5-10,167,11/9/1998,"Cochrane, Alb.",Forwards,70,,,,Sacred Heart,AHA,Alaska-Anchorage
+,22,"Westin, Aiden",Fr,6-1,185,2/6/2002,"Anchorage, Alaska",Forwards,73,,,,Anchorage,NAHL,Alaska-Anchorage
+,86,"White, Jarred",Sr,5-10,195,5/21/1999,"Edmonton, Alb.",Forwards,70,,,,Western Michigan,NCHC,Alaska-Anchorage
+,32,"Lamoreaux, Joey",Gr,6-1,180,2/1/1999,"Shorewood, Wis.",Goaltenders,73,,,,St. Cloud State,NCHC,Alaska-Anchorage
+,33,"Orosz, Greg",Fr,6-3,187,8/28/2002,"Gyõr, Hungary",Goaltenders,75,,,,Odessa,NAHL,Alaska-Anchorage
+,30,"Whale, Jared",So,5-11,195,11/1/2002,"Calgary, Alb.",Goaltenders,71,,,,Olds,AJHL,Alaska-Anchorage
+,38,"Bast, Luke",Sr,5-10,178,11/20/2000,"Red Deer, Alb.",Defensemen,70,,,,North Dakota,NCHC,Minnesota-Duluth
+,19,"Bodnarchuk, Riley",So,6-4,205,6/1/2001,"Okotoks, Alb.",Defensemen,76,,,,Okotoks,AJHL,Minnesota-Duluth
+,28,"Dubinsky, Aiden",So,6-0,180,4/28/2004,"Highland Park, Ill.",Defensemen,72,,,,Tri-City,USHL,Minnesota-Duluth
+,23,"Francis, Will",Jr,6-5,215,11/16/2000,"Shoreview, Minn.",Defensemen,77,2019,ANA,6,Cedar Rapids,USHL,Minnesota-Duluth
+,20,"Gallatin, Owen",Jr,5-8,167,6/17/2002,"Hugo, Minn.",Defensemen,68,,,,Fargo,USHL,Minnesota-Duluth
+,2,"Gotz, Darian",Sr,5-10,185,10/19/2000,"Hermantown, Minn.",Defensemen,70,,,,Cedar Rapids,USHL,Minnesota-Duluth
+,18,"Pierce, Joey",So,6-0,195,10/2/2002,"Ely, Minn.",Defensemen,72,,,,Lincoln,USHL,Minnesota-Duluth
+,8,"Pionk, Aaron",Fr,6-1,175,1/16/2003,"Hermantown, Minn.",Defensemen,73,2023,MIN,5,Waterloo,USHL,Minnesota-Duluth
+,24,"Bettens, Kyle",So,6-3,215,7/4/2001,"Winnipeg, Man.",Forwards,75,,,,Youngstown,USHL,Minnesota-Duluth
+,7,"Biondi, Blake",Sr,6-1,198,4/24/2002,"Hermantown, Minn.",Forwards,73,2020,MTL,4,Hermantown,USHS,Minnesota-Duluth
+,21,"Fischer, Braden",Fr,6-0,185,10/2/2002,"Winnipeg, Man.",Forwards,72,,,,Minot,NAHL,Minnesota-Duluth
+,17,"James, Dominic",Jr,6-0,190,7/3/2002,"Plymouth, Mich.",Forwards,72,2022,CHI,6,Lincoln,USHL,Minnesota-Duluth
+,37,"Johnson, Luke",So,5-10,177,10/15/2001,"St. Cloud, Minn.",Forwards,70,,,,Lincoln,USHL,Minnesota-Duluth
+,22,"Kleven, Kyler",Jr,5-11,172,10/12/2000,"Moorhead, Minn.",Forwards,71,,,,Waterloo,USHL,Minnesota-Duluth
+,16,"Loheit, Luke",Gr,6-1,195,7/26/2000,"Minnetonka, Minn.",Forwards,73,2018,OTT,7,Penticton,BCHL,Minnesota-Duluth
+,33,"Loney, Carter",Jr,5-10,167,8/2/2002,"Columbus, Ohio",Forwards,70,,,,Sioux City,USHL,Minnesota-Duluth
+,39,"McMenamin, Connor",Gr,5-11,195,2/25/1999,"Collegeville, Pa.",Forwards,71,,,,Penn State,B10,Minnesota-Duluth
+,26,"Menghini, Anthony",Fr,5-10,187,12/3/2002,"Brainerd, Minn.",Forwards,70,,,,Fargo,USHL,Minnesota-Duluth
+,15,"Olson, Quinn",Gr,6-0,180,5/9/2001,"Calgary, Alb.",Forwards,72,2019,BOS,3,Okotoks,AJHL,Minnesota-Duluth
+,34,"Perkins, Matthew",Fr,5-11,163,1/21/2004,"Balgonie, Sask.",Forwards,71,2023,VAN,4,Youngstown,USHL,Minnesota-Duluth
+,12,"Smith, Jack",So,6-0,190,7/6/2002,"St. Cloud, Minn.",Forwards,72,,,,Sioux Falls,USHL,Minnesota-Duluth
+,11,"Spicer, Cole",So,5-10,178,6/13/2004,"Grand Forks, N.D.",Forwards,70,2022,BOS,4,U.S. Under-18,,Minnesota-Duluth
+,6,"Steeves, Ben",So,5-8,165,5/10/2002,"Bedford, N.H.",Forwards,68,,,,Sioux City,USHL,Minnesota-Duluth
+,31,"Sandy, Zach",So,6-0,175,12/5/2002,"Fargo, N.D.",Goaltenders,72,,,,Minot,NAHL,Minnesota-Duluth
+,35,"Stejskal, Zach",Sr,6-5,217,12/20/1999,"Cohasset, Minn.",Goaltenders,77,,,,Wilkes-Barrie/Scranton,NAHL,Minnesota-Duluth
+,36,"Thiessen, Matthew",Gr,6-2,215,6/9/2000,"Altona, Man.",Goaltenders,74,2018,VAN,7,Maine,HEA,Minnesota-Duluth
+,38,"Bergmanis, Arvils",Jr,5-11,187,12/29/1999,"Riga, Latvia",Defensemen,71,,,,Olimp Riga,,Alaska
+,39,"Bruneski, Dawson",Gr,5-11,203,6/24/1999,"Camrose, Alb.",Defensemen,71,,,,Maine,HEA,Alaska
+,8,"Hilfiker, Will",So,6-2,205,8/7/2001,"Middletown, N.J.",Defensemen,74,,,,Bonnyville,AJHL,Alaska
+,13,"Jean-Louis, Xavier",So,6-5,205,6/25/2001,"Montreal, Que.",Defensemen,77,,,,Austin,NAHL,Alaska
+,6,"Lloyd, T.J.",Gr,5-9,175,11/15/1999,"Lloydminster, Sask.",Defensemen,69,,,,Bowling Green,CCHA,Alaska
+,12,"Macaulay, A.J.",So,5-9,175,4/12/2002,"Bonnyville, Alb.",Defensemen,69,,,,Bonnyville,AJHL,Alaska
+,9,"MacDonald, Caleb",Fr,6-4,216,11/29/2002,"Cambridge, Ont.",Defensemen,76,,,,,,Alaska
+,17,"Pys, Derek",Fr,6-0,172,4/30/2002,"Ayr, Ont.",Defensemen,72,,,,,,Alaska
+,7,"Sabo, Broten",Fr,6-2,194,8/9/2002,"Rosemount, Minn.",Defensemen,74,,,,,,Alaska
+,20,"Ahrenholz, Cade",So,6-3,218,11/30/2002,"Lakeville, Minn.",Forwards,75,,,,Colorado College,NCHC,Alaska
+,18,"Bergmanis, Edvards",Fr,5-10,170,4/4/2002,"Spilve, Latvia",Forwards,70,,,,,,Alaska
+,15,"Birnie, Braden",So,6-2,195,8/19/2001,"Weyburn, Sask.",Forwards,74,,,,Steinbach,MJHL,Alaska
+,37,"Dafoe, Chase",Jr,6-3,201,2/25/2002,"Beverly, Mass.",Forwards,75,,,,Providence,HEA,Alaska
+,16,"Dubois, Chase",Jr,5-9,160,3/12/1998,"Williams Lake, B.C.",Forwards,69,,,,West Kelowna,BCHL,Alaska
+,34,"Gaffney, Kyle",So,6-0,180,9/5/2001,"Plymouth, Mich.",Forwards,72,,,,Aberdeen,NAHL,Alaska
+,24,"Israels, Harrison",Jr,6-1,200,9/1/1999,"Mississauga, Ont.",Forwards,73,,,,Oakville,OJHL,Alaska
+,40,"Koethe, Matt",Jr,5-10,185,9/28/1999,"Minnetonka, Minn.",Forwards,70,,,,Fairbanks,NAHL,Alaska
+,10,"Lawson-Body, William",Fr,5-10,170,4/4/2002,"Grand Forks, N.D.",Forwards,70,,,,,,Alaska
+,26,"Matsui, Payton",Jr,5-7,160,4/15/2000,"Lakeville, Minn.",Forwards,67,,,,Aberdeen,NAHL,Alaska
+,25,"Neilson, Cade",So,6-0,193,5/15/2001,"Lafayette, La.",Forwards,72,,,,Aberdeen,NAHL,Alaska
+,28,"Nicholetts, Brayden",Jr,5-11,180,8/27/1999,"Spruce Grove, Alb.",Forwards,71,,,,Spruce Grove,AJHL,Alaska
+,27,"Pecchia, Matteo",Jr,5-10,185,6/5/2000,"Nobelton, Ont.",Forwards,70,,,,Mississauga,OJHL,Alaska
+,11,"Risk, Brady",Jr,5-9,175,3/16/1999,"Medicine Hat, Alb.",Forwards,69,,,,Drumheller,AJHL,Alaska
+,14,"Rubtsov, Anton",Jr,5-10,165,3/6/1999,"St. Petersburg, Russia",Forwards,70,,,,Shreveport,NAHL,Alaska
+,4,"Sorenson, Jonny",Gr,6-1,180,9/21/1999,"St. Louis Park, Minn.",Forwards,73,,,,Minnesota,B10,Alaska
+,36,"Wiberg, Filip",Fr,6-2,201,7/15/2002,"Trondheim, Norway",Forwards,74,,,,,,Alaska
+,29,"Charleson, Pierce",Sr,6-2,194,2/27/2000,"Aurora, Ont.",Goaltenders,74,,,,Michigan State,B10,Alaska
+,1,"Hambley, Will",Fr,6-3,190,4/29/2002,"Cole Harbour, N.S.",Goaltenders,75,,,,Western Michigan,,Alaska
+,35,"Lehti, Lassi",So,6-3,210,11/29/2001,"Espoo, Finland",Goaltenders,75,,,,Minot,NAHL,Alaska
+,5,"Bell, Jon",Fr,5-10,200,6/22/2002,"St. Cloud, Minn.",Defensemen,70,,,,Wisconsin,NAHL,Army
+,22,"Brower, Jude",So,6-0,180,6/11/2001,"Mahopac, N.Y.",Defensemen,72,,,,Green Bay,USHL,Army
+,4,"Driscoll, John",So,6-4,205,8/19/2001,"Eagle, Idaho",Defensemen,76,,,,Green Bay,USHL,Army
+,2,"Gadowsky, Mac",Fr,6-3,185,1/10/2002,"Fairbanks, Alaska",Defensemen,75,,,,Fairbanks,NAHL,Army
+,24,"Garby, Andrew",Jr,5-9,160,9/17/2000,"Canton, Mich.",Defensemen,69,,,,Fairbanks,NAHL,Army
+,7,"Gilbert, Andrew",Jr,6-5,210,5/2/2000,"Fairfield, Conn.",Defensemen,77,,,,New Jersey,NCDC,Army
+,14,"Nolan, Owen",So,6-0,185,3/10/2000,"Mahopac, N.Y.",Defensemen,72,,,,Lone Star,NAHL,Army
+,6,"Patterson, Pierce",Fr,5-9,170,2/26/2002,"Valrico, Fla.",Defensemen,69,,,,Amarillo,NAHL,Army
+,20,"Vlasich, Sean",So,5-9,175,4/20/2001,"Upper Saddle River, N.J.",Defensemen,69,,,,North Iowa,NAHL,Army
+,3,"Zueger, Easton",Fr,6-4,190,6/7/2003,"Sioux Falls, S.D.",Defensemen,76,,,,Sioux City,USHL,Army
+,23,"Baez, Joey",Jr,5-9,175,1/12/2000,"Tampa, Fla.",Forwards,69,,,,Lonestar,NAHL,Army
+,11,"Bohlin, Josh",Jr,6-1,190,2/10/2000,"Wausau, Wis.",Forwards,73,,,,Minnesota,NAHL,Army
+,26,"Dosan, Joey",So,6-6,220,3/20/2001,"Bloomington, Minn.",Forwards,78,,,,Springfield,NAHL,Army
+,10,"Felker, Jake",Sr,5-11,190,3/19/2000,"Omaha, Neb.",Forwards,71,,,,Youngstown,USHL,Army
+,12,"Hewitt, Jake",Fr,5-10,180,7/5/2002,"Ashburnham, Mass.",Forwards,70,,,,Nanaimo,BCHL,Army
+,9,"Hong, Nik",Fr,5-11,185,8/27/2002,"Minneapolis, Minn.",Forwards,71,,,,St. Cloud,NAHL,Army
+,18,"Hoyord, Dayne",Fr,5-10,185,3/19/2002,"Scandinavia, Wis.",Forwards,70,,,,Odessa,NAHL,Army
+,29,"Huss, Eric",Sr,5-10,175,3/16/1999,"Dallas, Texas",Forwards,70,,,,Lone Star,NAHL,Army
+,19,"Itagaki, Max",So,5-7,155,6/18/2002,"Glenview, Ill.",Forwards,67,,,,Nanaimo,BCHL,Army
+,15,"Kanta, Lucas",So,6-2,195,4/20/2001,"Grand Forks, N.D.",Forwards,74,,,,MInnesota,NAHL,Army
+,28,"Keefer, Brent",Fr,6-0,170,9/28/2001,"Colorado Springs, Colo.",Forwards,72,,,,Northeast,NAHL,Army
+,8,"Lyle, Ricky",Sr,6-1,190,8/21/2000,"Duluth, Minn.",Forwards,73,,,,Madison,USHL,Army
+,16,"McCoy, Hunter",Jr,6-0,195,8/1/2000,"Newburyport, Mass.",Forwards,72,,,,Maryland,NAHL,Army
+,13,"Sacco, Michael",Jr,5-8,175,11/16/1999,"Syosset, N.Y.",Forwards,68,,,,Wilkes-Barre/Scranton,NAHL,Army
+,17,"Salice, Vincent",Fr,5-7,175,2/28/2003,"Commerce Township, Mich.",Forwards,67,,,,Omaha,USHL,Army
+,27,"Smith, Trevor",So,5-9,185,3/22/2001,"Raleigh, N.C.",Forwards,69,,,,Boston,NCDC,Army
+,21,"Willey, Stephen",So,6-1,195,3/26/2001,"Shelton, Conn.",Forwards,73,,,,New Jersey,NAHL,Army
+,25,"Woodring, Barron",Fr,6-2,200,7/5/2002,"Chicago, Ill.",Forwards,74,,,,New Jersey,NCDC,Army
+,1,"Abric, Gavin",Sr,6-3,170,1/11/2001,"Hayward, Wis.",Goaltenders,75,,,,New Jersey,USPHL,Army
+,33,"Holt, Gus",Fr,6-3,206,2/21/2003,"Bowling Green, Ohio",Goaltenders,75,,,,Victoria,BCHL,Army
+,31,"Szary, Evan",Jr,5-11,175,2/29/2000,"Nashville, Tenn.",Goaltenders,71,,,,South Shore,NCDC,Army
+,13,"Elias, Will",Fr,6-0,180,1/28/2003,"Weston, Mass.",Defensemen,72,,,,Cowichan,BCHL,Holy-Cross
+,3,"Gagno, Brody",Fr,6-1,190,7/29/2002,"Langley, B.C.",Defensemen,73,,,,Surrey,BCHL,Holy-Cross
+,4,"Higgins, Jake",Sr,6-2,205,6/9/2001,"Hingham, Mass.",Defensemen,74,,,,Deerfield Academy,PREP,Holy-Cross
+,27,"Oliphant, Mack",So,6-3,195,12/28/2002,"Northbrook, Ill.",Defensemen,75,,,,Johnstown,NAHL,Holy-Cross
+,37,"Petruolo, Nic",Sr,6-2,195,1/29/2000,"Neshanic Station, N.J.",Defensemen,74,,,,Union,ECAC,Holy-Cross
+,2,"Robilotti, Jack",Sr,6-3,194,7/18/2001,"New York, N.Y.",Defensemen,75,,,,Fargo,USHL,Holy-Cross
+,14,"Shatsky, Matt",Jr,6-0,180,4/29/2001,"Winnipeg, Man.",Defensemen,72,,,,Sherwood Park,AJHL,Holy-Cross
+,8,"Spence, Charlie",So,6-0,185,3/18/2002,"Boston, Mass.",Defensemen,72,,,,Boston,NCDC,Holy-Cross
+,5,"Troutwine, William",Fr,6-3,215,6/23/2002,"Eveleth, Minn.",Defensemen,75,,,,Janesville,NAHL,Holy-Cross
+,21,"Cicero, Alec",Sr,5-10,180,3/9/2001,"Williamsville, N.Y.",Forwards,70,,,,Buffalo Jr. Sabres,OJHL,Holy-Cross
+,17,"DeBoer, Matt",So,6-0,185,9/2/2002,"Madison, N.J.",Forwards,72,,,,Green Bay,USHL,Holy-Cross
+,18,"Gagno, Ty",Fr,6-2,185,10/1/2003,"Langley, B.C.",Forwards,74,,,,Prince George,BCHL,Holy-Cross
+,24,"Gelatt, John",Jr,5-11,195,4/29/2001,"Middletown, N.J.",Forwards,71,,,,Johnstown,NAHL,Holy-Cross
+,39,"Ghirardosi, Tyler",Sr,6-3,185,10/1/1999,"Trail, B.C.",Forwards,75,,,,Trail,BCHL,Holy-Cross
+,12,"Guerra, Matt",Sr,5-8,165,5/21/1999,"Sanford, Fla.",Forwards,68,,,,Lone Star,NAHL,Holy-Cross
+,40,"Hodge, Michael",Jr,5-8,155,5/30/2000,"Calgary, Alb.",Forwards,68,,,,Union,ECAC,Holy-Cross
+,10,"McLinskey, Liam",Jr,6-3,165,2/20/2001,"Pearl River, N.Y.",Forwards,75,,,,Quinnipiac,ECAC,Holy-Cross
+,20,"Phillips, Devin",So,5-9,170,7/12/2001,"Raleigh, N.C.",Forwards,69,,,,Brooks,AJHL,Holy-Cross
+,15,"Ricketts, Jack",Sr,6-1,195,9/8/1999,"Oakville, Ont.",Forwards,73,,,,Oakville,OJHL,Holy-Cross
+,28,"Seymour, Jack",So,5-11,170,4/6/2001,"Chelsea, Que.",Forwards,71,,,,Chilliwack,BCHL,Holy-Cross
+,34,"Solimine, Joe",So,5-8,165,3/3/2002,"Middleton, Mass.",Forwards,68,,,,Boston,NCDC,Holy-Cross
+,19,"Stockfish, Jack",Fr,6-4,215,9/30/2002,"North Bay, Ont.",Forwards,76,,,,Prince George,BCHL,Holy-Cross
+,22,"Thorne, Lucas",Sr,6-0,185,3/5/1999,"Dunville, Ont.",Forwards,72,,,,Bonnyville,AJHL,Holy-Cross
+,29,"Welsh, Connor",Fr,5-11,175,1/2/2004,"Greenwich, Conn.",Forwards,71,,,,Vernon,BCHL,Holy-Cross
+,33,"Gale, Thomas",Jr,6-1,180,6/10/2000,"Kirkland, Que.",Goaltenders,73,,,,PAL,NCDC,Holy-Cross
+,30,"Grande, Jason",Sr,6-3,190,2/7/1999,"West Chester, Pa.",Goaltenders,75,,,,Bentley,AHA,Holy-Cross
+,1,"Hogg, Louden",So,5-11,160,10/18/2002,"Cheyenne, Wyo.",Goaltenders,71,,,,Fargo,USHL,Holy-Cross
+,2,"Charpentier, Eric",Fr,6-3,205,6/10/2002,"Silver Spring, Md.",Defensemen,75,,,,New Jersey,NAHL,Dartmouth
+,43,"Desilets, Owen",Fr,6-1,175,2/3/2004,"Airdrie, Alb.",Defensemen,73,,,,Alberni Valley,BCHL,Dartmouth
+,4,"Foley, CJ",Fr,5-11,175,2/11/2004,"Hanover, Mass.",Defensemen,71,,,,Salmon Arm,BCHL,Dartmouth
+,6,"Fusco, Matt",Fr,5-11,195,3/7/2003,"Westwood, Mass.",Defensemen,71,,,,West Kelowna,BCHL,Dartmouth
+,3,"Fusco, John",Sr,5-10,190,6/13/2001,"Westwood, Mass.",Defensemen,70,2020,TOR,7,Harvard,ECAC,Dartmouth
+,27,"MacDonald, Brady",Jr,6-4,190,1/24/2000,"Union, Ont.",Defensemen,76,,,,Victoria ,BCHL,Dartmouth
+,5,"McRae, Tucker",So,6-0,190,4/11/2001,"Calgary, Alb.",Defensemen,72,,,,Okotoks,AJHL,Dartmouth
+,23,"Pierce, Ian",Jr,5-10,190,1/24/2001,"Edgewater, N.J.",Defensemen,70,,,,Dubuque,USHL,Dartmouth
+,19,"Chisholm, Sean",Jr,6-1,190,1/26/2001,"Caledonia, Ont.",Forwards,73,,,,Brooks,AJHL,Dartmouth
+,17,"Dorfman, Braiden",Jr,6-1,185,8/9/2000,"Nashville, Tenn.",Forwards,73,,,,Shreveport,NAHL,Dartmouth
+,20,"Flinton, Cooper",So,6-2,205,8/16/2003,"Auburn, N.H.",Forwards,74,,,,Cedar Rapids,USHL,Dartmouth
+,28,"Haymes, Luke",So,6-1,203,7/28/2003,"Ottawa, Ont.",Forwards,73,,,,Cowichan Valley,BCHL,Dartmouth
+,95,"Krause, Alex",So,6-1,190,7/22/2001,"Calabasas, Calif.",Forwards,73,,,,Northeast,NAHL,Dartmouth
+,22,"Lokkeberg, Trym",Jr,6-2,210,7/23/2001,"Fredrikstad, Norway",Forwards,74,,,,Mora IK,Sweden,Dartmouth
+,15,"MacDonald, Cam",So,5-9,185,3/8/2002,"Surrey, B.C.",Forwards,69,,,,Vernon,BCHL,Dartmouth
+,68,"Morgan, Nate",Jr,5-10,190,2/8/2002,"Calgary, Alb.",Forwards,70,,,,Salmon Arm,BCHL,Dartmouth
+,8,"Musa, Joey",Sr,5-9,160,6/11/2000,"Orange Park, Fla.",Forwards,69,,,,Langley,BCHL,Dartmouth
+,7,"Nikora, Nikita",Fr,5-10,170,1/21/2004,"St. Petersburg, Russia",Forwards,70,,,,Springfield,NAHL,Dartmouth
+,10,"Sorkin, Ryan",Sr,5-10,175,6/13/2001,"Chicago, Ill.",Forwards,70,,,,New Jersey Rockets,USPHL,Dartmouth
+,14,"Townley, Steven",Jr,6-2,205,6/13/2000,"Quechee, Vt.",Forwards,74,,,,Jersey,NCDC,Dartmouth
+,24,"Vuorio, Oskari",Fr,5-9,175,5/6/2004,"Espoo, Finland",Forwards,69,,,,Jokerit U20,,Dartmouth
+,18,"Waters, Josh",Sr,5-11,175,1/23/2000,"Collegeville, Pa.",Forwards,71,,,,Northwood Prep 18U,,Dartmouth
+,31,"Black, Cooper",So,6-8,240,6/14/2001,"Alpena, Mich.",Goaltenders,80,,,,Nanaimo,BCHL,Dartmouth
+,32,"Clarke, Roan",Fr,6-3,190,8/23/2003,"Cloverdale, B.C.",Goaltenders,75,,,,Vernon,BCHL,Dartmouth
+,1,"Roberts, Mikey",So,6-0,175,12/25/2002,"Wilton, Conn.",Goaltenders,72,,,,The Taft School,USHS-Prep,Dartmouth
+,33,"Begley, Axel",Fr,6-2,200,12/16/2003,"Mahtomedi, Minn.",Defensemen,74,,,,Wisconsin,NAHL,Minnesota
+,71,"Chesley, Ryan",So,6-0,200,2/27/2004,"Mahtomedi, Minn.",Defensemen,72,2022,WSH,2,USA U-18 Team,NTDP,Minnesota
+,26,"Fish, Carl",Sr,6-3,210,11/9/1999,"St. Paul, Minn.",Defensemen,75,,,,Bismarck,NAHL,Minnesota
+,4,"Koster, Mike",Sr,5-10,180,4/13/2001,"Chaska, Minn.",Defensemen,70,2019,TOR,5,Tri-City,USHL,Minnesota
+,20,"Mittelstadt, Luke",So,5-11,175,1/22/2003,"Eden Prairie, Minn.",Defensemen,71,2023,MTL,7,Madison,USHL,Minnesota
+,5,"Rinzel, Sam",Fr,6-4,185,6/25/2004,"Chanhassen, Minn.",Defensemen,76,2022,CHI,1,Waterloo,USHL,Minnesota
+,15,"Rud, Max",Fr,6-3,185,9/17/2003,"St. Cloud, Minn.",Defensemen,75,,,,Sioux Falls,USHL,Minnesota
+,6,"Thomas, Cal",So,6-0,185,5/8/2003,"Maple Grove, Minn.",Defensemen,72,2021,ARI,6,Sioux Falls,USHL,Minnesota
+,22,"Brodzinski, Bryce",Gr,6-0,205,8/9/2000,"Blaine, Minn.",Forwards,72,2019,PHI,7,Omaha,USHL,Minnesota
+,23,"Clark, Jimmy",Fr,6-0,180,9/24/2004,"Edina, Minn.",Forwards,72,2023,MIN,7,Green Bay,USHL,Minnesota
+,7,"Huglen, Aaron",Jr,6-0,170,3/6/2001,"Roseau, Minn.",Forwards,72,2019,BUF,4,Fargo,USHL,Minnesota
+,10,"Kurth, Connor",So,6-0,210,7/30/2003,"Elk River, Minn.",Forwards,72,2022,TBL,6,Dubuque,USHL,Minnesota
+,17,"Lamb, Brody",So,6-1,175,8/30/2003,"Byron, Minn.",Forwards,73,2021,NYR,4,Green Bay,USHL,Minnesota
+,9,"Michel, Nick",Gr,5-11,180,3/16/1999,"Waconia, Minn.",Forwards,71,,,,Janesville,NAHL,Minnesota
+,19,"Mittelstadt, John",So,5-9,175,10/1/2001,"Eden Prairie, Minn.",Forwards,69,,,,Green Bay,USHL,Minnesota
+,11,"Moore, Oliver",Fr,5-11,190,1/22/2005,"Mounds View, Minn.",Forwards,71,2023,CHI,1,USA U-18 Team,NTDP,Minnesota
+,24,"Nelson, Jaxon",Gr,6-4,225,3/30/2000,"Magnolia, Minn.",Forwards,76,,,,Omaha,USHL,Minnesota
+,18,"Nevers, Mason",Sr,5-11,175,4/3/2001,"Edina, Minn.",Forwards,71,,,,Des Moines,USHL,Minnesota
+,13,"Pinoniemi, Garrett",So,6-0,170,7/15/2001,"Robbinsdale, Minn.",Forwards,72,,,,Sioux Falls,USHL,Minnesota
+,77,"Pitlick, Rhett",Jr,5-10,165,2/7/2001,"Chaska, Minn.",Forwards,70,2019,MTL,5,Tri-City,USHL,Minnesota
+,81,"Snuggerud, Jimmy",So,6-1,185,6/1/2004,"Chaska, Minn.",Forwards,73,2022,STL,1,USA U-18 Team,NTDP,Minnesota
+,27,"Strobel, Charlie",So,6-1,190,7/9/2001,"Stillwater, Minn.",Forwards,73,,,,Trail,BCHL,Minnesota
+,29,"Airey, Nathan",Fr,6-3,190,4/24/2003,"Cochrane, Alb.",Goaltenders,75,,,,Cranbrook,BCHL,Minnesota
+,1,"Close, Justen",Gr,5-10,175,5/20/1998,"Kindersley, Sask.",Goaltenders,70,,,,Kindersley,SJHL,Minnesota
+,30,"Wiese, Zach",So,5-10,210,1/2/2002,"Owatonna, Minn.",Goaltenders,70,,,,Rochester,NA3HL,Minnesota

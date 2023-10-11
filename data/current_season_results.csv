@@ -1,0 +1,48 @@
+Date,Conference,Game_Notes,Home_Team,Home_Team_Link,Home_Score,Away_Team,Away_Team_Link,Away_Score,OT,Box_Link,Metrics_Link,Day,Game_ID
+2023-10-07,Exhibition,,McGill,,0,Vermont,/reports/team/Vermont/55,4,,/box/final/20231007/mcg/ver/,,Saturday,2023-10-07_McGill_Vermont
+2023-10-07,Exhibition,,Merrimack,/reports/team/Merrimack/29,3,Sacred Heart,/reports/team/Sacred-Heart/51,2,ot,/box/final/20231007/mer/sac/,,Saturday,2023-10-07_Merrimack_Sacred Heart
+2023-10-07,Exhibition,,Union,/reports/team/Union/54,2,Rensselaer,/reports/team/Rensselaer/48,2,ot,/box/final/20231007/uni/ren/,,Saturday,2023-10-07_Union_Rensselaer
+2023-10-07,Exhibition,,Royal Military,,3,Niagara,/reports/team/Niagara/39,8,,/box/final/20231007/rmc/nia/,,Saturday,2023-10-07_Royal Military_Niagara
+2023-10-07,Exhibition,"at Alfond Arena (Waterville), Waterville, Maine",New Hampshire,/reports/team/New-Hampshire/38,2,Maine,/reports/team/Maine/25,3,,/box/final/20231007/unh/mne/,,Saturday,2023-10-07_New Hampshire_Maine
+2023-10-07,Exhibition,,Western Michigan,/reports/team/Western-Michigan/57,9,US Under-18,,4,,/box/final/20231007/wmu/u18/,,Saturday,2023-10-07_Western Michigan_US Under-18
+2023-10-07,Exhibition,,Manitoba,,0,North Dakota,/reports/team/North-Dakota/40,10,,/box/final/20231007/mtb/ndk/,,Saturday,2023-10-07_Manitoba_North Dakota
+2023-10-07,Exhibition,,Omaha,/reports/team/Omaha/37,1,Minnesota State,/reports/team/Minnesota-State/35,0,,/box/final/20231007/uno/mns/,,Saturday,2023-10-07_Omaha_Minnesota State
+2023-10-07,Exhibition,,Simon Fraser,,3,Colorado College,/reports/team/Colorado-College/16,6,,/box/final/20231007/sfr/cc_/,,Saturday,2023-10-07_Simon Fraser_Colorado College
+2023-10-07,Non-Conference,,Lake Superior,/reports/team/Lake-Superior/24,2,Michigan State,/reports/team/Michigan-State/32,5,,/box/final/20231007/lss/msu/,/box/metrics.php?gd=97052,Saturday,2023-10-07_Lake Superior_Michigan State
+2023-10-07,Non-Conference,,Clarkson,/reports/team/Clarkson/14,3,Notre Dame,/reports/team/Notre-Dame/43,1,,/box/final/20231007/clk/ndm/,/box/metrics.php?gd=96879,Saturday,2023-10-07_Clarkson_Notre Dame
+2023-10-07,Non-Conference,,RIT,/reports/team/RIT/49,3,St. Lawrence,/reports/team/St-Lawrence/53,4,,/box/final/20231007/rit/stl/,/box/metrics.php?gd=96878,Saturday,2023-10-07_RIT_St. Lawrence
+2023-10-07,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,5,St. Cloud State,/reports/team/St-Cloud-State/52,4,ot,/box/final/20231007/stt/stc/,/box/metrics.php?gd=96687,Saturday,2023-10-07_St. Thomas_St. Cloud State
+2023-10-07,Non-Conference,,American Int'l,/reports/team/American-Intl/5,3,Massachusetts,/reports/team/Massachusetts/27,5,,/box/final/20231007/aic/uma/,/box/metrics.php?gd=96439,Saturday,2023-10-07_American Int'l_Massachusetts
+2023-10-07,Non-Conference,,Providence,/reports/team/Providence/46,4,Michigan,/reports/team/Michigan/31,2,,/box/final/20231007/prv/mic/,/box/metrics.php?gd=96443,Saturday,2023-10-07_Providence_Michigan
+2023-10-07,Non-Conference,,Connecticut,/reports/team/Connecticut/17,4,Colgate,/reports/team/Colgate/15,2,,/box/final/20231007/con/clg/,/box/metrics.php?gd=96876,Saturday,2023-10-07_Connecticut_Colgate
+2023-10-07,Non-Conference,,Stonehill,/reports/team/Stonehill/422,0,Northeastern,/reports/team/Northeastern/41,7,,/box/final/20231007/stn/noe/,/box/metrics.php?gd=96442,Saturday,2023-10-07_Stonehill_Northeastern
+2023-10-07,Non-Conference,,Boston College,/reports/team/Boston-College/9,2,Quinnipiac,/reports/team/Quinnipiac/47,1,ot,/box/final/20231007/bc_/qui/,/box/metrics.php?gd=96437,Saturday,2023-10-07_Boston College_Quinnipiac
+2023-10-07,Non-Conference,,Ohio State,/reports/team/Ohio-State/44,4,Mercyhurst,/reports/team/Mercyhurst/28,3,,/box/final/20231007/osu/mrc/,/box/metrics.php?gd=97201,Saturday,2023-10-07_Ohio State_Mercyhurst
+2023-10-07,Non-Conference,,Penn State,/reports/team/Penn-State/60,3,Long Island,/reports/team/Long-Island/62,2,,/box/final/20231007/psu/liu/,/box/metrics.php?gd=97447,Saturday,2023-10-07_Penn State_Long Island
+2023-10-07,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,1,Air Force,/reports/team/Air-Force/1,4,,/box/final/20231007/lin/afa/,/box/metrics.php?gd=97200,Saturday,2023-10-07_Lindenwood_Air Force
+2023-10-07,Non-Conference,,Bowling Green,/reports/team/Bowling-Green/11,3,Robert Morris,/reports/team/Robert-Morris/50,0,,/box/final/20231007/bgs/rmu/,/box/metrics.php?gd=97054,Saturday,2023-10-07_Bowling Green_Robert Morris
+2023-10-07,Non-Conference,,Boston University,/reports/team/Boston-University/10,3,Bentley,/reports/team/Bentley/8,2,ot,/box/final/20231007/bu_/ben/,/box/metrics.php?gd=96438,Saturday,2023-10-07_Boston University_Bentley
+2023-10-07,Non-Conference,,Miami,/reports/team/Miami/30,4,Ferris State,/reports/team/Ferris-State/21,5,ot,/box/final/20231007/mia/fsu/,/box/metrics.php?gd=96685,Saturday,2023-10-07_Miami_Ferris State
+2023-10-07,Non-Conference,,Augustana,/reports/team/Augustana/64,0,Wisconsin,/reports/team/Wisconsin/58,4,,/box/final/20231007/aug/wis/,/box/metrics.php?gd=97055,Saturday,2023-10-07_Augustana_Wisconsin
+2023-10-07,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,2,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,3,ot,/box/final/20231007/uml/aka/,/box/metrics.php?gd=96440,Saturday,2023-10-07_Mass.-Lowell_Alaska-Anchorage
+2023-10-07,Non-Conference,US Hockey Hall of Fame Game,Michigan Tech,/reports/team/Michigan-Tech/33,2,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,2,ot,/box/final/20231007/mtu/mnd/,/box/metrics.php?gd=96686,Saturday,2023-10-07_Michigan Tech_Minnesota-Duluth
+2023-10-07,Non-Conference,,Denver,/reports/team/Denver/20,7,Alaska,/reports/team/Alaska/4,3,,/box/final/20231007/den/akf/,/box/metrics.php?gd=96688,Saturday,2023-10-07_Denver_Alaska
+2023-10-08,Non-Conference,,Union,/reports/team/Union/54,6,Army,/reports/team/Army/6,0,,/box/final/20231008/uni/arm/,/box/metrics.php?gd=96882,Sunday,2023-10-08_Union_Army
+2023-10-08,Non-Conference,,Connecticut,/reports/team/Connecticut/17,3,Colgate,/reports/team/Colgate/15,3,ot,/box/final/20231008/con/clg/,/box/metrics.php?gd=96880,Sunday,2023-10-08_Connecticut_Colgate
+2023-10-08,Non-Conference,,Lake Superior,/reports/team/Lake-Superior/24,2,Michigan State,/reports/team/Michigan-State/32,4,,/box/final/20231008/lss/msu/,/box/metrics.php?gd=97056,Sunday,2023-10-08_Lake Superior_Michigan State
+2023-10-08,Non-Conference,,Providence,/reports/team/Providence/46,4,Michigan,/reports/team/Michigan/31,5,,/box/final/20231008/prv/mic/,/box/metrics.php?gd=96448,Sunday,2023-10-08_Providence_Michigan
+2023-10-08,Non-Conference,,St. Cloud State,/reports/team/St-Cloud-State/52,1,St. Thomas,/reports/team/St-Thomas/63,0,,/box/final/20231008/stc/stt/,/box/metrics.php?gd=96694,Sunday,2023-10-08_St. Cloud State_St. Thomas
+2023-10-08,Non-Conference,,Clarkson,/reports/team/Clarkson/14,0,Notre Dame,/reports/team/Notre-Dame/43,3,,/box/final/20231008/clk/ndm/,/box/metrics.php?gd=96883,Sunday,2023-10-08_Clarkson_Notre Dame
+2023-10-08,Non-Conference,,Miami,/reports/team/Miami/30,5,Ferris State,/reports/team/Ferris-State/21,2,,/box/final/20231008/mia/fsu/,/box/metrics.php?gd=96693,Sunday,2023-10-08_Miami_Ferris State
+2023-10-08,Non-Conference,,Robert Morris,/reports/team/Robert-Morris/50,3,Bowling Green,/reports/team/Bowling-Green/11,0,,/box/final/20231008/rmu/bgs/,/box/metrics.php?gd=97057,Sunday,2023-10-08_Robert Morris_Bowling Green
+2023-10-08,Non-Conference,,Augustana,/reports/team/Augustana/64,0,Wisconsin,/reports/team/Wisconsin/58,3,,/box/final/20231008/aug/wis/,/box/metrics.php?gd=97058,Sunday,2023-10-08_Augustana_Wisconsin
+2023-10-08,Non-Conference,,Long Island,/reports/team/Long-Island/62,2,Holy Cross,/reports/team/Holy-Cross/23,5,,/box/final/20231008/liu/hcr/,/box/metrics.php?gd=97204,Sunday,2023-10-08_Long Island_Holy Cross
+2023-10-08,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,4,Air Force,/reports/team/Air-Force/1,3,ot,/box/final/20231008/lin/afa/,/box/metrics.php?gd=97203,Sunday,2023-10-08_Lindenwood_Air Force
+2023-10-08,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,2,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,1,,/box/final/20231008/uml/aka/,/box/metrics.php?gd=96446,Sunday,2023-10-08_Mass.-Lowell_Alaska-Anchorage
+2023-10-08,Non-Conference,,Denver,/reports/team/Denver/20,5,Alaska,/reports/team/Alaska/4,2,,/box/final/20231008/den/akf/,/box/metrics.php?gd=96695,Sunday,2023-10-08_Denver_Alaska
+2023-10-08,Exhibition,,Guelph,,4,Rensselaer,/reports/team/Rensselaer/48,6,,/box/final/20231008/gue/ren/,,Sunday,2023-10-08_Guelph_Rensselaer
+2023-10-08,Exhibition,,Canisius,/reports/team/Canisius/13,5,Niagara,/reports/team/Niagara/39,2,,/box/final/20231008/cns/nia/,,Sunday,2023-10-08_Canisius_Niagara
+2023-10-08,Exhibition,,Quinnipiac,/reports/team/Quinnipiac/47,2,Northeastern,/reports/team/Northeastern/41,2,ot,/box/final/20231008/qui/noe/,,Sunday,2023-10-08_Quinnipiac_Northeastern
+2023-10-08,Exhibition,,Massachusetts,/reports/team/Massachusetts/27,5,Dartmouth,/reports/team/Dartmouth/19,1,,/box/final/20231008/uma/dar/,,Sunday,2023-10-08_Massachusetts_Dartmouth
+2023-10-08,Exhibition,,Ottawa,,2,Sacred Heart,/reports/team/Sacred-Heart/51,8,,/box/final/20231008/ott/sac/,,Sunday,2023-10-08_Ottawa_Sacred Heart
+2023-10-08,Exhibition,,Bemidji State,/reports/team/Bemidji-State/7,2,Minnesota,/reports/team/Minnesota/34,5,,/box/final/20231008/bmj/min/,,Sunday,2023-10-08_Bemidji State_Minnesota
