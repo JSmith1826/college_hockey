@@ -1,0 +1,1139 @@
+Date,Conference,Game_Notes,Away_Team,Away_Team_Link,Away_Score,Home_Team,Home_Team_Link,Home_Score,OT,Box_Link,Metrics_Link,Day,Game_ID
+2023-10-06,Exhibition,,Arizona,,0,Arizona State,/reports/team/Arizona-State/61,16,,/box/final/20231006/arz/asu/,,Friday,2023-10-06_Arizona State_Arizona
+2023-10-07,Exhibition,,McGill,,0,Vermont,/reports/team/Vermont/55,4,,/box/final/20231007/mcg/ver/,,Saturday,2023-10-07_Vermont_McGill
+2023-10-07,Exhibition,,Merrimack,/reports/team/Merrimack/29,3,Sacred Heart,/reports/team/Sacred-Heart/51,2,ot,/box/final/20231007/mer/sac/,,Saturday,2023-10-07_Sacred Heart_Merrimack
+2023-10-07,Exhibition,,Union,/reports/team/Union/54,2,Rensselaer,/reports/team/Rensselaer/48,2,ot,/box/final/20231007/uni/ren/,,Saturday,2023-10-07_Rensselaer_Union
+2023-10-07,Exhibition,,Royal Military,,3,Niagara,/reports/team/Niagara/39,8,,/box/final/20231007/rmc/nia/,,Saturday,2023-10-07_Niagara_Royal Military
+2023-10-07,Exhibition,"at Alfond Arena (Waterville), Waterville, Maine",New Hampshire,/reports/team/New-Hampshire/38,2,Maine,/reports/team/Maine/25,3,,/box/final/20231007/unh/mne/,,Saturday,2023-10-07_Maine_New Hampshire
+2023-10-07,Exhibition,,Western Michigan,/reports/team/Western-Michigan/57,9,US Under-18,,4,,/box/final/20231007/wmu/u18/,,Saturday,2023-10-07_US Under-18_Western Michigan
+2023-10-07,Exhibition,,Manitoba,,0,North Dakota,/reports/team/North-Dakota/40,10,,/box/final/20231007/mtb/ndk/,,Saturday,2023-10-07_North Dakota_Manitoba
+2023-10-07,Exhibition,,Omaha,/reports/team/Omaha/37,1,Minnesota State,/reports/team/Minnesota-State/35,0,,/box/final/20231007/uno/mns/,,Saturday,2023-10-07_Minnesota State_Omaha
+2023-10-07,Exhibition,,Simon Fraser,,3,Colorado College,/reports/team/Colorado-College/16,6,,/box/final/20231007/sfr/cc_/,,Saturday,2023-10-07_Colorado College_Simon Fraser
+2023-10-07,Non-Conference,,Lake Superior,/reports/team/Lake-Superior/24,2,Michigan State,/reports/team/Michigan-State/32,5,,/box/final/20231007/lss/msu/,/box/metrics.php?gd=97052,Saturday,2023-10-07_Michigan State_Lake Superior
+2023-10-07,Non-Conference,,Clarkson,/reports/team/Clarkson/14,3,Notre Dame,/reports/team/Notre-Dame/43,1,,/box/final/20231007/clk/ndm/,/box/metrics.php?gd=96879,Saturday,2023-10-07_Notre Dame_Clarkson
+2023-10-07,Non-Conference,,RIT,/reports/team/RIT/49,3,St. Lawrence,/reports/team/St-Lawrence/53,4,,/box/final/20231007/rit/stl/,/box/metrics.php?gd=96878,Saturday,2023-10-07_St. Lawrence_RIT
+2023-10-07,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,5,St. Cloud State,/reports/team/St-Cloud-State/52,4,ot,/box/final/20231007/stt/stc/,/box/metrics.php?gd=96687,Saturday,2023-10-07_St. Cloud State_St. Thomas
+2023-10-07,Non-Conference,,Boston College,/reports/team/Boston-College/9,2,Quinnipiac,/reports/team/Quinnipiac/47,1,ot,/box/final/20231007/bc_/qui/,/box/metrics.php?gd=96437,Saturday,2023-10-07_Quinnipiac_Boston College
+2023-10-07,Non-Conference,,Ohio State,/reports/team/Ohio-State/44,4,Mercyhurst,/reports/team/Mercyhurst/28,3,,/box/final/20231007/osu/mrc/,/box/metrics.php?gd=97201,Saturday,2023-10-07_Mercyhurst_Ohio State
+2023-10-07,Non-Conference,,Connecticut,/reports/team/Connecticut/17,4,Colgate,/reports/team/Colgate/15,2,,/box/final/20231007/con/clg/,/box/metrics.php?gd=96876,Saturday,2023-10-07_Colgate_Connecticut
+2023-10-07,Non-Conference,,American Int'l,/reports/team/American-Intl/5,3,Massachusetts,/reports/team/Massachusetts/27,5,,/box/final/20231007/aic/uma/,/box/metrics.php?gd=96439,Saturday,2023-10-07_Massachusetts_American Int'l
+2023-10-07,Non-Conference,,Providence,/reports/team/Providence/46,4,Michigan,/reports/team/Michigan/31,2,,/box/final/20231007/prv/mic/,/box/metrics.php?gd=96443,Saturday,2023-10-07_Michigan_Providence
+2023-10-07,Non-Conference,,Stonehill,/reports/team/Stonehill/422,0,Northeastern,/reports/team/Northeastern/41,7,,/box/final/20231007/stn/noe/,/box/metrics.php?gd=96442,Saturday,2023-10-07_Northeastern_Stonehill
+2023-10-07,Non-Conference,,Penn State,/reports/team/Penn-State/60,3,Long Island,/reports/team/Long-Island/62,2,,/box/final/20231007/psu/liu/,/box/metrics.php?gd=97447,Saturday,2023-10-07_Long Island_Penn State
+2023-10-07,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,1,Air Force,/reports/team/Air-Force/1,4,,/box/final/20231007/lin/afa/,/box/metrics.php?gd=97200,Saturday,2023-10-07_Air Force_Lindenwood
+2023-10-07,Non-Conference,,Bowling Green,/reports/team/Bowling-Green/11,3,Robert Morris,/reports/team/Robert-Morris/50,0,,/box/final/20231007/bgs/rmu/,/box/metrics.php?gd=97054,Saturday,2023-10-07_Robert Morris_Bowling Green
+2023-10-07,Non-Conference,,Boston University,/reports/team/Boston-University/10,3,Bentley,/reports/team/Bentley/8,2,ot,/box/final/20231007/bu_/ben/,/box/metrics.php?gd=96438,Saturday,2023-10-07_Bentley_Boston University
+2023-10-07,Non-Conference,,Miami,/reports/team/Miami/30,4,Ferris State,/reports/team/Ferris-State/21,5,ot,/box/final/20231007/mia/fsu/,/box/metrics.php?gd=96685,Saturday,2023-10-07_Ferris State_Miami
+2023-10-07,Non-Conference,,Augustana,/reports/team/Augustana/64,0,Wisconsin,/reports/team/Wisconsin/58,4,,/box/final/20231007/aug/wis/,/box/metrics.php?gd=97055,Saturday,2023-10-07_Wisconsin_Augustana
+2023-10-07,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,2,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,3,ot,/box/final/20231007/uml/aka/,/box/metrics.php?gd=96440,Saturday,2023-10-07_Alaska-Anchorage_Mass.-Lowell
+2023-10-07,Non-Conference,US Hockey Hall of Fame Game,Michigan Tech,/reports/team/Michigan-Tech/33,2,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,2,ot,/box/final/20231007/mtu/mnd/,/box/metrics.php?gd=96686,Saturday,2023-10-07_Minnesota-Duluth_Michigan Tech
+2023-10-07,Non-Conference,,Denver,/reports/team/Denver/20,7,Alaska,/reports/team/Alaska/4,3,,/box/final/20231007/den/akf/,/box/metrics.php?gd=96688,Saturday,2023-10-07_Alaska_Denver
+2023-10-08,Non-Conference,,Union,/reports/team/Union/54,6,Army,/reports/team/Army/6,0,,/box/final/20231008/uni/arm/,/box/metrics.php?gd=96882,Sunday,2023-10-08_Army_Union
+2023-10-08,Non-Conference,,Connecticut,/reports/team/Connecticut/17,3,Colgate,/reports/team/Colgate/15,3,ot,/box/final/20231008/con/clg/,/box/metrics.php?gd=96880,Sunday,2023-10-08_Colgate_Connecticut
+2023-10-08,Non-Conference,,Lake Superior,/reports/team/Lake-Superior/24,2,Michigan State,/reports/team/Michigan-State/32,4,,/box/final/20231008/lss/msu/,/box/metrics.php?gd=97056,Sunday,2023-10-08_Michigan State_Lake Superior
+2023-10-08,Non-Conference,,Providence,/reports/team/Providence/46,4,Michigan,/reports/team/Michigan/31,5,,/box/final/20231008/prv/mic/,/box/metrics.php?gd=96448,Sunday,2023-10-08_Michigan_Providence
+2023-10-08,Non-Conference,,St. Cloud State,/reports/team/St-Cloud-State/52,1,St. Thomas,/reports/team/St-Thomas/63,0,,/box/final/20231008/stc/stt/,/box/metrics.php?gd=96694,Sunday,2023-10-08_St. Thomas_St. Cloud State
+2023-10-08,Non-Conference,,Clarkson,/reports/team/Clarkson/14,0,Notre Dame,/reports/team/Notre-Dame/43,3,,/box/final/20231008/clk/ndm/,/box/metrics.php?gd=96883,Sunday,2023-10-08_Notre Dame_Clarkson
+2023-10-08,Non-Conference,,Miami,/reports/team/Miami/30,5,Ferris State,/reports/team/Ferris-State/21,2,,/box/final/20231008/mia/fsu/,/box/metrics.php?gd=96693,Sunday,2023-10-08_Ferris State_Miami
+2023-10-08,Non-Conference,,Robert Morris,/reports/team/Robert-Morris/50,3,Bowling Green,/reports/team/Bowling-Green/11,0,,/box/final/20231008/rmu/bgs/,/box/metrics.php?gd=97057,Sunday,2023-10-08_Bowling Green_Robert Morris
+2023-10-08,Non-Conference,,Augustana,/reports/team/Augustana/64,0,Wisconsin,/reports/team/Wisconsin/58,3,,/box/final/20231008/aug/wis/,/box/metrics.php?gd=97058,Sunday,2023-10-08_Wisconsin_Augustana
+2023-10-08,Non-Conference,,Long Island,/reports/team/Long-Island/62,2,Holy Cross,/reports/team/Holy-Cross/23,5,,/box/final/20231008/liu/hcr/,/box/metrics.php?gd=97204,Sunday,2023-10-08_Holy Cross_Long Island
+2023-10-08,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,4,Air Force,/reports/team/Air-Force/1,3,ot,/box/final/20231008/lin/afa/,/box/metrics.php?gd=97203,Sunday,2023-10-08_Air Force_Lindenwood
+2023-10-08,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,2,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,1,,/box/final/20231008/uml/aka/,/box/metrics.php?gd=96446,Sunday,2023-10-08_Alaska-Anchorage_Mass.-Lowell
+2023-10-08,Non-Conference,,Denver,/reports/team/Denver/20,5,Alaska,/reports/team/Alaska/4,2,,/box/final/20231008/den/akf/,/box/metrics.php?gd=96695,Sunday,2023-10-08_Alaska_Denver
+2023-10-08,Exhibition,,Guelph,,4,Rensselaer,/reports/team/Rensselaer/48,6,,/box/final/20231008/gue/ren/,,Sunday,2023-10-08_Rensselaer_Guelph
+2023-10-08,Exhibition,,Canisius,/reports/team/Canisius/13,5,Niagara,/reports/team/Niagara/39,2,,/box/final/20231008/cns/nia/,,Sunday,2023-10-08_Niagara_Canisius
+2023-10-08,Exhibition,,Massachusetts,/reports/team/Massachusetts/27,5,Dartmouth,/reports/team/Dartmouth/19,1,,/box/final/20231008/uma/dar/,,Sunday,2023-10-08_Dartmouth_Massachusetts
+2023-10-08,Exhibition,,Quinnipiac,/reports/team/Quinnipiac/47,2,Northeastern,/reports/team/Northeastern/41,2,ot,/box/final/20231008/qui/noe/,,Sunday,2023-10-08_Northeastern_Quinnipiac
+2023-10-08,Exhibition,,Ottawa,,2,Sacred Heart,/reports/team/Sacred-Heart/51,8,,/box/final/20231008/ott/sac/,,Sunday,2023-10-08_Sacred Heart_Ottawa
+2023-10-08,Exhibition,,Bemidji State,/reports/team/Bemidji-State/7,2,Minnesota,/reports/team/Minnesota/34,5,,/box/final/20231008/bmj/min/,,Sunday,2023-10-08_Minnesota_Bemidji State
+2023-10-09,Exhibition,,Guelph,,4,RIT,/reports/team/RIT/49,6,,/box/final/20231009/gue/rit/,,Monday,2023-10-09_RIT_Guelph
+2023-10-12,Non-Conference,,Ferris State,/reports/team/Ferris-State/21,4,Western Michigan,/reports/team/Western-Michigan/57,6,,/box/final/20231012/fsu/wmu/,/box/metrics.php?gd=96696,Thursday,2023-10-12_Western Michigan_Ferris State
+2023-10-12,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,1,Maine,/reports/team/Maine/25,4,,/box/final/20231012/ren/mne/,/box/metrics.php?gd=97572,Thursday,2023-10-12_Maine_Rensselaer
+2023-10-12,Non-Conference,,Michigan State,/reports/team/Michigan-State/32,5,Air Force,/reports/team/Air-Force/1,6,,/box/final/20231012/msu/afa/,/box/metrics.php?gd=97207,Thursday,2023-10-12_Air Force_Michigan State
+2023-10-13,Non-Conference,,Vermont,/reports/team/Vermont/55,3,St. Lawrence,/reports/team/St-Lawrence/53,1,,/box/final/20231013/ver/stl/,/box/metrics.php?gd=96455,Friday,2023-10-13_St. Lawrence_Vermont
+2023-10-13,Non-Conference,,Michigan,/reports/team/Michigan/31,7,Massachusetts,/reports/team/Massachusetts/27,2,,/box/final/20231013/mic/uma/,/box/metrics.php?gd=96453,Friday,2023-10-13_Massachusetts_Michigan
+2023-10-13,Non-Conference,,Penn State,/reports/team/Penn-State/60,4,Clarkson,/reports/team/Clarkson/14,2,,/box/final/20231013/psu/clk/,/box/metrics.php?gd=96886,Friday,2023-10-13_Clarkson_Penn State
+2023-10-13,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,3,Maine,/reports/team/Maine/25,6,,/box/final/20231013/ren/mne/,/box/metrics.php?gd=96452,Friday,2023-10-13_Maine_Rensselaer
+2023-10-13,Non-Conference,,Connecticut,/reports/team/Connecticut/17,1,Holy Cross,/reports/team/Holy-Cross/23,2,,/box/final/20231013/con/hcr/,/box/metrics.php?gd=96451,Friday,2023-10-13_Holy Cross_Connecticut
+2023-10-13,Non-Conference,,Colgate,/reports/team/Colgate/15,3,Sacred Heart,/reports/team/Sacred-Heart/51,2,,/box/final/20231013/clg/sac/,/box/metrics.php?gd=96884,Friday,2023-10-13_Sacred Heart_Colgate
+2023-10-13,Non-Conference,,Stonehill,/reports/team/Stonehill/422,1,Providence,/reports/team/Providence/46,7,,/box/final/20231013/stn/prv/,/box/metrics.php?gd=96462,Friday,2023-10-13_Providence_Stonehill
+2023-10-13,Non-Conference,,Long Island,/reports/team/Long-Island/62,2,Boston College,/reports/team/Boston-College/9,4,,/box/final/20231013/liu/bc_/,/box/metrics.php?gd=96449,Friday,2023-10-13_Boston College_Long Island
+2023-10-13,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,2,Ohio State,/reports/team/Ohio-State/44,4,,/box/final/20231013/lin/osu/,/box/metrics.php?gd=97551,Friday,2023-10-13_Ohio State_Lindenwood
+2023-10-13,Non-Conference,,Quinnipiac,/reports/team/Quinnipiac/47,3,American Int'l,/reports/team/American-Intl/5,2,ot,/box/final/20231013/qui/aic/,/box/metrics.php?gd=96885,Friday,2023-10-13_American Int'l_Quinnipiac
+2023-10-13,Non-Conference,,Canisius,/reports/team/Canisius/13,2,Miami,/reports/team/Miami/30,4,,/box/final/20231013/cns/mia/,/box/metrics.php?gd=96697,Friday,2023-10-13_Miami_Canisius
+2023-10-13,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,1,Lake Superior,/reports/team/Lake-Superior/24,5,,/box/final/20231013/aka/lss/,/box/metrics.php?gd=97060,Friday,2023-10-13_Lake Superior_Alaska-Anchorage
+2023-10-13,Non-Conference,,Alaska,/reports/team/Alaska/4,4,Michigan Tech,/reports/team/Michigan-Tech/33,1,,/box/final/20231013/akf/mtu/,/box/metrics.php?gd=97059,Friday,2023-10-13_Michigan Tech_Alaska
+2023-10-13,Non-Conference,,Western Michigan,/reports/team/Western-Michigan/57,3,Ferris State,/reports/team/Ferris-State/21,3,ot,/box/final/20231013/wmu/fsu/,/box/metrics.php?gd=96698,Friday,2023-10-13_Ferris State_Western Michigan
+2023-10-13,Non-Conference,Ice Breaker Tournament,Wisconsin,/reports/team/Wisconsin/58,4,Bemidji State,/reports/team/Bemidji-State/7,3,ot,/box/final/20231013/wis/bmj/,/box/metrics.php?gd=96703,Friday,2023-10-13_Bemidji State_Wisconsin
+2023-10-13,Non-Conference,Ice Breaker Tournament,Army,/reports/team/Army/6,2,North Dakota,/reports/team/North-Dakota/40,7,,/box/final/20231013/arm/ndk/,/box/metrics.php?gd=96702,Friday,2023-10-13_North Dakota_Army
+2023-10-13,Non-Conference,,Niagara,/reports/team/Niagara/39,1,Omaha,/reports/team/Omaha/37,8,,/box/final/20231013/nia/uno/,/box/metrics.php?gd=96701,Friday,2023-10-13_Omaha_Niagara
+2023-10-13,Non-Conference,,St. Cloud State,/reports/team/St-Cloud-State/52,2,Minnesota State,/reports/team/Minnesota-State/35,3,ot,/box/final/20231013/stc/mns/,/box/metrics.php?gd=96700,Friday,2023-10-13_Minnesota State_St. Cloud State
+2023-10-13,Non-Conference,,Northern Michigan,/reports/team/Northern-Michigan/42,5,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,5,ot,/box/final/20231013/nmu/mnd/,/box/metrics.php?gd=96699,Friday,2023-10-13_Minnesota-Duluth_Northern Michigan
+2023-10-13,Non-Conference,"at Xcel Energy Center, St. Paul, Minn.",St. Thomas,/reports/team/St-Thomas/63,5,Minnesota,/reports/team/Minnesota/34,6,ot,/box/final/20231013/stt/min/,/box/metrics.php?gd=97061,Friday,2023-10-13_Minnesota_St. Thomas
+2023-10-13,Non-Conference,,Union,/reports/team/Union/54,3,Colorado College,/reports/team/Colorado-College/16,7,,/box/final/20231013/uni/cc_/,/box/metrics.php?gd=96704,Friday,2023-10-13_Colorado College_Union
+2023-10-13,Non-Conference,,Michigan State,/reports/team/Michigan-State/32,5,Air Force,/reports/team/Air-Force/1,3,,/box/final/20231013/msu/afa/,/box/metrics.php?gd=97208,Friday,2023-10-13_Air Force_Michigan State
+2023-10-13,Non-Conference,,Merrimack,/reports/team/Merrimack/29,0,Arizona State,/reports/team/Arizona-State/61,1,ot,/box/final/20231013/mer/asu/,/box/metrics.php?gd=96454,Friday,2023-10-13_Arizona State_Merrimack
+2023-10-13,Hockey East,,Boston University,/reports/team/Boston-University/10,4,New Hampshire,/reports/team/New-Hampshire/38,6,,/box/final/20231013/bu_/unh/,/box/metrics.php?gd=96450,Friday,2023-10-13_New Hampshire_Boston University
+2023-10-14,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,3,Mercyhurst,/reports/team/Mercyhurst/28,3,ot,/box/final/20231014/rmu/mrc/,/box/metrics.php?gd=97209,Saturday,2023-10-14_Mercyhurst_Robert Morris
+2023-10-14,Non-Conference,,Long Island,/reports/team/Long-Island/62,7,Stonehill,/reports/team/Stonehill/422,3,,/box/final/20231014/liu/stn/,/box/metrics.php?gd=97435,Saturday,2023-10-14_Stonehill_Long Island
+2023-10-14,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,2,Ohio State,/reports/team/Ohio-State/44,2,ot,/box/final/20231014/lin/osu/,/box/metrics.php?gd=97550,Saturday,2023-10-14_Ohio State_Lindenwood
+2023-10-14,Non-Conference,,Bowling Green,/reports/team/Bowling-Green/11,2,Augustana,/reports/team/Augustana/64,3,,/box/final/20231014/bgs/aug/,/box/metrics.php?gd=97064,Saturday,2023-10-14_Augustana_Bowling Green
+2023-10-14,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,3,Lake Superior,/reports/team/Lake-Superior/24,2,,/box/final/20231014/aka/lss/,/box/metrics.php?gd=97063,Saturday,2023-10-14_Lake Superior_Alaska-Anchorage
+2023-10-14,Non-Conference,,Alaska,/reports/team/Alaska/4,2,Michigan Tech,/reports/team/Michigan-Tech/33,2,ot,/box/final/20231014/akf/mtu/,/box/metrics.php?gd=97062,Saturday,2023-10-14_Michigan Tech_Alaska
+2023-10-14,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,0,Minnesota,/reports/team/Minnesota/34,3,,/box/final/20231014/stt/min/,/box/metrics.php?gd=97065,Saturday,2023-10-14_Minnesota_St. Thomas
+2023-10-14,Non-Conference,,Holy Cross,/reports/team/Holy-Cross/23,2,Connecticut,/reports/team/Connecticut/17,0,,/box/final/20231014/hcr/con/,/box/metrics.php?gd=96457,Saturday,2023-10-14_Connecticut_Holy Cross
+2023-10-14,Non-Conference,,American Int'l,/reports/team/American-Intl/5,0,Quinnipiac,/reports/team/Quinnipiac/47,8,,/box/final/20231014/aic/qui/,/box/metrics.php?gd=96889,Saturday,2023-10-14_Quinnipiac_American Int'l
+2023-10-14,Non-Conference,,Penn State,/reports/team/Penn-State/60,4,St. Lawrence,/reports/team/St-Lawrence/53,1,,/box/final/20231014/psu/stl/,/box/metrics.php?gd=96888,Saturday,2023-10-14_St. Lawrence_Penn State
+2023-10-14,Non-Conference,,Colgate,/reports/team/Colgate/15,6,Sacred Heart,/reports/team/Sacred-Heart/51,1,,/box/final/20231014/clg/sac/,/box/metrics.php?gd=96887,Saturday,2023-10-14_Sacred Heart_Colgate
+2023-10-14,Non-Conference,,Vermont,/reports/team/Vermont/55,2,Clarkson,/reports/team/Clarkson/14,3,ot,/box/final/20231014/ver/clk/,/box/metrics.php?gd=96463,Saturday,2023-10-14_Clarkson_Vermont
+2023-10-14,Non-Conference,,Michigan,/reports/team/Michigan/31,3,Massachusetts,/reports/team/Massachusetts/27,6,,/box/final/20231014/mic/uma/,/box/metrics.php?gd=96460,Saturday,2023-10-14_Massachusetts_Michigan
+2023-10-14,Non-Conference,,Bentley,/reports/team/Bentley/8,2,Northeastern,/reports/team/Northeastern/41,5,,/box/final/20231014/ben/noe/,/box/metrics.php?gd=96458,Saturday,2023-10-14_Northeastern_Bentley
+2023-10-14,Non-Conference,Ice Breaker Tournament,Army,/reports/team/Army/6,2,Bemidji State,/reports/team/Bemidji-State/7,3,ot,/box/final/20231014/arm/bmj/,/box/metrics.php?gd=96706,Saturday,2023-10-14_Bemidji State_Army
+2023-10-14,Non-Conference,,Canisius,/reports/team/Canisius/13,1,Miami,/reports/team/Miami/30,4,,/box/final/20231014/cns/mia/,/box/metrics.php?gd=96707,Saturday,2023-10-14_Miami_Canisius
+2023-10-14,Non-Conference,,Notre Dame,/reports/team/Notre-Dame/43,0,RIT,/reports/team/RIT/49,3,,/box/final/20231014/ndm/rit/,/box/metrics.php?gd=97210,Saturday,2023-10-14_RIT_Notre Dame
+2023-10-14,Non-Conference,,St. Cloud State,/reports/team/St-Cloud-State/52,1,Minnesota State,/reports/team/Minnesota-State/35,5,,/box/final/20231014/stc/mns/,/box/metrics.php?gd=96709,Saturday,2023-10-14_Minnesota State_St. Cloud State
+2023-10-14,Non-Conference,Ice Breaker Tournament,Wisconsin,/reports/team/Wisconsin/58,0,North Dakota,/reports/team/North-Dakota/40,2,,/box/final/20231014/wis/ndk/,/box/metrics.php?gd=96705,Saturday,2023-10-14_North Dakota_Wisconsin
+2023-10-14,Non-Conference,,Merrimack,/reports/team/Merrimack/29,2,Arizona State,/reports/team/Arizona-State/61,4,,/box/final/20231014/mer/asu/,/box/metrics.php?gd=96461,Saturday,2023-10-14_Arizona State_Merrimack
+2023-10-14,Non-Conference,,Union,/reports/team/Union/54,2,Colorado College,/reports/team/Colorado-College/16,6,,/box/final/20231014/uni/cc_/,/box/metrics.php?gd=96711,Saturday,2023-10-14_Colorado College_Union
+2023-10-14,Non-Conference,,Niagara,/reports/team/Niagara/39,1,Omaha,/reports/team/Omaha/37,2,,/box/final/20231014/nia/uno/,/box/metrics.php?gd=96710,Saturday,2023-10-14_Omaha_Niagara
+2023-10-14,Non-Conference,,Northern Michigan,/reports/team/Northern-Michigan/42,5,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,8,,/box/final/20231014/nmu/mnd/,/box/metrics.php?gd=96708,Saturday,2023-10-14_Minnesota-Duluth_Northern Michigan
+2023-10-14,Exhibition,,Toronto,,2,Princeton,/reports/team/Princeton/45,4,,/box/final/20231014/tor/prn/,,Saturday,2023-10-14_Princeton_Toronto
+2023-10-14,Exhibition,,US Under-18,,8,Boston University,/reports/team/Boston-University/10,2,,/box/final/20231014/u18/bu_/,,Saturday,2023-10-14_Boston University_US Under-18
+2023-10-14,Exhibition,,TMU,,1,Cornell,/reports/team/Cornell/18,6,,/box/final/20231014/ryr/cor/,,Saturday,2023-10-14_Cornell_TMU
+2023-10-15,Non-Conference,,Bowling Green,/reports/team/Bowling-Green/11,1,Augustana,/reports/team/Augustana/64,4,,/box/final/20231015/bgs/aug/,/box/metrics.php?gd=97066,Sunday,2023-10-15_Augustana_Bowling Green
+2023-10-19,Non-Conference,,Canisius,/reports/team/Canisius/13,3,Michigan State,/reports/team/Michigan-State/32,6,,/box/final/20231019/cns/msu/,/box/metrics.php?gd=97211,Thursday,2023-10-19_Michigan State_Canisius
+2023-10-20,Big Ten,,Ohio State,/reports/team/Ohio-State/44,1,Michigan,/reports/team/Michigan/31,7,,/box/final/20231020/osu/mic/,/box/metrics.php?gd=97458,Friday,2023-10-20_Michigan_Ohio State
+2023-10-20,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,3,Robert Morris,/reports/team/Robert-Morris/50,1,,/box/final/20231020/hcr/rmu/,/box/metrics.php?gd=97213,Friday,2023-10-20_Robert Morris_Holy Cross
+2023-10-20,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,2,RIT,/reports/team/RIT/49,4,,/box/final/20231020/sac/rit/,/box/metrics.php?gd=97214,Friday,2023-10-20_RIT_Sacred Heart
+2023-10-20,Non-Conference,,Clarkson,/reports/team/Clarkson/14,1,Merrimack,/reports/team/Merrimack/29,4,,/box/final/20231020/clk/mer/,/box/metrics.php?gd=96469,Friday,2023-10-20_Merrimack_Clarkson
+2023-10-20,Non-Conference,,American Int'l,/reports/team/American-Intl/5,2,Penn State,/reports/team/Penn-State/60,3,,/box/final/20231020/aic/psu/,/box/metrics.php?gd=97215,Friday,2023-10-20_Penn State_American Int'l
+2023-10-20,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,4,Colgate,/reports/team/Colgate/15,2,,/box/final/20231020/uml/clg/,/box/metrics.php?gd=96468,Friday,2023-10-20_Colgate_Mass.-Lowell
+2023-10-20,Non-Conference,,Connecticut,/reports/team/Connecticut/17,1,Union,/reports/team/Union/54,4,,/box/final/20231020/con/uni/,/box/metrics.php?gd=96466,Friday,2023-10-20_Union_Connecticut
+2023-10-20,Non-Conference,,Canisius,/reports/team/Canisius/13,3,Michigan State,/reports/team/Michigan-State/32,4,,/box/final/20231020/cns/msu/,/box/metrics.php?gd=97212,Friday,2023-10-20_Michigan State_Canisius
+2023-10-20,Non-Conference,,Boston University,/reports/team/Boston-University/10,1,Notre Dame,/reports/team/Notre-Dame/43,4,,/box/final/20231020/bu_/ndm/,/box/metrics.php?gd=96465,Friday,2023-10-20_Notre Dame_Boston University
+2023-10-20,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,1,Boston College,/reports/team/Boston-College/9,6,,/box/final/20231020/ren/bc_/,/box/metrics.php?gd=96464,Friday,2023-10-20_Boston College_Rensselaer
+2023-10-20,Non-Conference,,Wisconsin,/reports/team/Wisconsin/58,4,Michigan Tech,/reports/team/Michigan-Tech/33,2,,/box/final/20231020/wis/mtu/,/box/metrics.php?gd=97067,Friday,2023-10-20_Michigan Tech_Wisconsin
+2023-10-20,Non-Conference,,Denver,/reports/team/Denver/20,3,Providence,/reports/team/Providence/46,4,,/box/final/20231020/den/prv/,/box/metrics.php?gd=96471,Friday,2023-10-20_Providence_Denver
+2023-10-20,Non-Conference,,Quinnipiac,/reports/team/Quinnipiac/47,5,New Hampshire,/reports/team/New-Hampshire/38,2,,/box/final/20231020/qui/unh/,/box/metrics.php?gd=96470,Friday,2023-10-20_New Hampshire_Quinnipiac
+2023-10-20,Non-Conference,,Stonehill,/reports/team/Stonehill/422,0,Bentley,/reports/team/Bentley/8,2,,/box/final/20231020/stn/ben/,/box/metrics.php?gd=97217,Friday,2023-10-20_Bentley_Stonehill
+2023-10-20,Non-Conference,,Western Michigan,/reports/team/Western-Michigan/57,5,Bowling Green,/reports/team/Bowling-Green/11,2,,/box/final/20231020/wmu/bgs/,/box/metrics.php?gd=96712,Friday,2023-10-20_Bowling Green_Western Michigan
+2023-10-20,Non-Conference,,Minnesota,/reports/team/Minnesota/34,4,North Dakota,/reports/team/North-Dakota/40,0,,/box/final/20231020/min/ndk/,/box/metrics.php?gd=96714,Friday,2023-10-20_North Dakota_Minnesota
+2023-10-20,Non-Conference,,Massachusetts,/reports/team/Massachusetts/27,6,Minnesota State,/reports/team/Minnesota-State/35,3,,/box/final/20231020/uma/mns/,/box/metrics.php?gd=96467,Friday,2023-10-20_Minnesota State_Massachusetts
+2023-10-20,Non-Conference,,Bemidji State,/reports/team/Bemidji-State/7,0,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,4,,/box/final/20231020/bmj/mnd/,/box/metrics.php?gd=96713,Friday,2023-10-20_Minnesota-Duluth_Bemidji State
+2023-10-20,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,4,St. Thomas,/reports/team/St-Thomas/63,4,ot,/box/final/20231020/lin/stt/,/box/metrics.php?gd=97069,Friday,2023-10-20_St. Thomas_Lindenwood
+2023-10-20,Non-Conference,,Alaska,/reports/team/Alaska/4,1,St. Cloud State,/reports/team/St-Cloud-State/52,4,,/box/final/20231020/akf/stc/,/box/metrics.php?gd=96715,Friday,2023-10-20_St. Cloud State_Alaska
+2023-10-20,Non-Conference,,Long Island,/reports/team/Long-Island/62,2,Colorado College,/reports/team/Colorado-College/16,4,,/box/final/20231020/liu/cc_/,/box/metrics.php?gd=96716,Friday,2023-10-20_Colorado College_Long Island
+2023-10-20,Non-Conference,,Northern Michigan,/reports/team/Northern-Michigan/42,2,Arizona State,/reports/team/Arizona-State/61,3,,/box/final/20231020/nmu/asu/,/box/metrics.php?gd=97068,Friday,2023-10-20_Arizona State_Northern Michigan
+2023-10-20,Non-Conference,,Air Force,/reports/team/Air-Force/1,1,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,3,,/box/final/20231020/afa/aka/,/box/metrics.php?gd=97216,Friday,2023-10-20_Alaska-Anchorage_Air Force
+2023-10-20,Exhibition,,Grand Valley St.,,0,Ferris State,/reports/team/Ferris-State/21,9,,/box/final/20231020/gvs/fsu/,,Friday,2023-10-20_Ferris State_Grand Valley St.
+2023-10-21,Non-Conference,,Connecticut,/reports/team/Connecticut/17,5,Union,/reports/team/Union/54,0,,/box/final/20231021/con/uni/,/box/metrics.php?gd=96474,Saturday,2023-10-21_Union_Connecticut
+2023-10-21,Non-Conference,,Bowling Green,/reports/team/Bowling-Green/11,2,Western Michigan,/reports/team/Western-Michigan/57,5,,/box/final/20231021/bgs/wmu/,/box/metrics.php?gd=96717,Saturday,2023-10-21_Western Michigan_Bowling Green
+2023-10-21,Non-Conference,,Wisconsin,/reports/team/Wisconsin/58,5,Michigan Tech,/reports/team/Michigan-Tech/33,2,,/box/final/20231021/wis/mtu/,/box/metrics.php?gd=97070,Saturday,2023-10-21_Michigan Tech_Wisconsin
+2023-10-21,Non-Conference,,Boston University,/reports/team/Boston-University/10,8,Notre Dame,/reports/team/Notre-Dame/43,2,,/box/final/20231021/bu_/ndm/,/box/metrics.php?gd=96473,Saturday,2023-10-21_Notre Dame_Boston University
+2023-10-21,Non-Conference,,Stonehill,/reports/team/Stonehill/422,1,Bentley,/reports/team/Bentley/8,4,,/box/final/20231021/stn/ben/,/box/metrics.php?gd=97222,Saturday,2023-10-21_Bentley_Stonehill
+2023-10-21,Non-Conference,,Alaska,/reports/team/Alaska/4,5,St. Cloud State,/reports/team/St-Cloud-State/52,2,,/box/final/20231021/akf/stc/,/box/metrics.php?gd=96720,Saturday,2023-10-21_St. Cloud State_Alaska
+2023-10-21,Non-Conference,,Minnesota,/reports/team/Minnesota/34,1,North Dakota,/reports/team/North-Dakota/40,2,,/box/final/20231021/min/ndk/,/box/metrics.php?gd=96719,Saturday,2023-10-21_North Dakota_Minnesota
+2023-10-21,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,2,Providence,/reports/team/Providence/46,4,,/box/final/20231021/ren/prv/,/box/metrics.php?gd=96478,Saturday,2023-10-21_Providence_Rensselaer
+2023-10-21,Non-Conference,,Quinnipiac,/reports/team/Quinnipiac/47,4,New Hampshire,/reports/team/New-Hampshire/38,5,ot,/box/final/20231021/qui/unh/,/box/metrics.php?gd=96477,Saturday,2023-10-21_New Hampshire_Quinnipiac
+2023-10-21,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,5,Colgate,/reports/team/Colgate/15,2,,/box/final/20231021/uml/clg/,/box/metrics.php?gd=96476,Saturday,2023-10-21_Colgate_Mass.-Lowell
+2023-10-21,Non-Conference,,American Int'l,/reports/team/American-Intl/5,6,Penn State,/reports/team/Penn-State/60,4,,/box/final/20231021/aic/psu/,/box/metrics.php?gd=97220,Saturday,2023-10-21_Penn State_American Int'l
+2023-10-21,Non-Conference,,Denver,/reports/team/Denver/20,4,Boston College,/reports/team/Boston-College/9,3,,/box/final/20231021/den/bc_/,/box/metrics.php?gd=96472,Saturday,2023-10-21_Boston College_Denver
+2023-10-21,Non-Conference,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,5,Bemidji State,/reports/team/Bemidji-State/7,4,ot,/box/final/20231021/mnd/bmj/,/box/metrics.php?gd=96718,Saturday,2023-10-21_Bemidji State_Minnesota-Duluth
+2023-10-21,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,1,St. Thomas,/reports/team/St-Thomas/63,3,,/box/final/20231021/lin/stt/,/box/metrics.php?gd=97072,Saturday,2023-10-21_St. Thomas_Lindenwood
+2023-10-21,Non-Conference,,Massachusetts,/reports/team/Massachusetts/27,1,Minnesota State,/reports/team/Minnesota-State/35,0,,/box/final/20231021/uma/mns/,/box/metrics.php?gd=96475,Saturday,2023-10-21_Minnesota State_Massachusetts
+2023-10-21,Non-Conference,,Long Island,/reports/team/Long-Island/62,2,Colorado College,/reports/team/Colorado-College/16,3,,/box/final/20231021/liu/cc_/,/box/metrics.php?gd=96721,Saturday,2023-10-21_Colorado College_Long Island
+2023-10-21,Non-Conference,,Air Force,/reports/team/Air-Force/1,4,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,3,ot,/box/final/20231021/afa/aka/,/box/metrics.php?gd=97221,Saturday,2023-10-21_Alaska-Anchorage_Air Force
+2023-10-21,Non-Conference,,Northern Michigan,/reports/team/Northern-Michigan/42,1,Arizona State,/reports/team/Arizona-State/61,5,,/box/final/20231021/nmu/asu/,/box/metrics.php?gd=97071,Saturday,2023-10-21_Arizona State_Northern Michigan
+2023-10-21,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,3,Robert Morris,/reports/team/Robert-Morris/50,3,ot,/box/final/20231021/hcr/rmu/,/box/metrics.php?gd=97218,Saturday,2023-10-21_Robert Morris_Holy Cross
+2023-10-21,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,5,RIT,/reports/team/RIT/49,2,,/box/final/20231021/sac/rit/,/box/metrics.php?gd=97219,Saturday,2023-10-21_RIT_Sacred Heart
+2023-10-21,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,3,Niagara,/reports/team/Niagara/39,3,ot,/box/final/20231021/mrc/nia/,/box/metrics.php?gd=97223,Saturday,2023-10-21_Niagara_Mercyhurst
+2023-10-21,Exhibition,,Simon Fraser,,4,Lake Superior,/reports/team/Lake-Superior/24,6,,/box/final/20231021/sfr/lss/,,Saturday,2023-10-21_Lake Superior_Simon Fraser
+2023-10-21,Exhibition,,US Under-18,,4,Cornell,/reports/team/Cornell/18,5,ot,/box/final/20231021/u18/cor/,,Saturday,2023-10-21_Cornell_US Under-18
+2023-10-21,Big Ten,,Ohio State,/reports/team/Ohio-State/44,2,Michigan,/reports/team/Michigan/31,2,ot,/box/final/20231021/osu/mic/,/box/metrics.php?gd=97459,Saturday,2023-10-21_Michigan_Ohio State
+2023-10-22,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,2,Merrimack,/reports/team/Merrimack/29,5,,/box/final/20231022/stl/mer/,/box/metrics.php?gd=96479,Sunday,2023-10-22_Merrimack_St. Lawrence
+2023-10-26,Hockey East,,Northeastern,/reports/team/Northeastern/41,,New Hampshire,/reports/team/New-Hampshire/38,,,/schedules/taleoftape.php?gid=96481,,Thursday,2023-10-26_New Hampshire_Northeastern
+2023-10-26,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Penn State,/reports/team/Penn-State/60,,,/schedules/taleoftape.php?gid=97381,,Thursday,2023-10-26_Penn State_Alaska-Anchorage
+2023-10-26,Non-Conference,,Michigan State,/reports/team/Michigan-State/32,,Boston College,/reports/team/Boston-College/9,,,/schedules/taleoftape.php?gid=96480,,Thursday,2023-10-26_Boston College_Michigan State
+2023-10-26,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Michigan,/reports/team/Michigan/31,,,/schedules/taleoftape.php?gid=97552,,Thursday,2023-10-26_Michigan_Lindenwood
+2023-10-26,Non-Conference,,Mercyhurst,/reports/team/Mercyhurst/28,,Notre Dame,/reports/team/Notre-Dame/43,,,/schedules/taleoftape.php?gid=97224,,Thursday,2023-10-26_Notre Dame_Mercyhurst
+2023-10-26,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Minnesota,/reports/team/Minnesota/34,,,/schedules/taleoftape.php?gid=97471,/schedules/radiotv.php?type=tv&tvid=82,Thursday,2023-10-26_Minnesota_Wisconsin
+2023-10-27,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Penn State,/reports/team/Penn-State/60,,,/schedules/taleoftape.php?gid=97382,,Friday,2023-10-27_Penn State_Alaska-Anchorage
+2023-10-27,Non-Conference,,Maine,/reports/team/Maine/25,,Quinnipiac,/reports/team/Quinnipiac/47,,,/schedules/taleoftape.php?gid=96485,,Friday,2023-10-27_Quinnipiac_Maine
+2023-10-27,Non-Conference,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Cornell,/reports/team/Cornell/18,,,/schedules/taleoftape.php?gid=96723,,Friday,2023-10-27_Cornell_Minnesota-Duluth
+2023-10-27,Non-Conference,,Lake Superior,/reports/team/Lake-Superior/24,,Clarkson,/reports/team/Clarkson/14,,,/schedules/taleoftape.php?gid=96894,,Friday,2023-10-27_Clarkson_Lake Superior
+2023-10-27,Non-Conference,,Michigan State,/reports/team/Michigan-State/32,,Boston College,/reports/team/Boston-College/9,,,/schedules/taleoftape.php?gid=96482,,Friday,2023-10-27_Boston College_Michigan State
+2023-10-27,Non-Conference,,Michigan Tech,/reports/team/Michigan-Tech/33,,St. Lawrence,/reports/team/St-Lawrence/53,,,/schedules/taleoftape.php?gid=96893,,Friday,2023-10-27_St. Lawrence_Michigan Tech
+2023-10-27,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Michigan,/reports/team/Michigan/31,,,/schedules/taleoftape.php?gid=97553,,Friday,2023-10-27_Michigan_Lindenwood
+2023-10-27,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Miami,/reports/team/Miami/30,,,/schedules/taleoftape.php?gid=96722,,Friday,2023-10-27_Miami_Arizona State
+2023-10-27,Non-Conference,,Mercyhurst,/reports/team/Mercyhurst/28,,Notre Dame,/reports/team/Notre-Dame/43,,,/schedules/taleoftape.php?gid=97225,,Friday,2023-10-27_Notre Dame_Mercyhurst
+2023-10-27,Non-Conference,,Minnesota State,/reports/team/Minnesota-State/35,,North Dakota,/reports/team/North-Dakota/40,,,/schedules/taleoftape.php?gid=96725,,Friday,2023-10-27_North Dakota_Minnesota State
+2023-10-27,Non-Conference,,Augustana,/reports/team/Augustana/64,,Denver,/reports/team/Denver/20,,,/schedules/taleoftape.php?gid=96726,,Friday,2023-10-27_Denver_Augustana
+2023-10-27,Non-Conference,,Colorado College,/reports/team/Colorado-College/16,,Air Force,/reports/team/Air-Force/1,,,/schedules/taleoftape.php?gid=96727,,Friday,2023-10-27_Air Force_Colorado College
+2023-10-27,Non-Conference,,Ohio State,/reports/team/Ohio-State/44,,Omaha,/reports/team/Omaha/37,,,/schedules/taleoftape.php?gid=96724,,Friday,2023-10-27_Omaha_Ohio State
+2023-10-27,Atlantic Hockey,,Army,/reports/team/Army/6,,American Int'l,/reports/team/American-Intl/5,,,/schedules/taleoftape.php?gid=97229,,Friday,2023-10-27_American Int'l_Army
+2023-10-27,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Sacred Heart,/reports/team/Sacred-Heart/51,,,/schedules/taleoftape.php?gid=97228,,Friday,2023-10-27_Sacred Heart_Niagara
+2023-10-27,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Robert Morris,/reports/team/Robert-Morris/50,,,/schedules/taleoftape.php?gid=97226,,Friday,2023-10-27_Robert Morris_Bentley
+2023-10-27,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Holy Cross,/reports/team/Holy-Cross/23,,,/schedules/taleoftape.php?gid=97227,,Friday,2023-10-27_Holy Cross_RIT
+2023-10-27,ECAC,,Harvard,/reports/team/Harvard/22,,Dartmouth,/reports/team/Dartmouth/19,,,/schedules/taleoftape.php?gid=96892,,Friday,2023-10-27_Dartmouth_Harvard
+2023-10-27,ECAC,,Yale,/reports/team/Yale/59,,Brown,/reports/team/Brown/12,,,/schedules/taleoftape.php?gid=96895,,Friday,2023-10-27_Brown_Yale
+2023-10-27,Hockey East,,Vermont,/reports/team/Vermont/55,,Providence,/reports/team/Providence/46,,,/schedules/taleoftape.php?gid=96486,,Friday,2023-10-27_Providence_Vermont
+2023-10-27,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Boston University,/reports/team/Boston-University/10,,,/schedules/taleoftape.php?gid=96483,,Friday,2023-10-27_Boston University_Massachusetts
+2023-10-27,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,/schedules/taleoftape.php?gid=96484,,Friday,2023-10-27_Mass.-Lowell_Connecticut
+2023-10-27,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Northern Michigan,/reports/team/Northern-Michigan/42,,,/schedules/taleoftape.php?gid=97074,,Friday,2023-10-27_Northern Michigan_Ferris State
+2023-10-27,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Bemidji State,/reports/team/Bemidji-State/7,,,/schedules/taleoftape.php?gid=97075,,Friday,2023-10-27_Bemidji State_St. Thomas
+2023-10-27,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Minnesota,/reports/team/Minnesota/34,,,/schedules/taleoftape.php?gid=97472,/schedules/radiotv.php?type=tv&tvid=82,Friday,2023-10-27_Minnesota_Wisconsin
+2023-10-28,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Robert Morris,/reports/team/Robert-Morris/50,,,/schedules/taleoftape.php?gid=97230,,Saturday,2023-10-28_Robert Morris_Bentley
+2023-10-28,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Sacred Heart,/reports/team/Sacred-Heart/51,,,/schedules/taleoftape.php?gid=97232,,Saturday,2023-10-28_Sacred Heart_Niagara
+2023-10-28,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Holy Cross,/reports/team/Holy-Cross/23,,,/schedules/taleoftape.php?gid=97231,,Saturday,2023-10-28_Holy Cross_RIT
+2023-10-28,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Connecticut,/reports/team/Connecticut/17,,,/schedules/taleoftape.php?gid=96488,,Saturday,2023-10-28_Connecticut_Mass.-Lowell
+2023-10-28,Hockey East,,Vermont,/reports/team/Vermont/55,,Providence,/reports/team/Providence/46,,,/schedules/taleoftape.php?gid=96492,,Saturday,2023-10-28_Providence_Vermont
+2023-10-28,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Northeastern,/reports/team/Northeastern/41,,,/schedules/taleoftape.php?gid=96490,,Saturday,2023-10-28_Northeastern_Merrimack
+2023-10-28,Hockey East,,Boston University,/reports/team/Boston-University/10,,Massachusetts,/reports/team/Massachusetts/27,,,/schedules/taleoftape.php?gid=96487,,Saturday,2023-10-28_Massachusetts_Boston University
+2023-10-28,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Northern Michigan,/reports/team/Northern-Michigan/42,,,/schedules/taleoftape.php?gid=97076,,Saturday,2023-10-28_Northern Michigan_Ferris State
+2023-10-28,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Bemidji State,/reports/team/Bemidji-State/7,,,/schedules/taleoftape.php?gid=97077,,Saturday,2023-10-28_Bemidji State_St. Thomas
+2023-10-28,Non-Conference,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Cornell,/reports/team/Cornell/18,,,/schedules/taleoftape.php?gid=96729,,Saturday,2023-10-28_Cornell_Minnesota-Duluth
+2023-10-28,Non-Conference,,Maine,/reports/team/Maine/25,,Quinnipiac,/reports/team/Quinnipiac/47,,,/schedules/taleoftape.php?gid=96489,,Saturday,2023-10-28_Quinnipiac_Maine
+2023-10-28,Non-Conference,,Lake Superior,/reports/team/Lake-Superior/24,,St. Lawrence,/reports/team/St-Lawrence/53,,,/schedules/taleoftape.php?gid=96896,,Saturday,2023-10-28_St. Lawrence_Lake Superior
+2023-10-28,Non-Conference,,Dartmouth,/reports/team/Dartmouth/19,,New Hampshire,/reports/team/New-Hampshire/38,,,/schedules/taleoftape.php?gid=96491,,Saturday,2023-10-28_New Hampshire_Dartmouth
+2023-10-28,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Miami,/reports/team/Miami/30,,,/schedules/taleoftape.php?gid=96728,,Saturday,2023-10-28_Miami_Arizona State
+2023-10-28,Non-Conference,,Minnesota State,/reports/team/Minnesota-State/35,,North Dakota,/reports/team/North-Dakota/40,,,/schedules/taleoftape.php?gid=96731,,Saturday,2023-10-28_North Dakota_Minnesota State
+2023-10-28,Non-Conference,,Michigan Tech,/reports/team/Michigan-Tech/33,,Clarkson,/reports/team/Clarkson/14,,,/schedules/taleoftape.php?gid=96897,,Saturday,2023-10-28_Clarkson_Michigan Tech
+2023-10-28,Non-Conference,,Augustana,/reports/team/Augustana/64,,Colorado College,/reports/team/Colorado-College/16,,,/schedules/taleoftape.php?gid=96733,,Saturday,2023-10-28_Colorado College_Augustana
+2023-10-28,Non-Conference,,Air Force,/reports/team/Air-Force/1,,Denver,/reports/team/Denver/20,,,/schedules/taleoftape.php?gid=96732,,Saturday,2023-10-28_Denver_Air Force
+2023-10-28,Non-Conference,,Ohio State,/reports/team/Ohio-State/44,,Omaha,/reports/team/Omaha/37,,,/schedules/taleoftape.php?gid=96730,,Saturday,2023-10-28_Omaha_Ohio State
+2023-10-28,Non-Conference v. D3,,St. Anselm,,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2023-10-28_Long Island_St. Anselm
+2023-10-29,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Brown,/reports/team/Brown/12,,,/schedules/taleoftape.php?gid=97448,,Sunday,2023-10-29_Brown_Stonehill
+2023-10-30,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Stonehill,/reports/team/Stonehill/422,,,/schedules/taleoftape.php?gid=97449,,Monday,2023-10-30_Stonehill_Long Island
+2023-10-31,Atlantic Hockey,,Army,/reports/team/Army/6,,Sacred Heart,/reports/team/Sacred-Heart/51,,,/schedules/taleoftape.php?gid=97233,/schedules/radiotv.php?type=tv&tvid=85,Tuesday,2023-10-31_Sacred Heart_Army
+2023-11-02,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,American Int'l,/reports/team/American-Intl/5,,,/schedules/taleoftape.php?gid=97234,,Thursday,2023-11-02_American Int'l_Bentley
+2023-11-03,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Dartmouth,/reports/team/Dartmouth/19,,,/schedules/taleoftape.php?gid=96902,,Friday,2023-11-03_Dartmouth_Quinnipiac
+2023-11-03,ECAC,,Colgate,/reports/team/Colgate/15,,Brown,/reports/team/Brown/12,,,/schedules/taleoftape.php?gid=96901,,Friday,2023-11-03_Brown_Colgate
+2023-11-03,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Union,/reports/team/Union/54,,,/schedules/taleoftape.php?gid=96900,,Friday,2023-11-03_Union_Rensselaer
+2023-11-03,ECAC,,Cornell,/reports/team/Cornell/18,,Yale,/reports/team/Yale/59,,,/schedules/taleoftape.php?gid=96899,,Friday,2023-11-03_Yale_Cornell
+2023-11-03,ECAC,,Princeton,/reports/team/Princeton/45,,Harvard,/reports/team/Harvard/22,,,/schedules/taleoftape.php?gid=96903,,Friday,2023-11-03_Harvard_Princeton
+2023-11-03,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Canisius,/reports/team/Canisius/13,,,/schedules/taleoftape.php?gid=97238,,Friday,2023-11-03_Canisius_Holy Cross
+2023-11-03,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Bentley,/reports/team/Bentley/8,,,/schedules/taleoftape.php?gid=97235,,Friday,2023-11-03_Bentley_American Int'l
+2023-11-03,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Army,/reports/team/Army/6,,,/schedules/taleoftape.php?gid=97237,,Friday,2023-11-03_Army_RIT
+2023-11-03,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Niagara,/reports/team/Niagara/39,,,/schedules/taleoftape.php?gid=97236,,Friday,2023-11-03_Niagara_Air Force
+2023-11-03,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Boston College,/reports/team/Boston-College/9,,,/schedules/taleoftape.php?gid=96493,/schedules/radiotv.php?type=tv&tvid=12,Friday,2023-11-03_Boston College_Mass.-Lowell
+2023-11-03,Hockey East,,Providence,/reports/team/Providence/46,,New Hampshire,/reports/team/New-Hampshire/38,,,/schedules/taleoftape.php?gid=96498,,Friday,2023-11-03_New Hampshire_Providence
+2023-11-03,Hockey East,,Maine,/reports/team/Maine/25,,Merrimack,/reports/team/Merrimack/29,,,/schedules/taleoftape.php?gid=96496,,Friday,2023-11-03_Merrimack_Maine
+2023-11-03,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Vermont,/reports/team/Vermont/55,,,/schedules/taleoftape.php?gid=96495,,Friday,2023-11-03_Vermont_Connecticut
+2023-11-03,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Massachusetts,/reports/team/Massachusetts/27,,,/schedules/taleoftape.php?gid=96497,,Friday,2023-11-03_Massachusetts_Northeastern
+2023-11-03,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Ohio State,/reports/team/Ohio-State/44,,,/schedules/taleoftape.php?gid=97495,,Friday,2023-11-03_Ohio State_Michigan State
+2023-11-03,Big Ten,,Michigan,/reports/team/Michigan/31,,Wisconsin,/reports/team/Wisconsin/58,,,/schedules/taleoftape.php?gid=97483,,Friday,2023-11-03_Wisconsin_Michigan
+2023-11-03,Non-Conference,,North Dakota,/reports/team/North-Dakota/40,,Boston University,/reports/team/Boston-University/10,,,/schedules/taleoftape.php?gid=96494,,Friday,2023-11-03_Boston University_North Dakota
+2023-11-03,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,,Ferris State,/reports/team/Ferris-State/21,,,/schedules/taleoftape.php?gid=96898,,Friday,2023-11-03_Ferris State_St. Lawrence
+2023-11-03,Non-Conference,,Mercyhurst,/reports/team/Mercyhurst/28,,Bowling Green,/reports/team/Bowling-Green/11,,,/schedules/taleoftape.php?gid=97080,,Friday,2023-11-03_Bowling Green_Mercyhurst
+2023-11-03,Non-Conference,,Augustana,/reports/team/Augustana/64,,Michigan Tech,/reports/team/Michigan-Tech/33,,,/schedules/taleoftape.php?gid=97078,,Friday,2023-11-03_Michigan Tech_Augustana
+2023-11-03,Non-Conference,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Minnesota,/reports/team/Minnesota/34,,,/schedules/taleoftape.php?gid=96737,,Friday,2023-11-03_Minnesota_Minnesota-Duluth
+2023-11-03,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Arizona State,/reports/team/Arizona-State/61,,,/schedules/taleoftape.php?gid=97419,,Friday,2023-11-03_Arizona State_Stonehill
+2023-11-03,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Alaska,/reports/team/Alaska/4,,,/schedules/taleoftape.php?gid=97383,,Friday,2023-11-03_Alaska_Alaska-Anchorage
+2023-11-03,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Lake Superior,/reports/team/Lake-Superior/24,,,/schedules/taleoftape.php?gid=97081,,Friday,2023-11-03_Lake Superior_Bemidji State
+2023-11-03,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,St. Thomas,/reports/team/St-Thomas/63,,,/schedules/taleoftape.php?gid=97079,,Friday,2023-11-03_St. Thomas_Northern Michigan
+2023-11-03,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Omaha,/reports/team/Omaha/37,,,/schedules/taleoftape.php?gid=96734,,Friday,2023-11-03_Omaha_Western Michigan
+2023-11-03,NCHC,,Miami,/reports/team/Miami/30,,St. Cloud State,/reports/team/St-Cloud-State/52,,,/schedules/taleoftape.php?gid=96735,,Friday,2023-11-03_St. Cloud State_Miami
+2023-11-03,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Denver,/reports/team/Denver/20,,,/schedules/taleoftape.php?gid=96736,,Friday,2023-11-03_Denver_Colorado College
+2023-11-04,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Penn State,/reports/team/Penn-State/60,,,/schedules/taleoftape.php?gid=97507,,Saturday,2023-11-04_Penn State_Notre Dame
+2023-11-04,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Ohio State,/reports/team/Ohio-State/44,,,/schedules/taleoftape.php?gid=97496,,Saturday,2023-11-04_Ohio State_Michigan State
+2023-11-04,Big Ten,,Michigan,/reports/team/Michigan/31,,Wisconsin,/reports/team/Wisconsin/58,,,/schedules/taleoftape.php?gid=97484,,Saturday,2023-11-04_Wisconsin_Michigan
+2023-11-04,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Army,/reports/team/Army/6,,,/schedules/taleoftape.php?gid=97240,,Saturday,2023-11-04_Army_RIT
+2023-11-04,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Canisius,/reports/team/Canisius/13,,,/schedules/taleoftape.php?gid=97241,,Saturday,2023-11-04_Canisius_Holy Cross
+2023-11-04,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Niagara,/reports/team/Niagara/39,,,/schedules/taleoftape.php?gid=97239,,Saturday,2023-11-04_Niagara_Air Force
+2023-11-04,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Vermont,/reports/team/Vermont/55,,,/schedules/taleoftape.php?gid=96501,,Saturday,2023-11-04_Vermont_Connecticut
+2023-11-04,Hockey East,,Boston College,/reports/team/Boston-College/9,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,/schedules/taleoftape.php?gid=96499,,Saturday,2023-11-04_Mass.-Lowell_Boston College
+2023-11-04,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Providence,/reports/team/Providence/46,,,/schedules/taleoftape.php?gid=96503,,Saturday,2023-11-04_Providence_New Hampshire
+2023-11-04,Hockey East,,Maine,/reports/team/Maine/25,,Merrimack,/reports/team/Merrimack/29,,,/schedules/taleoftape.php?gid=96502,,Saturday,2023-11-04_Merrimack_Maine
+2023-11-04,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Lake Superior,/reports/team/Lake-Superior/24,,,/schedules/taleoftape.php?gid=97085,,Saturday,2023-11-04_Lake Superior_Bemidji State
+2023-11-04,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,St. Thomas,/reports/team/St-Thomas/63,,,/schedules/taleoftape.php?gid=97083,,Saturday,2023-11-04_St. Thomas_Northern Michigan
+2023-11-04,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,,Ferris State,/reports/team/Ferris-State/21,,,/schedules/taleoftape.php?gid=96909,,Saturday,2023-11-04_Ferris State_St. Lawrence
+2023-11-04,Non-Conference,,Augustana,/reports/team/Augustana/64,,Michigan Tech,/reports/team/Michigan-Tech/33,,,/schedules/taleoftape.php?gid=97082,,Saturday,2023-11-04_Michigan Tech_Augustana
+2023-11-04,Non-Conference,,North Dakota,/reports/team/North-Dakota/40,,Boston University,/reports/team/Boston-University/10,,,/schedules/taleoftape.php?gid=96500,,Saturday,2023-11-04_Boston University_North Dakota
+2023-11-04,Non-Conference,,Mercyhurst,/reports/team/Mercyhurst/28,,Bowling Green,/reports/team/Bowling-Green/11,,,/schedules/taleoftape.php?gid=97084,,Saturday,2023-11-04_Bowling Green_Mercyhurst
+2023-11-04,Non-Conference,,Minnesota,/reports/team/Minnesota/34,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,/schedules/taleoftape.php?gid=96741,,Saturday,2023-11-04_Minnesota-Duluth_Minnesota
+2023-11-04,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Arizona State,/reports/team/Arizona-State/61,,,/schedules/taleoftape.php?gid=97420,,Saturday,2023-11-04_Arizona State_Stonehill
+2023-11-04,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Alaska,/reports/team/Alaska/4,,,/schedules/taleoftape.php?gid=97384,,Saturday,2023-11-04_Alaska_Alaska-Anchorage
+2023-11-04,ECAC,,Colgate,/reports/team/Colgate/15,,Yale,/reports/team/Yale/59,,,/schedules/taleoftape.php?gid=96908,,Saturday,2023-11-04_Yale_Colgate
+2023-11-04,ECAC,,Cornell,/reports/team/Cornell/18,,Brown,/reports/team/Brown/12,,,/schedules/taleoftape.php?gid=96907,,Saturday,2023-11-04_Brown_Cornell
+2023-11-04,ECAC,,Union,/reports/team/Union/54,,Rensselaer,/reports/team/Rensselaer/48,,,/schedules/taleoftape.php?gid=96906,,Saturday,2023-11-04_Rensselaer_Union
+2023-11-04,ECAC,,Princeton,/reports/team/Princeton/45,,Dartmouth,/reports/team/Dartmouth/19,,,/schedules/taleoftape.php?gid=96905,,Saturday,2023-11-04_Dartmouth_Princeton
+2023-11-04,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Harvard,/reports/team/Harvard/22,,,/schedules/taleoftape.php?gid=96904,,Saturday,2023-11-04_Harvard_Quinnipiac
+2023-11-04,NCHC,,Miami,/reports/team/Miami/30,,St. Cloud State,/reports/team/St-Cloud-State/52,,,/schedules/taleoftape.php?gid=96739,,Saturday,2023-11-04_St. Cloud State_Miami
+2023-11-04,NCHC,,Denver,/reports/team/Denver/20,,Colorado College,/reports/team/Colorado-College/16,,,/schedules/taleoftape.php?gid=96740,,Saturday,2023-11-04_Colorado College_Denver
+2023-11-04,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Omaha,/reports/team/Omaha/37,,,/schedules/taleoftape.php?gid=96738,,Saturday,2023-11-04_Omaha_Western Michigan
+2023-11-04,Exhibition,,Simon Fraser,,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2023-11-04_Robert Morris_Simon Fraser
+2023-11-05,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Penn State,/reports/team/Penn-State/60,,,/schedules/taleoftape.php?gid=97508,/schedules/radiotv.php?type=tv&tvid=82,Sunday,2023-11-05_Penn State_Notre Dame
+2023-11-05,Non-Conference,,Sacred Heart,/reports/team/Sacred-Heart/51,,Long Island,/reports/team/Long-Island/62,,,/schedules/taleoftape.php?gid=97243,/schedules/radiotv.php?type=tv&tvid=85,Sunday,2023-11-05_Long Island_Sacred Heart
+2023-11-09,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,American Int'l,/reports/team/American-Intl/5,,,/schedules/taleoftape.php?gid=97244,,Thursday,2023-11-09_American Int'l_Holy Cross
+2023-11-10,Big Ten,,Penn State,/reports/team/Penn-State/60,,Michigan State,/reports/team/Michigan-State/32,,,/schedules/taleoftape.php?gid=97519,,Friday,2023-11-10_Michigan State_Penn State
+2023-11-10,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Notre Dame,/reports/team/Notre-Dame/43,,,/schedules/taleoftape.php?gid=97530,,Friday,2023-11-10_Notre Dame_Ohio State
+2023-11-10,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Michigan,/reports/team/Michigan/31,,,/schedules/taleoftape.php?gid=97460,,Friday,2023-11-10_Michigan_Minnesota
+2023-11-10,Non-Conference,,Augustana,/reports/team/Augustana/64,,Lindenwood,/reports/team/Lindenwood/433,,,/schedules/taleoftape.php?gid=97554,,Friday,2023-11-10_Lindenwood_Augustana
+2023-11-10,Non-Conference,,Alaska,/reports/team/Alaska/4,,Stonehill,/reports/team/Stonehill/422,,,/schedules/taleoftape.php?gid=97403,,Friday,2023-11-10_Stonehill_Alaska
+2023-11-10,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Omaha,/reports/team/Omaha/37,,,/schedules/taleoftape.php?gid=96745,,Friday,2023-11-10_Omaha_Long Island
+2023-11-10,Non-Conference,,Denver,/reports/team/Denver/20,,Arizona State,/reports/team/Arizona-State/61,,,/schedules/taleoftape.php?gid=96746,,Friday,2023-11-10_Arizona State_Denver
+2023-11-10,Non-Conference,,Robert Morris,/reports/team/Robert-Morris/50,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,/schedules/taleoftape.php?gid=97250,,Friday,2023-11-10_Alaska-Anchorage_Robert Morris
+2023-11-10,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Holy Cross,/reports/team/Holy-Cross/23,,,/schedules/taleoftape.php?gid=97245,,Friday,2023-11-10_Holy Cross_American Int'l
+2023-11-10,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Sacred Heart,/reports/team/Sacred-Heart/51,,,/schedules/taleoftape.php?gid=97248,,Friday,2023-11-10_Sacred Heart_Canisius
+2023-11-10,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Bentley,/reports/team/Bentley/8,,,/schedules/taleoftape.php?gid=97247,,Friday,2023-11-10_Bentley_Niagara
+2023-11-10,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,RIT,/reports/team/RIT/49,,,/schedules/taleoftape.php?gid=97249,,Friday,2023-11-10_RIT_Mercyhurst
+2023-11-10,Atlantic Hockey,,Army,/reports/team/Army/6,,Air Force,/reports/team/Air-Force/1,,,/schedules/taleoftape.php?gid=97246,,Friday,2023-11-10_Air Force_Army
+2023-11-10,ECAC,,Yale,/reports/team/Yale/59,,Princeton,/reports/team/Princeton/45,,,/schedules/taleoftape.php?gid=96910,,Friday,2023-11-10_Princeton_Yale
+2023-11-10,ECAC,,Brown,/reports/team/Brown/12,,Quinnipiac,/reports/team/Quinnipiac/47,,,/schedules/taleoftape.php?gid=96915,,Friday,2023-11-10_Quinnipiac_Brown
+2023-11-10,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Cornell,/reports/team/Cornell/18,,,/schedules/taleoftape.php?gid=96914,,Friday,2023-11-10_Cornell_Dartmouth
+2023-11-10,ECAC,,Harvard,/reports/team/Harvard/22,,Colgate,/reports/team/Colgate/15,,,/schedules/taleoftape.php?gid=96913,,Friday,2023-11-10_Colgate_Harvard
+2023-11-10,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Clarkson,/reports/team/Clarkson/14,,,/schedules/taleoftape.php?gid=96912,,Friday,2023-11-10_Clarkson_Rensselaer
+2023-11-10,ECAC,,Union,/reports/team/Union/54,,St. Lawrence,/reports/team/St-Lawrence/53,,,/schedules/taleoftape.php?gid=96911,,Friday,2023-11-10_St. Lawrence_Union
+2023-11-10,Hockey East,,Boston College,/reports/team/Boston-College/9,,Maine,/reports/team/Maine/25,,,/schedules/taleoftape.php?gid=96504,,Friday,2023-11-10_Maine_Boston College
+2023-11-10,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Providence,/reports/team/Providence/46,,,/schedules/taleoftape.php?gid=96508,,Friday,2023-11-10_Providence_Northeastern
+2023-11-10,Hockey East,,Vermont,/reports/team/Vermont/55,,Massachusetts,/reports/team/Massachusetts/27,,,/schedules/taleoftape.php?gid=96507,/schedules/radiotv.php?type=tv&tvid=12,Friday,2023-11-10_Massachusetts_Vermont
+2023-11-10,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Connecticut,/reports/team/Connecticut/17,,,/schedules/taleoftape.php?gid=96506,,Friday,2023-11-10_Connecticut_Merrimack
+2023-11-10,Hockey East,,Boston University,/reports/team/Boston-University/10,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,/schedules/taleoftape.php?gid=96505,,Friday,2023-11-10_Mass.-Lowell_Boston University
+2023-11-10,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Western Michigan,/reports/team/Western-Michigan/57,,,/schedules/taleoftape.php?gid=96743,,Friday,2023-11-10_Western Michigan_St. Cloud State
+2023-11-10,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Miami,/reports/team/Miami/30,,,/schedules/taleoftape.php?gid=96742,,Friday,2023-11-10_Miami_Colorado College
+2023-11-10,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,/schedules/taleoftape.php?gid=96744,,Friday,2023-11-10_Minnesota-Duluth_North Dakota
+2023-11-10,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Northern Michigan,/reports/team/Northern-Michigan/42,,,/schedules/taleoftape.php?gid=97086,,Friday,2023-11-10_Northern Michigan_Lake Superior
+2023-11-10,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Bowling Green,/reports/team/Bowling-Green/11,,,/schedules/taleoftape.php?gid=97088,,Friday,2023-11-10_Bowling Green_St. Thomas
+2023-11-10,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Ferris State,/reports/team/Ferris-State/21,,,/schedules/taleoftape.php?gid=97087,,Friday,2023-11-10_Ferris State_Minnesota State
+2023-11-10,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Bemidji State,/reports/team/Bemidji-State/7,,,/schedules/taleoftape.php?gid=97089,,Friday,2023-11-10_Bemidji State_Michigan Tech
+2023-11-11,Big Ten,,Penn State,/reports/team/Penn-State/60,,Michigan State,/reports/team/Michigan-State/32,,,/schedules/taleoftape.php?gid=97520,,Saturday,2023-11-11_Michigan State_Penn State
+2023-11-11,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Notre Dame,/reports/team/Notre-Dame/43,,,/schedules/taleoftape.php?gid=97531,,Saturday,2023-11-11_Notre Dame_Ohio State
+2023-11-11,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Michigan,/reports/team/Michigan/31,,,/schedules/taleoftape.php?gid=97461,,Saturday,2023-11-11_Michigan_Minnesota
+2023-11-11,Non-Conference,,Augustana,/reports/team/Augustana/64,,Lindenwood,/reports/team/Lindenwood/433,,,/schedules/taleoftape.php?gid=97555,,Saturday,2023-11-11_Lindenwood_Augustana
+2023-11-11,Non-Conference,,Alaska,/reports/team/Alaska/4,,Stonehill,/reports/team/Stonehill/422,,,/schedules/taleoftape.php?gid=97404,,Saturday,2023-11-11_Stonehill_Alaska
+2023-11-11,Non-Conference,,Denver,/reports/team/Denver/20,,Arizona State,/reports/team/Arizona-State/61,,,/schedules/taleoftape.php?gid=96751,,Saturday,2023-11-11_Arizona State_Denver
+2023-11-11,Non-Conference,,Robert Morris,/reports/team/Robert-Morris/50,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,/schedules/taleoftape.php?gid=97255,,Saturday,2023-11-11_Alaska-Anchorage_Robert Morris
+2023-11-11,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Omaha,/reports/team/Omaha/37,,,/schedules/taleoftape.php?gid=96750,,Saturday,2023-11-11_Omaha_Long Island
+2023-11-11,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Bentley,/reports/team/Bentley/8,,,/schedules/taleoftape.php?gid=97252,,Saturday,2023-11-11_Bentley_Niagara
+2023-11-11,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,RIT,/reports/team/RIT/49,,,/schedules/taleoftape.php?gid=97254,,Saturday,2023-11-11_RIT_Mercyhurst
+2023-11-11,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Sacred Heart,/reports/team/Sacred-Heart/51,,,/schedules/taleoftape.php?gid=97253,,Saturday,2023-11-11_Sacred Heart_Canisius
+2023-11-11,Atlantic Hockey,,Army,/reports/team/Army/6,,Air Force,/reports/team/Air-Force/1,,,/schedules/taleoftape.php?gid=97251,,Saturday,2023-11-11_Air Force_Army
+2023-11-11,ECAC,,Union,/reports/team/Union/54,,Clarkson,/reports/team/Clarkson/14,,,/schedules/taleoftape.php?gid=96919,,Saturday,2023-11-11_Clarkson_Union
+2023-11-11,ECAC,,Brown,/reports/team/Brown/12,,Princeton,/reports/team/Princeton/45,,,/schedules/taleoftape.php?gid=96921,,Saturday,2023-11-11_Princeton_Brown
+2023-11-11,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,St. Lawrence,/reports/team/St-Lawrence/53,,,/schedules/taleoftape.php?gid=96920,,Saturday,2023-11-11_St. Lawrence_Rensselaer
+2023-11-11,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Colgate,/reports/team/Colgate/15,,,/schedules/taleoftape.php?gid=96918,,Saturday,2023-11-11_Colgate_Dartmouth
+2023-11-11,ECAC,,Harvard,/reports/team/Harvard/22,,Cornell,/reports/team/Cornell/18,,,/schedules/taleoftape.php?gid=96917,,Saturday,2023-11-11_Cornell_Harvard
+2023-11-11,ECAC,,Yale,/reports/team/Yale/59,,Quinnipiac,/reports/team/Quinnipiac/47,,,/schedules/taleoftape.php?gid=96916,,Saturday,2023-11-11_Quinnipiac_Yale
+2023-11-11,Hockey East,,Vermont,/reports/team/Vermont/55,,Massachusetts,/reports/team/Massachusetts/27,,,/schedules/taleoftape.php?gid=96511,,Saturday,2023-11-11_Massachusetts_Vermont
+2023-11-11,Hockey East,,Providence,/reports/team/Providence/46,,Northeastern,/reports/team/Northeastern/41,,,/schedules/taleoftape.php?gid=96513,,Saturday,2023-11-11_Northeastern_Providence
+2023-11-11,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Merrimack,/reports/team/Merrimack/29,,,/schedules/taleoftape.php?gid=96512,,Saturday,2023-11-11_Merrimack_Connecticut
+2023-11-11,Hockey East,,Boston College,/reports/team/Boston-College/9,,Maine,/reports/team/Maine/25,,,/schedules/taleoftape.php?gid=96510,,Saturday,2023-11-11_Maine_Boston College
+2023-11-11,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Boston University,/reports/team/Boston-University/10,,,/schedules/taleoftape.php?gid=96509,,Saturday,2023-11-11_Boston University_Mass.-Lowell
+2023-11-11,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Western Michigan,/reports/team/Western-Michigan/57,,,/schedules/taleoftape.php?gid=96748,,Saturday,2023-11-11_Western Michigan_St. Cloud State
+2023-11-11,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Miami,/reports/team/Miami/30,,,/schedules/taleoftape.php?gid=96747,,Saturday,2023-11-11_Miami_Colorado College
+2023-11-11,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,/schedules/taleoftape.php?gid=96749,,Saturday,2023-11-11_Minnesota-Duluth_North Dakota
+2023-11-11,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Ferris State,/reports/team/Ferris-State/21,,,/schedules/taleoftape.php?gid=97091,,Saturday,2023-11-11_Ferris State_Minnesota State
+2023-11-11,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Northern Michigan,/reports/team/Northern-Michigan/42,,,/schedules/taleoftape.php?gid=97090,,Saturday,2023-11-11_Northern Michigan_Lake Superior
+2023-11-11,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Bemidji State,/reports/team/Bemidji-State/7,,,/schedules/taleoftape.php?gid=97093,,Saturday,2023-11-11_Bemidji State_Michigan Tech
+2023-11-11,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Bowling Green,/reports/team/Bowling-Green/11,,,/schedules/taleoftape.php?gid=97092,,Saturday,2023-11-11_Bowling Green_St. Thomas
+2023-11-15,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Merrimack,/reports/team/Merrimack/29,,,,/schedules/radiotv.php?type=tv&tvid=12,Wednesday,2023-11-15_Merrimack_Mass.-Lowell
+2023-11-16,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Providence,/reports/team/Providence/46,,,,/schedules/radiotv.php?type=tv&tvid=12,Thursday,2023-11-16_Providence_Massachusetts
+2023-11-17,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Michigan State,/reports/team/Michigan-State/32,,,,,Friday,2023-11-17_Michigan State_Wisconsin
+2023-11-17,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Minnesota,/reports/team/Minnesota/34,,,,,Friday,2023-11-17_Minnesota_Notre Dame
+2023-11-17,Big Ten,,Penn State,/reports/team/Penn-State/60,,Michigan,/reports/team/Michigan/31,,,,,Friday,2023-11-17_Michigan_Penn State
+2023-11-17,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Lindenwood,/reports/team/Lindenwood/433,,,,,Friday,2023-11-17_Lindenwood_Long Island
+2023-11-17,Non-Conference,,Alaska,/reports/team/Alaska/4,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Friday,2023-11-17_Northern Michigan_Alaska
+2023-11-17,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2023-11-17_Arizona State_Alaska-Anchorage
+2023-11-17,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Niagara,/reports/team/Niagara/39,,,,,Friday,2023-11-17_Niagara_Robert Morris
+2023-11-17,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Friday,2023-11-17_Holy Cross_Bentley
+2023-11-17,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Army,/reports/team/Army/6,,,,,Friday,2023-11-17_Army_Canisius
+2023-11-17,ECAC,,Cornell,/reports/team/Cornell/18,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Friday,2023-11-17_Quinnipiac_Cornell
+2023-11-17,ECAC,,Clarkson,/reports/team/Clarkson/14,,Brown,/reports/team/Brown/12,,,,,Friday,2023-11-17_Brown_Clarkson
+2023-11-17,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Yale,/reports/team/Yale/59,,,,,Friday,2023-11-17_Yale_St. Lawrence
+2023-11-17,ECAC,,Colgate,/reports/team/Colgate/15,,Princeton,/reports/team/Princeton/45,,,,,Friday,2023-11-17_Princeton_Colgate
+2023-11-17,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Boston College,/reports/team/Boston-College/9,,,,,Friday,2023-11-17_Boston College_Connecticut
+2023-11-17,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Northeastern,/reports/team/Northeastern/41,,,,,Friday,2023-11-17_Northeastern_New Hampshire
+2023-11-17,Hockey East,,Maine,/reports/team/Maine/25,,Boston University,/reports/team/Boston-University/10,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2023-11-17_Boston University_Maine
+2023-11-17,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Friday,2023-11-17_Michigan Tech_Ferris State
+2023-11-17,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Friday,2023-11-17_Lake Superior_Bowling Green
+2023-11-17,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Friday,2023-11-17_Minnesota State_Bemidji State
+2023-11-17,NCHC,,Miami,/reports/team/Miami/30,,North Dakota,/reports/team/North-Dakota/40,,,,,Friday,2023-11-17_North Dakota_Miami
+2023-11-17,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Friday,2023-11-17_St. Cloud State_Minnesota-Duluth
+2023-11-17,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Colorado College,/reports/team/Colorado-College/16,,,,,Friday,2023-11-17_Colorado College_Western Michigan
+2023-11-17,NCHC,,Omaha,/reports/team/Omaha/37,,Denver,/reports/team/Denver/20,,,,,Friday,2023-11-17_Denver_Omaha
+2023-11-18,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Michigan State,/reports/team/Michigan-State/32,,,,,Saturday,2023-11-18_Michigan State_Wisconsin
+2023-11-18,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Minnesota,/reports/team/Minnesota/34,,,,,Saturday,2023-11-18_Minnesota_Notre Dame
+2023-11-18,Big Ten,,Penn State,/reports/team/Penn-State/60,,Michigan,/reports/team/Michigan/31,,,,,Saturday,2023-11-18_Michigan_Penn State
+2023-11-18,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Lindenwood,/reports/team/Lindenwood/433,,,,,Saturday,2023-11-18_Lindenwood_Long Island
+2023-11-18,Non-Conference,,Alaska,/reports/team/Alaska/4,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Saturday,2023-11-18_Northern Michigan_Alaska
+2023-11-18,Non-Conference,,Vermont,/reports/team/Vermont/55,,American Int'l,/reports/team/American-Intl/5,,,,,Saturday,2023-11-18_American Int'l_Vermont
+2023-11-18,Hockey East,,Providence,/reports/team/Providence/46,,Massachusetts,/reports/team/Massachusetts/27,,,,,Saturday,2023-11-18_Massachusetts_Providence
+2023-11-18,Hockey East,,Maine,/reports/team/Maine/25,,Boston University,/reports/team/Boston-University/10,,,,,Saturday,2023-11-18_Boston University_Maine
+2023-11-18,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Saturday,2023-11-18_Mass.-Lowell_Merrimack
+2023-11-18,Hockey East,,Northeastern,/reports/team/Northeastern/41,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2023-11-18_New Hampshire_Northeastern
+2023-11-18,Hockey East,,Boston College,/reports/team/Boston-College/9,,Connecticut,/reports/team/Connecticut/17,,,,,Saturday,2023-11-18_Connecticut_Boston College
+2023-11-18,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Bentley,/reports/team/Bentley/8,,,,,Saturday,2023-11-18_Bentley_Holy Cross
+2023-11-18,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2023-11-18_Robert Morris_Niagara
+2023-11-18,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Army,/reports/team/Army/6,,,,,Saturday,2023-11-18_Army_Canisius
+2023-11-18,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2023-11-18_Mercyhurst_Air Force
+2023-11-18,Non-Conference v. D3,,Anna Maria,,,Stonehill,/reports/team/Stonehill/422,,,,,Saturday,2023-11-18_Stonehill_Anna Maria
+2023-11-18,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Saturday,2023-11-18_Michigan Tech_Ferris State
+2023-11-18,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Saturday,2023-11-18_Lake Superior_Bowling Green
+2023-11-18,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Saturday,2023-11-18_Minnesota State_Bemidji State
+2023-11-18,ECAC,,Cornell,/reports/team/Cornell/18,,Princeton,/reports/team/Princeton/45,,,,,Saturday,2023-11-18_Princeton_Cornell
+2023-11-18,ECAC,,Clarkson,/reports/team/Clarkson/14,,Yale,/reports/team/Yale/59,,,,,Saturday,2023-11-18_Yale_Clarkson
+2023-11-18,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Brown,/reports/team/Brown/12,,,,,Saturday,2023-11-18_Brown_St. Lawrence
+2023-11-18,ECAC,,Colgate,/reports/team/Colgate/15,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Saturday,2023-11-18_Quinnipiac_Colgate
+2023-11-18,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Saturday,2023-11-18_St. Cloud State_Minnesota-Duluth
+2023-11-18,NCHC,,Miami,/reports/team/Miami/30,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2023-11-18_North Dakota_Miami
+2023-11-18,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Colorado College,/reports/team/Colorado-College/16,,,,,Saturday,2023-11-18_Colorado College_Western Michigan
+2023-11-18,NCHC,,Omaha,/reports/team/Omaha/37,,Denver,/reports/team/Denver/20,,,,,Saturday,2023-11-18_Denver_Omaha
+2023-11-19,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Arizona State,/reports/team/Arizona-State/61,,,,,Sunday,2023-11-19_Arizona State_Alaska-Anchorage
+2023-11-19,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Sunday,2023-11-19_Mercyhurst_Air Force
+2023-11-21,Atlantic Hockey,,Army,/reports/team/Army/6,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Tuesday,2023-11-21_Holy Cross_Army
+2023-11-21,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Canisius,/reports/team/Canisius/13,,,,,Tuesday,2023-11-21_Canisius_Robert Morris
+2023-11-21,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,American Int'l,/reports/team/American-Intl/5,,,,,Tuesday,2023-11-21_American Int'l_Bentley
+2023-11-22,Non-Conference,,Quinnipiac,/reports/team/Quinnipiac/47,,Boston University,/reports/team/Boston-University/10,,,,,Wednesday,2023-11-22_Boston University_Quinnipiac
+2023-11-23,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Penn State,/reports/team/Penn-State/60,,,,,Thursday,2023-11-23_Penn State_Lindenwood
+2023-11-24,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Minnesota,/reports/team/Minnesota/34,,,,,Friday,2023-11-24_Minnesota_Michigan State
+2023-11-24,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Canisius,/reports/team/Canisius/13,,,,,Friday,2023-11-24_Canisius_Air Force
+2023-11-24,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Friday,2023-11-24_Robert Morris_Sacred Heart
+2023-11-24,Non-Conference,,Boston College,/reports/team/Boston-College/9,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Friday,2023-11-24_Notre Dame_Boston College
+2023-11-24,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Union,/reports/team/Union/54,,,,,Friday,2023-11-24_Union_Stonehill
+2023-11-24,Non-Conference,,Army,/reports/team/Army/6,,Merrimack,/reports/team/Merrimack/29,,,,,Friday,2023-11-24_Merrimack_Army
+2023-11-24,Non-Conference,,Bentley,/reports/team/Bentley/8,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2023-11-24_Mass.-Lowell_Bentley
+2023-11-24,Non-Conference,,Massachusetts,/reports/team/Massachusetts/27,,Harvard,/reports/team/Harvard/22,,,,,Friday,2023-11-24_Harvard_Massachusetts
+2023-11-24,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Penn State,/reports/team/Penn-State/60,,,,,Friday,2023-11-24_Penn State_Lindenwood
+2023-11-24,Non-Conference,,Princeton,/reports/team/Princeton/45,,Ohio State,/reports/team/Ohio-State/44,,,,,Friday,2023-11-24_Ohio State_Princeton
+2023-11-24,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2023-11-24_Western Michigan_St. Lawrence
+2023-11-24,Non-Conference,,Niagara,/reports/team/Niagara/39,,Colgate,/reports/team/Colgate/15,,,,,Friday,2023-11-24_Colgate_Niagara
+2023-11-24,Non-Conference,,New Hampshire,/reports/team/New-Hampshire/38,,RIT,/reports/team/RIT/49,,,,,Friday,2023-11-24_RIT_New Hampshire
+2023-11-24,Non-Conference,,Brown,/reports/team/Brown/12,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Friday,2023-11-24_Holy Cross_Brown
+2023-11-24,Non-Conference,,Mercyhurst,/reports/team/Mercyhurst/28,,Miami,/reports/team/Miami/30,,,,,Friday,2023-11-24_Miami_Mercyhurst
+2023-11-24,Non-Conference,,Michigan,/reports/team/Michigan/31,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Friday,2023-11-24_St. Cloud State_Michigan
+2023-11-24,Non-Conference,,American Int'l,/reports/team/American-Intl/5,,Long Island,/reports/team/Long-Island/62,,,,,Friday,2023-11-24_Long Island_American Int'l
+2023-11-24,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Wisconsin,/reports/team/Wisconsin/58,,,,,Friday,2023-11-24_Wisconsin_Alaska-Anchorage
+2023-11-24,Non-Conference,,Bemidji State,/reports/team/Bemidji-State/7,,North Dakota,/reports/team/North-Dakota/40,,,,,Friday,2023-11-24_North Dakota_Bemidji State
+2023-11-24,Non-Conference,,Augustana,/reports/team/Augustana/64,,Omaha,/reports/team/Omaha/37,,,,,Friday,2023-11-24_Omaha_Augustana
+2023-11-24,Non-Conference,,Yale,/reports/team/Yale/59,,Denver,/reports/team/Denver/20,,,,,Friday,2023-11-24_Denver_Yale
+2023-11-24,Non-Conference,,Providence,/reports/team/Providence/46,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2023-11-24_Arizona State_Providence
+2023-11-24,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Friday,2023-11-24_Bowling Green_Northern Michigan
+2023-11-24,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Friday,2023-11-24_Minnesota State_Michigan Tech
+2023-11-24,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,St. Thomas,/reports/team/St-Thomas/63,,,,,Friday,2023-11-24_St. Thomas_Lake Superior
+2023-11-25,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Canisius,/reports/team/Canisius/13,,,,,Saturday,2023-11-25_Canisius_Air Force
+2023-11-25,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2023-11-25_Robert Morris_Sacred Heart
+2023-11-25,Non-Conference,,Northeastern,/reports/team/Northeastern/41,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2023-11-25_Rensselaer_Northeastern
+2023-11-25,Non-Conference,,Dartmouth,/reports/team/Dartmouth/19,,Connecticut,/reports/team/Connecticut/17,,,,,Saturday,2023-11-25_Connecticut_Dartmouth
+2023-11-25,Non-Conference,,Bentley,/reports/team/Bentley/8,,Merrimack,/reports/team/Merrimack/29,,,,,Saturday,2023-11-25_Merrimack_Bentley
+2023-11-25,Non-Conference,,Army,/reports/team/Army/6,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Saturday,2023-11-25_Mass.-Lowell_Army
+2023-11-25,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Union,/reports/team/Union/54,,,,,Saturday,2023-11-25_Union_Stonehill
+2023-11-25,Non-Conference,,New Hampshire,/reports/team/New-Hampshire/38,,RIT,/reports/team/RIT/49,,,,,Saturday,2023-11-25_RIT_New Hampshire
+2023-11-25,Non-Conference,,Princeton,/reports/team/Princeton/45,,Ohio State,/reports/team/Ohio-State/44,,,,,Saturday,2023-11-25_Ohio State_Princeton
+2023-11-25,Non-Conference,,Michigan,/reports/team/Michigan/31,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Saturday,2023-11-25_St. Cloud State_Michigan
+2023-11-25,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2023-11-25_Western Michigan_St. Lawrence
+2023-11-25,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2023-11-25_Wisconsin_Alaska-Anchorage
+2023-11-25,Non-Conference,,Bemidji State,/reports/team/Bemidji-State/7,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2023-11-25_North Dakota_Bemidji State
+2023-11-25,Non-Conference,,Niagara,/reports/team/Niagara/39,,Colgate,/reports/team/Colgate/15,,,,,Saturday,2023-11-25_Colgate_Niagara
+2023-11-25,Non-Conference,,Omaha,/reports/team/Omaha/37,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2023-11-25_Augustana_Omaha
+2023-11-25,Non-Conference,,Yale,/reports/team/Yale/59,,Denver,/reports/team/Denver/20,,,,,Saturday,2023-11-25_Denver_Yale
+2023-11-25,Non-Conference,"Red Hot Hockey – Madison Square Garden, New York",Boston University,/reports/team/Boston-University/10,,Cornell,/reports/team/Cornell/18,,,,,Saturday,2023-11-25_Cornell_Boston University
+2023-11-25,Exhibition,,Simon Fraser,,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2023-11-25_Long Island_Simon Fraser
+2023-11-25,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Saturday,2023-11-25_Minnesota State_Michigan Tech
+2023-11-25,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,St. Thomas,/reports/team/St-Thomas/63,,,,,Saturday,2023-11-25_St. Thomas_Lake Superior
+2023-11-25,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Saturday,2023-11-25_Bowling Green_Northern Michigan
+2023-11-26,Non-Conference,,Boston College,/reports/team/Boston-College/9,,Harvard,/reports/team/Harvard/22,,,,,Sunday,2023-11-26_Harvard_Boston College
+2023-11-26,Non-Conference,,Northeastern,/reports/team/Northeastern/41,,Rensselaer,/reports/team/Rensselaer/48,,,,,Sunday,2023-11-26_Rensselaer_Northeastern
+2023-11-26,Non-Conference,,Providence,/reports/team/Providence/46,,Arizona State,/reports/team/Arizona-State/61,,,,,Sunday,2023-11-26_Arizona State_Providence
+2023-11-26,Non-Conference,,Miami,/reports/team/Miami/30,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Sunday,2023-11-26_Mercyhurst_Miami
+2023-11-26,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Minnesota,/reports/team/Minnesota/34,,,,/schedules/radiotv.php?type=tv&tvid=82,Sunday,2023-11-26_Minnesota_Michigan State
+2023-11-28,Non-Conference v. D3,,Long Island,/reports/team/Long-Island/62,,St. Anselm,,,,,,Tuesday,2023-11-28_St. Anselm_Long Island
+2023-12-01,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Canisius,/reports/team/Canisius/13,,,,,Friday,2023-12-01_Canisius_Mercyhurst
+2023-12-01,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,American Int'l,/reports/team/American-Intl/5,,,,,Friday,2023-12-01_American Int'l_Sacred Heart
+2023-12-01,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Friday,2023-12-01_Holy Cross_Niagara
+2023-12-01,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,RIT,/reports/team/RIT/49,,,,,Friday,2023-12-01_RIT_Robert Morris
+2023-12-01,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Air Force,/reports/team/Air-Force/1,,,,,Friday,2023-12-01_Air Force_Bentley
+2023-12-01,Big Ten,,Michigan,/reports/team/Michigan/31,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Friday,2023-12-01_Notre Dame_Michigan
+2023-12-01,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Penn State,/reports/team/Penn-State/60,,,,/schedules/radiotv.php?type=tv&tvid=82,Friday,2023-12-01_Penn State_Minnesota
+2023-12-01,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Wisconsin,/reports/team/Wisconsin/58,,,,,Friday,2023-12-01_Wisconsin_Ohio State
+2023-12-01,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Rensselaer,/reports/team/Rensselaer/48,,,,,Friday,2023-12-01_Rensselaer_Quinnipiac
+2023-12-01,ECAC,,Cornell,/reports/team/Cornell/18,,Colgate,/reports/team/Colgate/15,,,,,Friday,2023-12-01_Colgate_Cornell
+2023-12-01,ECAC,,Harvard,/reports/team/Harvard/22,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2023-12-01_Clarkson_Harvard
+2023-12-01,ECAC,,Princeton,/reports/team/Princeton/45,,Union,/reports/team/Union/54,,,,,Friday,2023-12-01_Union_Princeton
+2023-12-01,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Friday,2023-12-01_St. Lawrence_Dartmouth
+2023-12-01,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Vermont,/reports/team/Vermont/55,,,,,Friday,2023-12-01_Vermont_Massachusetts
+2023-12-01,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Maine,/reports/team/Maine/25,,,,,Friday,2023-12-01_Maine_New Hampshire
+2023-12-01,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Boston College,/reports/team/Boston-College/9,,,,,Friday,2023-12-01_Boston College_Northeastern
+2023-12-01,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Connecticut,/reports/team/Connecticut/17,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2023-12-01_Connecticut_Mass.-Lowell
+2023-12-01,Hockey East,,Boston University,/reports/team/Boston-University/10,,Merrimack,/reports/team/Merrimack/29,,,,,Friday,2023-12-01_Merrimack_Boston University
+2023-12-01,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2023-12-01_Western Michigan_Lindenwood
+2023-12-01,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Brown,/reports/team/Brown/12,,,,,Friday,2023-12-01_Brown_Long Island
+2023-12-01,Non-Conference,,Augustana,/reports/team/Augustana/64,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Friday,2023-12-01_Northern Michigan_Augustana
+2023-12-01,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Colorado College,/reports/team/Colorado-College/16,,,,,Friday,2023-12-01_Colorado College_Arizona State
+2023-12-01,Non-Conference,,Alaska,/reports/team/Alaska/4,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Friday,2023-12-01_Alaska-Anchorage_Alaska
+2023-12-01,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Ferris State,/reports/team/Ferris-State/21,,,,,Friday,2023-12-01_Ferris State_St. Thomas
+2023-12-01,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Friday,2023-12-01_Lake Superior_Minnesota State
+2023-12-01,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Friday,2023-12-01_Michigan Tech_Bowling Green
+2023-12-01,NCHC,,Omaha,/reports/team/Omaha/37,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Friday,2023-12-01_Minnesota-Duluth_Omaha
+2023-12-01,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Denver,/reports/team/Denver/20,,,,,Friday,2023-12-01_Denver_North Dakota
+2023-12-02,Big Ten,,Michigan,/reports/team/Michigan/31,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Saturday,2023-12-02_Notre Dame_Michigan
+2023-12-02,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Penn State,/reports/team/Penn-State/60,,,,,Saturday,2023-12-02_Penn State_Minnesota
+2023-12-02,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2023-12-02_Wisconsin_Ohio State
+2023-12-02,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Saturday,2023-12-02_Holy Cross_Niagara
+2023-12-02,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2023-12-02_Mercyhurst_Canisius
+2023-12-02,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Air Force,/reports/team/Air-Force/1,,,,,Saturday,2023-12-02_Air Force_Bentley
+2023-12-02,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,RIT,/reports/team/RIT/49,,,,,Saturday,2023-12-02_RIT_Robert Morris
+2023-12-02,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,American Int'l,/reports/team/American-Intl/5,,,,,Saturday,2023-12-02_American Int'l_Sacred Heart
+2023-12-02,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Union,/reports/team/Union/54,,,,,Saturday,2023-12-02_Union_Quinnipiac
+2023-12-02,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Clarkson,/reports/team/Clarkson/14,,,,,Saturday,2023-12-02_Clarkson_Dartmouth
+2023-12-02,ECAC,,Princeton,/reports/team/Princeton/45,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2023-12-02_Rensselaer_Princeton
+2023-12-02,ECAC,,Colgate,/reports/team/Colgate/15,,Cornell,/reports/team/Cornell/18,,,,,Saturday,2023-12-02_Cornell_Colgate
+2023-12-02,ECAC,,Harvard,/reports/team/Harvard/22,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Saturday,2023-12-02_St. Lawrence_Harvard
+2023-12-02,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Boston University,/reports/team/Boston-University/10,,,,,Saturday,2023-12-02_Boston University_Merrimack
+2023-12-02,Hockey East,,Boston College,/reports/team/Boston-College/9,,Northeastern,/reports/team/Northeastern/41,,,,,Saturday,2023-12-02_Northeastern_Boston College
+2023-12-02,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2023-12-02_Western Michigan_Lindenwood
+2023-12-02,Non-Conference,,Augustana,/reports/team/Augustana/64,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Saturday,2023-12-02_Northern Michigan_Augustana
+2023-12-02,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Yale,/reports/team/Yale/59,,,,,Saturday,2023-12-02_Yale_Long Island
+2023-12-02,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Colorado College,/reports/team/Colorado-College/16,,,,,Saturday,2023-12-02_Colorado College_Arizona State
+2023-12-02,Non-Conference,,Alaska,/reports/team/Alaska/4,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Saturday,2023-12-02_Alaska-Anchorage_Alaska
+2023-12-02,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Saturday,2023-12-02_Lake Superior_Minnesota State
+2023-12-02,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Saturday,2023-12-02_Michigan Tech_Bowling Green
+2023-12-02,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Ferris State,/reports/team/Ferris-State/21,,,,,Saturday,2023-12-02_Ferris State_St. Thomas
+2023-12-02,NCHC,,Omaha,/reports/team/Omaha/37,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Saturday,2023-12-02_Minnesota-Duluth_Omaha
+2023-12-02,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Denver,/reports/team/Denver/20,,,,,Saturday,2023-12-02_Denver_North Dakota
+2023-12-03,Non-Conference,,Brown,/reports/team/Brown/12,,Stonehill,/reports/team/Stonehill/422,,,,,Sunday,2023-12-03_Stonehill_Brown
+2023-12-03,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Maine,/reports/team/Maine/25,,,,,Sunday,2023-12-03_Maine_Connecticut
+2023-12-03,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Vermont,/reports/team/Vermont/55,,,,/schedules/radiotv.php?type=tv&tvid=12,Sunday,2023-12-03_Vermont_Mass.-Lowell
+2023-12-06,Non-Conference,,Maine,/reports/team/Maine/25,,Union,/reports/team/Union/54,,,,,Wednesday,2023-12-06_Union_Maine
+2023-12-07,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Thursday,2023-12-07_Robert Morris_Niagara
+2023-12-08,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Michigan State,/reports/team/Michigan-State/32,,,,,Friday,2023-12-08_Michigan State_Notre Dame
+2023-12-08,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Ohio State,/reports/team/Ohio-State/44,,,,/schedules/radiotv.php?type=tv&tvid=82,Friday,2023-12-08_Ohio State_Minnesota
+2023-12-08,Big Ten,,Penn State,/reports/team/Penn-State/60,,Wisconsin,/reports/team/Wisconsin/58,,,,/schedules/radiotv.php?type=tv&tvid=82,Friday,2023-12-08_Wisconsin_Penn State
+2023-12-08,Atlantic Hockey,,RIT,/reports/team/RIT/49,,American Int'l,/reports/team/American-Intl/5,,,,,Friday,2023-12-08_American Int'l_RIT
+2023-12-08,Atlantic Hockey,,Army,/reports/team/Army/6,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Friday,2023-12-08_Mercyhurst_Army
+2023-12-08,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Miami,/reports/team/Miami/30,,,,,Friday,2023-12-08_Miami_Minnesota-Duluth
+2023-12-08,NCHC,,Denver,/reports/team/Denver/20,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2023-12-08_Western Michigan_Denver
+2023-12-08,NCHC,,Colorado College,/reports/team/Colorado-College/16,,North Dakota,/reports/team/North-Dakota/40,,,,,Friday,2023-12-08_North Dakota_Colorado College
+2023-12-08,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Omaha,/reports/team/Omaha/37,,,,,Friday,2023-12-08_Omaha_St. Cloud State
+2023-12-08,Non-Conference,,Union,/reports/team/Union/54,,Vermont,/reports/team/Vermont/55,,,,,Friday,2023-12-08_Vermont_Union
+2023-12-08,Non-Conference,,Merrimack,/reports/team/Merrimack/29,,Yale,/reports/team/Yale/59,,,,,Friday,2023-12-08_Yale_Merrimack
+2023-12-08,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Massachusetts,/reports/team/Massachusetts/27,,,,,Friday,2023-12-08_Massachusetts_Alaska-Anchorage
+2023-12-08,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2023-12-08_Clarkson_Stonehill
+2023-12-08,Non-Conference,,Princeton,/reports/team/Princeton/45,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Friday,2023-12-08_Sacred Heart_Princeton
+2023-12-08,Non-Conference,,Holy Cross,/reports/team/Holy-Cross/23,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2023-12-08_Mass.-Lowell_Holy Cross
+2023-12-08,Non-Conference,,Dartmouth,/reports/team/Dartmouth/19,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2023-12-08_Arizona State_Dartmouth
+2023-12-08,Exhibition,,US Under-18,,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Friday,2023-12-08_St. Lawrence_US Under-18
+2023-12-08,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Friday,2023-12-08_Michigan Tech_Northern Michigan
+2023-12-08,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Friday,2023-12-08_Bowling Green_Ferris State
+2023-12-08,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Friday,2023-12-08_Minnesota State_St. Thomas
+2023-12-08,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Friday,2023-12-08_Bemidji State_Lake Superior
+2023-12-09,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Michigan State,/reports/team/Michigan-State/32,,,,,Saturday,2023-12-09_Michigan State_Notre Dame
+2023-12-09,Big Ten,,Penn State,/reports/team/Penn-State/60,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2023-12-09_Wisconsin_Penn State
+2023-12-09,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Ohio State,/reports/team/Ohio-State/44,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2023-12-09_Ohio State_Minnesota
+2023-12-09,Atlantic Hockey,,RIT,/reports/team/RIT/49,,American Int'l,/reports/team/American-Intl/5,,,,,Saturday,2023-12-09_American Int'l_RIT
+2023-12-09,Atlantic Hockey,,Army,/reports/team/Army/6,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2023-12-09_Mercyhurst_Army
+2023-12-09,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Niagara,/reports/team/Niagara/39,,,,,Saturday,2023-12-09_Niagara_Robert Morris
+2023-12-09,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2023-12-09_New Hampshire_Rensselaer
+2023-12-09,Non-Conference,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Saturday,2023-12-09_Holy Cross_Mass.-Lowell
+2023-12-09,Non-Conference,,Bentley,/reports/team/Bentley/8,,Maine,/reports/team/Maine/25,,,,,Saturday,2023-12-09_Maine_Bentley
+2023-12-09,Non-Conference,,Union,/reports/team/Union/54,,Vermont,/reports/team/Vermont/55,,,,,Saturday,2023-12-09_Vermont_Union
+2023-12-09,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Massachusetts,/reports/team/Massachusetts/27,,,,,Saturday,2023-12-09_Massachusetts_Alaska-Anchorage
+2023-12-09,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Saturday,2023-12-09_Quinnipiac_Long Island
+2023-12-09,Non-Conference,,Sacred Heart,/reports/team/Sacred-Heart/51,,Princeton,/reports/team/Princeton/45,,,,,Saturday,2023-12-09_Princeton_Sacred Heart
+2023-12-09,Non-Conference,,Northeastern,/reports/team/Northeastern/41,,Brown,/reports/team/Brown/12,,,,,Saturday,2023-12-09_Brown_Northeastern
+2023-12-09,Non-Conference,,Dartmouth,/reports/team/Dartmouth/19,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2023-12-09_Arizona State_Dartmouth
+2023-12-09,Hockey East,,Providence,/reports/team/Providence/46,,Boston College,/reports/team/Boston-College/9,,,,/schedules/radiotv.php?type=tv&tvid=12,Saturday,2023-12-09_Boston College_Providence
+2023-12-09,NCHC,,Denver,/reports/team/Denver/20,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2023-12-09_Western Michigan_Denver
+2023-12-09,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Miami,/reports/team/Miami/30,,,,,Saturday,2023-12-09_Miami_Minnesota-Duluth
+2023-12-09,NCHC,,Colorado College,/reports/team/Colorado-College/16,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2023-12-09_North Dakota_Colorado College
+2023-12-09,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Omaha,/reports/team/Omaha/37,,,,,Saturday,2023-12-09_Omaha_St. Cloud State
+2023-12-09,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Saturday,2023-12-09_Northern Michigan_Michigan Tech
+2023-12-09,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Saturday,2023-12-09_Bemidji State_Lake Superior
+2023-12-09,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,St. Thomas,/reports/team/St-Thomas/63,,,,,Saturday,2023-12-09_St. Thomas_Minnesota State
+2023-12-09,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Saturday,2023-12-09_Bowling Green_Ferris State
+2023-12-09,Exhibition,,US Under-18,,,Clarkson,/reports/team/Clarkson/14,,,,,Saturday,2023-12-09_Clarkson_US Under-18
+2023-12-10,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Yale,/reports/team/Yale/59,,,,,Sunday,2023-12-10_Yale_Long Island
+2023-12-14,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Thursday,2023-12-14_Bemidji State_Bowling Green
+2023-12-15,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Canisius,/reports/team/Canisius/13,,,,,Friday,2023-12-15_Canisius_American Int'l
+2023-12-15,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Friday,2023-12-15_Bemidji State_Bowling Green
+2023-12-15,Non-Conference,,Minnesota State,/reports/team/Minnesota-State/35,,Rensselaer,/reports/team/Rensselaer/48,,,,,Friday,2023-12-15_Rensselaer_Minnesota State
+2023-12-15,Non-Conference,,Augustana,/reports/team/Augustana/64,,Alaska,/reports/team/Alaska/4,,,,,Friday,2023-12-15_Alaska_Augustana
+2023-12-16,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Canisius,/reports/team/Canisius/13,,,,,Saturday,2023-12-16_Canisius_American Int'l
+2023-12-16,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Ferris State,/reports/team/Ferris-State/21,,,,,Saturday,2023-12-16_Ferris State_Lake Superior
+2023-12-16,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2023-12-16_Robert Morris_Arizona State
+2023-12-16,Non-Conference,,Vermont,/reports/team/Vermont/55,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2023-12-16_Long Island_Vermont
+2023-12-16,Non-Conference,,Minnesota State,/reports/team/Minnesota-State/35,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2023-12-16_Rensselaer_Minnesota State
+2023-12-16,Non-Conference,,Augustana,/reports/team/Augustana/64,,Alaska,/reports/team/Alaska/4,,,,,Saturday,2023-12-16_Alaska_Augustana
+2023-12-17,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Sunday,2023-12-17_Robert Morris_Arizona State
+2023-12-17,Non-Conference,,Vermont,/reports/team/Vermont/55,,Long Island,/reports/team/Long-Island/62,,,,,Sunday,2023-12-17_Long Island_Vermont
+2023-12-28,"Great Lakes Invitational (at Van Andel Arena, Grand Rapids, Mich.)",,Alaska,/reports/team/Alaska/4,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Thursday,2023-12-28_Michigan Tech_Alaska
+2023-12-28,"Great Lakes Invitational (at Van Andel Arena, Grand Rapids, Mich.)",,Ferris State,/reports/team/Ferris-State/21,,Michigan State,/reports/team/Michigan-State/32,,,,,Thursday,2023-12-28_Michigan State_Ferris State
+2023-12-28,"Holiday Face-Off (at Fiserv Forum, Milwaukee, Wis.)",,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Northeastern,/reports/team/Northeastern/41,,,,,Thursday,2023-12-28_Northeastern_Minnesota-Duluth
+2023-12-28,"Holiday Face-Off (at Fiserv Forum, Milwaukee, Wis.)",,Air Force,/reports/team/Air-Force/1,,Wisconsin,/reports/team/Wisconsin/58,,,,,Thursday,2023-12-28_Wisconsin_Air Force
+2023-12-29,"Great Lakes Invitational (at Van Andel Arena, Grand Rapids, Mich.)",,Michigan Tech,/reports/team/Michigan-Tech/33,,MSU/FSU,,,,,,Friday,2023-12-29_MSU/FSU_Michigan Tech
+2023-12-29,"Great Lakes Invitational (at Van Andel Arena, Grand Rapids, Mich.)",,Michigan State,/reports/team/Michigan-State/32,,MTU/Alaska,,,,,,Friday,2023-12-29_MTU/Alaska_Michigan State
+2023-12-29,"Great Lakes Invitational (at Van Andel Arena, Grand Rapids, Mich.)",,Alaska,/reports/team/Alaska/4,,MSU/FSU,,,,,,Friday,2023-12-29_MSU/FSU_Alaska
+2023-12-29,"Great Lakes Invitational (at Van Andel Arena, Grand Rapids, Mich.)",,Ferris State,/reports/team/Ferris-State/21,,MTU/Alaska,,,,,,Friday,2023-12-29_MTU/Alaska_Ferris State
+2023-12-29,"Holiday Face-Off (at Fiserv Forum, Milwaukee, Wis.)",,Air Force,/reports/team/Air-Force/1,,TBD,,,,,,Friday,2023-12-29_TBD_Air Force
+2023-12-29,"Holiday Face-Off (at Fiserv Forum, Milwaukee, Wis.)",,Wisconsin,/reports/team/Wisconsin/58,,TBD,,,,,,Friday,2023-12-29_TBD_Wisconsin
+2023-12-29,"Holiday Face-Off (at Fiserv Forum, Milwaukee, Wis.)",,Northeastern,/reports/team/Northeastern/41,,TBD,,,,,,Friday,2023-12-29_TBD_Northeastern
+2023-12-29,"Holiday Face-Off (at Fiserv Forum, Milwaukee, Wis.)",,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,TBD,,,,,,Friday,2023-12-29_TBD_Minnesota-Duluth
+2023-12-29,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,,Canisius,/reports/team/Canisius/13,,,,,Friday,2023-12-29_Canisius_Rensselaer
+2023-12-29,Non-Conference,,Miami,/reports/team/Miami/30,,Niagara,/reports/team/Niagara/39,,,,,Friday,2023-12-29_Niagara_Miami
+2023-12-29,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,,Vermont,/reports/team/Vermont/55,,,,,Friday,2023-12-29_Vermont_St. Thomas
+2023-12-29,Non-Conference,,Merrimack,/reports/team/Merrimack/29,,Brown,/reports/team/Brown/12,,,,,Friday,2023-12-29_Brown_Merrimack
+2023-12-29,Non-Conference,,New Hampshire,/reports/team/New-Hampshire/38,,Army,/reports/team/Army/6,,,,,Friday,2023-12-29_Army_New Hampshire
+2023-12-29,Non-Conference,,Boston University,/reports/team/Boston-University/10,,Yale,/reports/team/Yale/59,,,,,Friday,2023-12-29_Yale_Boston University
+2023-12-29,Non-Conference,,St. Cloud State,/reports/team/St-Cloud-State/52,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Friday,2023-12-29_Bemidji State_St. Cloud State
+2023-12-29,"Adirondack Winter Invitational (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",,Cornell,/reports/team/Cornell/18,,Massachusetts,/reports/team/Massachusetts/27,,,,,Friday,2023-12-29_Massachusetts_Cornell
+2023-12-29,"Adirondack Winter Invitational (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",,Arizona State,/reports/team/Arizona-State/61,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2023-12-29_Clarkson_Arizona State
+2023-12-29,"Ledyard Bank Classic (at Thompson Arena, Hanover, N.H.)",,Maine,/reports/team/Maine/25,,RIT,/reports/team/RIT/49,,,,,Friday,2023-12-29_RIT_Maine
+2023-12-29,"Ledyard Bank Classic (at Thompson Arena, Hanover, N.H.)",,Lake Superior,/reports/team/Lake-Superior/24,,Dartmouth,/reports/team/Dartmouth/19,,,,,Friday,2023-12-29_Dartmouth_Lake Superior
+2023-12-29,Exhibition,,Minot State,,,Colorado College,/reports/team/Colorado-College/16,,,,,Friday,2023-12-29_Colorado College_Minot State
+2023-12-30,"Adirondack Winter Invitational (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",,Clarkson,/reports/team/Clarkson/14,,UMass/Cornell,,,,,,Saturday,2023-12-30_UMass/Cornell_Clarkson
+2023-12-30,"Adirondack Winter Invitational (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",,Cornell,/reports/team/Cornell/18,,Clarkson/ASU,,,,,,Saturday,2023-12-30_Clarkson/ASU_Cornell
+2023-12-30,"Adirondack Winter Invitational (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",,Arizona State,/reports/team/Arizona-State/61,,UMass/Cornell,,,,,,Saturday,2023-12-30_UMass/Cornell_Arizona State
+2023-12-30,"Adirondack Winter Invitational (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",,Massachusetts,/reports/team/Massachusetts/27,,Clarkson/ASU,,,,,,Saturday,2023-12-30_Clarkson/ASU_Massachusetts
+2023-12-30,"Ledyard Bank Classic (at Thompson Arena, Hanover, N.H.)",,TBD,,,Dartmouth,/reports/team/Dartmouth/19,,,,,Saturday,2023-12-30_Dartmouth_TBD
+2023-12-30,"Ledyard Bank Classic (at Thompson Arena, Hanover, N.H.)",,Lake Superior,/reports/team/Lake-Superior/24,,TBD,,,,,,Saturday,2023-12-30_TBD_Lake Superior
+2023-12-30,"Ledyard Bank Classic (at Thompson Arena, Hanover, N.H.)",,RIT,/reports/team/RIT/49,,TBD,,,,,,Saturday,2023-12-30_TBD_RIT
+2023-12-30,"Ledyard Bank Classic (at Thompson Arena, Hanover, N.H.)",,Maine,/reports/team/Maine/25,,TBD,,,,,,Saturday,2023-12-30_TBD_Maine
+2023-12-30,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,,Canisius,/reports/team/Canisius/13,,,,,Saturday,2023-12-30_Canisius_Rensselaer
+2023-12-30,Non-Conference,,American Int'l,/reports/team/American-Intl/5,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Saturday,2023-12-30_Mass.-Lowell_American Int'l
+2023-12-30,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,,Vermont,/reports/team/Vermont/55,,,,,Saturday,2023-12-30_Vermont_St. Thomas
+2023-12-30,Non-Conference,,Miami,/reports/team/Miami/30,,Niagara,/reports/team/Niagara/39,,,,,Saturday,2023-12-30_Niagara_Miami
+2023-12-30,Non-Conference,,Mercyhurst,/reports/team/Mercyhurst/28,,Ohio State,/reports/team/Ohio-State/44,,,,,Saturday,2023-12-30_Ohio State_Mercyhurst
+2023-12-30,Non-Conference,,Augustana,/reports/team/Augustana/64,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Saturday,2023-12-30_Notre Dame_Augustana
+2023-12-30,Non-Conference,,Union,/reports/team/Union/54,,Bentley,/reports/team/Bentley/8,,,,,Saturday,2023-12-30_Bentley_Union
+2023-12-30,Non-Conference,,Holy Cross,/reports/team/Holy-Cross/23,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Saturday,2023-12-30_Quinnipiac_Holy Cross
+2023-12-30,Non-Conference,,Providence,/reports/team/Providence/46,,Brown,/reports/team/Brown/12,,,,,Saturday,2023-12-30_Brown_Providence
+2023-12-30,Non-Conference,,New Hampshire,/reports/team/New-Hampshire/38,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Saturday,2023-12-30_Sacred Heart_New Hampshire
+2023-12-30,ECAC,,Harvard,/reports/team/Harvard/22,,Princeton,/reports/team/Princeton/45,,,,,Saturday,2023-12-30_Princeton_Harvard
+2023-12-30,Exhibition,,Western Ontario,,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2023-12-30_Western Michigan_Western Ontario
+2023-12-30,Exhibition,,Ottawa,,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Saturday,2023-12-30_St. Lawrence_Ottawa
+2023-12-30,Exhibition,,US Under-18,,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2023-12-30_North Dakota_US Under-18
+2023-12-30,Exhibition,,Minot State,,,Denver,/reports/team/Denver/20,,,,,Saturday,2023-12-30_Denver_Minot State
+2023-12-31,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Merrimack,/reports/team/Merrimack/29,,,,,Sunday,2023-12-31_Merrimack_Stonehill
+2023-12-31,Non-Conference,,Harvard,/reports/team/Harvard/22,,Connecticut,/reports/team/Connecticut/17,,,,,Sunday,2023-12-31_Connecticut_Harvard
+2023-12-31,Non-Conference,,Augustana,/reports/team/Augustana/64,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Sunday,2023-12-31_Notre Dame_Augustana
+2023-12-31,Non-Conference,,Bemidji State,/reports/team/Bemidji-State/7,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Sunday,2023-12-31_St. Cloud State_Bemidji State
+2024-01-02,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Army,/reports/team/Army/6,,,,,Tuesday,2024-01-02_Army_Bentley
+2024-01-02,Non-Conference,,Merrimack,/reports/team/Merrimack/29,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Tuesday,2024-01-02_Holy Cross_Merrimack
+2024-01-05,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Friday,2024-01-05_Notre Dame_Wisconsin
+2024-01-05,Non-Conference,,Western Michigan,/reports/team/Western-Michigan/57,,Lindenwood,/reports/team/Lindenwood/433,,,,,Friday,2024-01-05_Lindenwood_Western Michigan
+2024-01-05,Non-Conference,"at Mullett Arena, Tempe, Ariz.",Mass.-Lowell,/reports/team/Mass-Lowell/26,,Omaha,/reports/team/Omaha/37,,,,,Friday,2024-01-05_Omaha_Mass.-Lowell
+2024-01-05,Non-Conference,,Colgate,/reports/team/Colgate/15,,Maine,/reports/team/Maine/25,,,,,Friday,2024-01-05_Maine_Colgate
+2024-01-05,Non-Conference,,Bowling Green,/reports/team/Bowling-Green/11,,Ohio State,/reports/team/Ohio-State/44,,,,,Friday,2024-01-05_Ohio State_Bowling Green
+2024-01-05,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Friday,2024-01-05_Robert Morris_Stonehill
+2024-01-05,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,,Canisius,/reports/team/Canisius/13,,,,,Friday,2024-01-05_Canisius_St. Lawrence
+2024-01-05,Non-Conference,,Princeton,/reports/team/Princeton/45,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Friday,2024-01-05_New Hampshire_Princeton
+2024-01-05,Non-Conference,,Clarkson,/reports/team/Clarkson/14,,RIT,/reports/team/RIT/49,,,,,Friday,2024-01-05_RIT_Clarkson
+2024-01-05,Non-Conference,,Alaska,/reports/team/Alaska/4,,North Dakota,/reports/team/North-Dakota/40,,,,,Friday,2024-01-05_North Dakota_Alaska
+2024-01-05,Non-Conference,,Minnesota State,/reports/team/Minnesota-State/35,,Augustana,/reports/team/Augustana/64,,,,,Friday,2024-01-05_Augustana_Minnesota State
+2024-01-05,Non-Conference,,Niagara,/reports/team/Niagara/39,,Denver,/reports/team/Denver/20,,,,,Friday,2024-01-05_Denver_Niagara
+2024-01-05,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,TBD,,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2024-01-05_Arizona State_TBD
+2024-01-05,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,Harvard,/reports/team/Harvard/22,,TBD,,,,,,Friday,2024-01-05_TBD_Harvard
+2024-01-05,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,Omaha,/reports/team/Omaha/37,,TBD,,,,,,Friday,2024-01-05_TBD_Omaha
+2024-01-05,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,American Int'l,/reports/team/American-Intl/5,,,,,Friday,2024-01-05_American Int'l_Holy Cross
+2024-01-05,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Friday,2024-01-05_Sacred Heart_Mercyhurst
+2024-01-05,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Bentley,/reports/team/Bentley/8,,,,,Friday,2024-01-05_Bentley_Air Force
+2024-01-05,ECAC,,Yale,/reports/team/Yale/59,,Rensselaer,/reports/team/Rensselaer/48,,,,,Friday,2024-01-05_Rensselaer_Yale
+2024-01-05,ECAC,,Brown,/reports/team/Brown/12,,Union,/reports/team/Union/54,,,,,Friday,2024-01-05_Union_Brown
+2024-01-05,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Massachusetts,/reports/team/Massachusetts/27,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-01-05_Massachusetts_Connecticut
+2024-01-05,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Ferris State,/reports/team/Ferris-State/21,,,,,Friday,2024-01-05_Ferris State_Bemidji State
+2024-01-06,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Saturday,2024-01-06_Notre Dame_Wisconsin
+2024-01-06,Non-Conference,,Western Michigan,/reports/team/Western-Michigan/57,,Lindenwood,/reports/team/Lindenwood/433,,,,,Saturday,2024-01-06_Lindenwood_Western Michigan
+2024-01-06,Non-Conference,,Princeton,/reports/team/Princeton/45,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2024-01-06_New Hampshire_Princeton
+2024-01-06,Non-Conference,,Quinnipiac,/reports/team/Quinnipiac/47,,Northeastern,/reports/team/Northeastern/41,,,,,Saturday,2024-01-06_Northeastern_Quinnipiac
+2024-01-06,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2024-01-06_Robert Morris_Stonehill
+2024-01-06,Non-Conference,,St. Lawrence,/reports/team/St-Lawrence/53,,RIT,/reports/team/RIT/49,,,,,Saturday,2024-01-06_RIT_St. Lawrence
+2024-01-06,Non-Conference,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,St. Thomas,/reports/team/St-Thomas/63,,,,,Saturday,2024-01-06_St. Thomas_Minnesota-Duluth
+2024-01-06,Non-Conference,,Vermont,/reports/team/Vermont/55,,Dartmouth,/reports/team/Dartmouth/19,,,,,Saturday,2024-01-06_Dartmouth_Vermont
+2024-01-06,Non-Conference,,Army,/reports/team/Army/6,,Penn State,/reports/team/Penn-State/60,,,,,Saturday,2024-01-06_Penn State_Army
+2024-01-06,Non-Conference,,Alaska,/reports/team/Alaska/4,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2024-01-06_North Dakota_Alaska
+2024-01-06,Non-Conference,,Clarkson,/reports/team/Clarkson/14,,Canisius,/reports/team/Canisius/13,,,,,Saturday,2024-01-06_Canisius_Clarkson
+2024-01-06,Non-Conference,,Colgate,/reports/team/Colgate/15,,Maine,/reports/team/Maine/25,,,,,Saturday,2024-01-06_Maine_Colgate
+2024-01-06,Non-Conference,,Minnesota State,/reports/team/Minnesota-State/35,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2024-01-06_Augustana_Minnesota State
+2024-01-06,Non-Conference,,Ohio State,/reports/team/Ohio-State/44,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Saturday,2024-01-06_Bowling Green_Ohio State
+2024-01-06,Non-Conference,,Niagara,/reports/team/Niagara/39,,Denver,/reports/team/Denver/20,,,,,Saturday,2024-01-06_Denver_Niagara
+2024-01-06,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,TBD,,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2024-01-06_Arizona State_TBD
+2024-01-06,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,Harvard,/reports/team/Harvard/22,,TBD,,,,,,Saturday,2024-01-06_TBD_Harvard
+2024-01-06,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,Mass.-Lowell,/reports/team/Mass-Lowell/26,,TBD,,,,,,Saturday,2024-01-06_TBD_Mass.-Lowell
+2024-01-06,"Desert Hockey Classic (at Mullett Arena, Tempe, Ariz.)",,Omaha,/reports/team/Omaha/37,,TBD,,,,,,Saturday,2024-01-06_TBD_Omaha
+2024-01-06,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Saturday,2024-01-06_Sacred Heart_Mercyhurst
+2024-01-06,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Bentley,/reports/team/Bentley/8,,,,,Saturday,2024-01-06_Bentley_Air Force
+2024-01-06,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Saturday,2024-01-06_Holy Cross_American Int'l
+2024-01-06,ECAC,,Yale,/reports/team/Yale/59,,Union,/reports/team/Union/54,,,,,Saturday,2024-01-06_Union_Yale
+2024-01-06,ECAC,,Brown,/reports/team/Brown/12,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2024-01-06_Rensselaer_Brown
+2024-01-06,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Ferris State,/reports/team/Ferris-State/21,,,,,Saturday,2024-01-06_Ferris State_Bemidji State
+2024-01-06,Exhibition,,Simon Fraser,,,Boston College,/reports/team/Boston-College/9,,,,,Saturday,2024-01-06_Boston College_Simon Fraser
+2024-01-07,Non-Conference,,Colorado College,/reports/team/Colorado-College/16,,Minnesota,/reports/team/Minnesota/34,,,,,Sunday,2024-01-07_Minnesota_Colorado College
+2024-01-08,Non-Conference,,Colorado College,/reports/team/Colorado-College/16,,Minnesota,/reports/team/Minnesota/34,,,,,Monday,2024-01-08_Minnesota_Colorado College
+2024-01-09,Atlantic Hockey,,Army,/reports/team/Army/6,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Tuesday,2024-01-09_Sacred Heart_Army
+2024-01-09,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Boston University,/reports/team/Boston-University/10,,,,,Tuesday,2024-01-09_Boston University_Northeastern
+2024-01-11,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Canisius,/reports/team/Canisius/13,,,,,Thursday,2024-01-11_Canisius_Mercyhurst
+2024-01-11,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Niagara,/reports/team/Niagara/39,,,,,Thursday,2024-01-11_Niagara_RIT
+2024-01-11,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,St. Thomas,/reports/team/St-Thomas/63,,,,,Thursday,2024-01-11_St. Thomas_Michigan Tech
+2024-01-12,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Penn State,/reports/team/Penn-State/60,,,,,Friday,2024-01-12_Penn State_Michigan State
+2024-01-12,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Ohio State,/reports/team/Ohio-State/44,,,,,Friday,2024-01-12_Ohio State_Notre Dame
+2024-01-12,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Army,/reports/team/Army/6,,,,,Friday,2024-01-12_Army_Holy Cross
+2024-01-12,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Bentley,/reports/team/Bentley/8,,,,,Friday,2024-01-12_Bentley_Sacred Heart
+2024-01-12,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Air Force,/reports/team/Air-Force/1,,,,,Friday,2024-01-12_Air Force_American Int'l
+2024-01-12,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Yale,/reports/team/Yale/59,,,,,Friday,2024-01-12_Yale_Dartmouth
+2024-01-12,ECAC,,Princeton,/reports/team/Princeton/45,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Friday,2024-01-12_Quinnipiac_Princeton
+2024-01-12,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Rensselaer,/reports/team/Rensselaer/48,,,,,Friday,2024-01-12_Rensselaer_St. Lawrence
+2024-01-12,ECAC,,Clarkson,/reports/team/Clarkson/14,,Union,/reports/team/Union/54,,,,,Friday,2024-01-12_Union_Clarkson
+2024-01-12,ECAC,,Harvard,/reports/team/Harvard/22,,Brown,/reports/team/Brown/12,,,,,Friday,2024-01-12_Brown_Harvard
+2024-01-12,Hockey East,,Vermont,/reports/team/Vermont/55,,Northeastern,/reports/team/Northeastern/41,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-01-12_Northeastern_Vermont
+2024-01-12,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Massachusetts,/reports/team/Massachusetts/27,,,,,Friday,2024-01-12_Massachusetts_Merrimack
+2024-01-12,Hockey East,,Maine,/reports/team/Maine/25,,Connecticut,/reports/team/Connecticut/17,,,,,Friday,2024-01-12_Connecticut_Maine
+2024-01-12,Hockey East,,Providence,/reports/team/Providence/46,,Boston College,/reports/team/Boston-College/9,,,,,Friday,2024-01-12_Boston College_Providence
+2024-01-12,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Friday,2024-01-12_Minnesota-Duluth_Colorado College
+2024-01-12,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Miami,/reports/team/Miami/30,,,,,Friday,2024-01-12_Miami_Western Michigan
+2024-01-12,NCHC,,Omaha,/reports/team/Omaha/37,,North Dakota,/reports/team/North-Dakota/40,,,,,Friday,2024-01-12_North Dakota_Omaha
+2024-01-12,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Denver,/reports/team/Denver/20,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-01-12_Denver_St. Cloud State
+2024-01-12,Non-Conference,,Cornell,/reports/team/Cornell/18,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2024-01-12_Arizona State_Cornell
+2024-01-12,Non-Conference,,Colgate,/reports/team/Colgate/15,,Long Island,/reports/team/Long-Island/62,,,,,Friday,2024-01-12_Long Island_Colgate
+2024-01-12,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Michigan,/reports/team/Michigan/31,,,,,Friday,2024-01-12_Michigan_Stonehill
+2024-01-12,Non-Conference,,Robert Morris,/reports/team/Robert-Morris/50,,Minnesota,/reports/team/Minnesota/34,,,,,Friday,2024-01-12_Minnesota_Robert Morris
+2024-01-12,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Wisconsin,/reports/team/Wisconsin/58,,,,,Friday,2024-01-12_Wisconsin_Lindenwood
+2024-01-12,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Friday,2024-01-12_Lake Superior_Northern Michigan
+2024-01-12,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Friday,2024-01-12_Minnesota State_Ferris State
+2024-01-13,Non-Conference,,Colgate,/reports/team/Colgate/15,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2024-01-13_Long Island_Colgate
+2024-01-13,Non-Conference,,Cornell,/reports/team/Cornell/18,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2024-01-13_Arizona State_Cornell
+2024-01-13,Non-Conference,,Robert Morris,/reports/team/Robert-Morris/50,,Minnesota,/reports/team/Minnesota/34,,,,,Saturday,2024-01-13_Minnesota_Robert Morris
+2024-01-13,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Michigan,/reports/team/Michigan/31,,,,,Saturday,2024-01-13_Michigan_Stonehill
+2024-01-13,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2024-01-13_Wisconsin_Lindenwood
+2024-01-13,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Alaska,/reports/team/Alaska/4,,,,,Saturday,2024-01-13_Alaska_Alaska-Anchorage
+2024-01-13,Hockey East,,Maine,/reports/team/Maine/25,,Connecticut,/reports/team/Connecticut/17,,,,,Saturday,2024-01-13_Connecticut_Maine
+2024-01-13,Hockey East,,Boston College,/reports/team/Boston-College/9,,Providence,/reports/team/Providence/46,,,,,Saturday,2024-01-13_Providence_Boston College
+2024-01-13,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Merrimack,/reports/team/Merrimack/29,,,,,Saturday,2024-01-13_Merrimack_Massachusetts
+2024-01-13,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Boston University,/reports/team/Boston-University/10,,,,,Saturday,2024-01-13_Boston University_New Hampshire
+2024-01-13,Hockey East,,Vermont,/reports/team/Vermont/55,,Northeastern,/reports/team/Northeastern/41,,,,,Saturday,2024-01-13_Northeastern_Vermont
+2024-01-13,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Army,/reports/team/Army/6,,,,,Saturday,2024-01-13_Army_Holy Cross
+2024-01-13,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2024-01-13_Mercyhurst_Niagara
+2024-01-13,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Saturday,2024-01-13_Sacred Heart_Bentley
+2024-01-13,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Air Force,/reports/team/Air-Force/1,,,,,Saturday,2024-01-13_Air Force_American Int'l
+2024-01-13,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,RIT,/reports/team/RIT/49,,,,,Saturday,2024-01-13_RIT_Canisius
+2024-01-13,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Union,/reports/team/Union/54,,,,,Saturday,2024-01-13_Union_St. Lawrence
+2024-01-13,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Brown,/reports/team/Brown/12,,,,,Saturday,2024-01-13_Brown_Dartmouth
+2024-01-13,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Princeton,/reports/team/Princeton/45,,,,,Saturday,2024-01-13_Princeton_Quinnipiac
+2024-01-13,ECAC,,Harvard,/reports/team/Harvard/22,,Yale,/reports/team/Yale/59,,,,,Saturday,2024-01-13_Yale_Harvard
+2024-01-13,ECAC,,Clarkson,/reports/team/Clarkson/14,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2024-01-13_Rensselaer_Clarkson
+2024-01-13,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Penn State,/reports/team/Penn-State/60,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-01-13_Penn State_Michigan State
+2024-01-13,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Ohio State,/reports/team/Ohio-State/44,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-01-13_Ohio State_Notre Dame
+2024-01-13,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,St. Thomas,/reports/team/St-Thomas/63,,,,,Saturday,2024-01-13_St. Thomas_Michigan Tech
+2024-01-13,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Saturday,2024-01-13_Lake Superior_Northern Michigan
+2024-01-13,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Saturday,2024-01-13_Minnesota State_Ferris State
+2024-01-13,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Saturday,2024-01-13_Minnesota-Duluth_Colorado College
+2024-01-13,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Miami,/reports/team/Miami/30,,,,,Saturday,2024-01-13_Miami_Western Michigan
+2024-01-13,NCHC,,Omaha,/reports/team/Omaha/37,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2024-01-13_North Dakota_Omaha
+2024-01-13,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Denver,/reports/team/Denver/20,,,,,Saturday,2024-01-13_Denver_St. Cloud State
+2024-01-16,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Army,/reports/team/Army/6,,,,,Tuesday,2024-01-16_Army_Sacred Heart
+2024-01-19,Big Ten,,Penn State,/reports/team/Penn-State/60,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Friday,2024-01-19_Notre Dame_Penn State
+2024-01-19,Big Ten,,Michigan,/reports/team/Michigan/31,,Michigan State,/reports/team/Michigan-State/32,,,,,Friday,2024-01-19_Michigan State_Michigan
+2024-01-19,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Minnesota,/reports/team/Minnesota/34,,,,,Friday,2024-01-19_Minnesota_Ohio State
+2024-01-19,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Long Island,/reports/team/Long-Island/62,,,,,Friday,2024-01-19_Long Island_Stonehill
+2024-01-19,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Providence,/reports/team/Providence/46,,,,,Friday,2024-01-19_Providence_Alaska-Anchorage
+2024-01-19,Non-Conference,,Augustana,/reports/team/Augustana/64,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2024-01-19_Arizona State_Augustana
+2024-01-19,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Friday,2024-01-19_Sacred Heart_Holy Cross
+2024-01-19,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Canisius,/reports/team/Canisius/13,,,,,Friday,2024-01-19_Canisius_Niagara
+2024-01-19,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Friday,2024-01-19_Robert Morris_RIT
+2024-01-19,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Bentley,/reports/team/Bentley/8,,,,,Friday,2024-01-19_Bentley_Mercyhurst
+2024-01-19,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Army,/reports/team/Army/6,,,,,Friday,2024-01-19_Army_Air Force
+2024-01-19,ECAC,,Brown,/reports/team/Brown/12,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Friday,2024-01-19_St. Lawrence_Brown
+2024-01-19,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Colgate,/reports/team/Colgate/15,,,,,Friday,2024-01-19_Colgate_Quinnipiac
+2024-01-19,ECAC,,Princeton,/reports/team/Princeton/45,,Cornell,/reports/team/Cornell/18,,,,,Friday,2024-01-19_Cornell_Princeton
+2024-01-19,ECAC,,Yale,/reports/team/Yale/59,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2024-01-19_Clarkson_Yale
+2024-01-19,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Harvard,/reports/team/Harvard/22,,,,,Friday,2024-01-19_Harvard_Rensselaer
+2024-01-19,ECAC,,Union,/reports/team/Union/54,,Dartmouth,/reports/team/Dartmouth/19,,,,,Friday,2024-01-19_Dartmouth_Union
+2024-01-19,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Maine,/reports/team/Maine/25,,,,,Friday,2024-01-19_Maine_Mass.-Lowell
+2024-01-19,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Connecticut,/reports/team/Connecticut/17,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-01-19_Connecticut_New Hampshire
+2024-01-19,Hockey East,,Boston University,/reports/team/Boston-University/10,,Vermont,/reports/team/Vermont/55,,,,,Friday,2024-01-19_Vermont_Boston University
+2024-01-19,Hockey East,,Boston College,/reports/team/Boston-College/9,,Merrimack,/reports/team/Merrimack/29,,,,,Friday,2024-01-19_Merrimack_Boston College
+2024-01-19,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2024-01-19_Western Michigan_Minnesota-Duluth
+2024-01-19,NCHC,,Denver,/reports/team/Denver/20,,Omaha,/reports/team/Omaha/37,,,,,Friday,2024-01-19_Omaha_Denver
+2024-01-19,NCHC,,North Dakota,/reports/team/North-Dakota/40,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Friday,2024-01-19_St. Cloud State_North Dakota
+2024-01-19,NCHC,,Miami,/reports/team/Miami/30,,Colorado College,/reports/team/Colorado-College/16,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-01-19_Colorado College_Miami
+2024-01-19,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Friday,2024-01-19_Bowling Green_Minnesota State
+2024-01-19,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Friday,2024-01-19_Michigan Tech_Bemidji State
+2024-01-19,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Ferris State,/reports/team/Ferris-State/21,,,,,Friday,2024-01-19_Ferris State_Lake Superior
+2024-01-19,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Friday,2024-01-19_Northern Michigan_St. Thomas
+2024-01-20,Big Ten,,Penn State,/reports/team/Penn-State/60,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Saturday,2024-01-20_Notre Dame_Penn State
+2024-01-20,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Michigan,/reports/team/Michigan/31,,,,,Saturday,2024-01-20_Michigan_Michigan State
+2024-01-20,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Minnesota,/reports/team/Minnesota/34,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-01-20_Minnesota_Ohio State
+2024-01-20,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2024-01-20_Long Island_Stonehill
+2024-01-20,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Providence,/reports/team/Providence/46,,,,,Saturday,2024-01-20_Providence_Alaska-Anchorage
+2024-01-20,Non-Conference,,Augustana,/reports/team/Augustana/64,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2024-01-20_Arizona State_Augustana
+2024-01-20,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Army,/reports/team/Army/6,,,,,Saturday,2024-01-20_Army_Air Force
+2024-01-20,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Bentley,/reports/team/Bentley/8,,,,,Saturday,2024-01-20_Bentley_Mercyhurst
+2024-01-20,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2024-01-20_Robert Morris_RIT
+2024-01-20,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Saturday,2024-01-20_Holy Cross_Sacred Heart
+2024-01-20,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Niagara,/reports/team/Niagara/39,,,,,Saturday,2024-01-20_Niagara_Canisius
+2024-01-20,NCHC,,Miami,/reports/team/Miami/30,,Colorado College,/reports/team/Colorado-College/16,,,,,Saturday,2024-01-20_Colorado College_Miami
+2024-01-20,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2024-01-20_Western Michigan_Minnesota-Duluth
+2024-01-20,NCHC,,North Dakota,/reports/team/North-Dakota/40,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Saturday,2024-01-20_St. Cloud State_North Dakota
+2024-01-20,NCHC,,Denver,/reports/team/Denver/20,,Omaha,/reports/team/Omaha/37,,,,,Saturday,2024-01-20_Omaha_Denver
+2024-01-20,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Saturday,2024-01-20_Northern Michigan_St. Thomas
+2024-01-20,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Saturday,2024-01-20_Michigan Tech_Bemidji State
+2024-01-20,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Saturday,2024-01-20_Lake Superior_Ferris State
+2024-01-20,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Saturday,2024-01-20_Bowling Green_Minnesota State
+2024-01-20,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Cornell,/reports/team/Cornell/18,,,,,Saturday,2024-01-20_Cornell_Quinnipiac
+2024-01-20,ECAC,,Princeton,/reports/team/Princeton/45,,Colgate,/reports/team/Colgate/15,,,,,Saturday,2024-01-20_Colgate_Princeton
+2024-01-20,ECAC,,Brown,/reports/team/Brown/12,,Clarkson,/reports/team/Clarkson/14,,,,,Saturday,2024-01-20_Clarkson_Brown
+2024-01-20,ECAC,,Yale,/reports/team/Yale/59,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Saturday,2024-01-20_St. Lawrence_Yale
+2024-01-20,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Dartmouth,/reports/team/Dartmouth/19,,,,,Saturday,2024-01-20_Dartmouth_Rensselaer
+2024-01-20,ECAC,,Union,/reports/team/Union/54,,Harvard,/reports/team/Harvard/22,,,,,Saturday,2024-01-20_Harvard_Union
+2024-01-20,Hockey East,,Boston University,/reports/team/Boston-University/10,,Vermont,/reports/team/Vermont/55,,,,,Saturday,2024-01-20_Vermont_Boston University
+2024-01-20,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Northeastern,/reports/team/Northeastern/41,,,,,Saturday,2024-01-20_Northeastern_Massachusetts
+2024-01-20,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Maine,/reports/team/Maine/25,,,,,Saturday,2024-01-20_Maine_Mass.-Lowell
+2024-01-21,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Boston College,/reports/team/Boston-College/9,,,,/schedules/radiotv.php?type=tv&tvid=12,Sunday,2024-01-21_Boston College_Merrimack
+2024-01-21,Hockey East,,Connecticut,/reports/team/Connecticut/17,,New Hampshire,/reports/team/New-Hampshire/38,,,,/schedules/radiotv.php?type=tv&tvid=12,Sunday,2024-01-21_New Hampshire_Connecticut
+2024-01-25,Exhibition,,Niagara,/reports/team/Niagara/39,,US Under-18,,,,,,Thursday,2024-01-25_US Under-18_Niagara
+2024-01-26,"Nutmeg Classic (at XL Center, Hartford, Conn.)",,Quinnipiac,/reports/team/Quinnipiac/47,,Yale,/reports/team/Yale/59,,,,,Friday,2024-01-26_Yale_Quinnipiac
+2024-01-26,"Nutmeg Classic (at XL Center, Hartford, Conn.)",,Sacred Heart,/reports/team/Sacred-Heart/51,,Connecticut,/reports/team/Connecticut/17,,,,/schedules/radiotv.php?type=tv&tvid=85,Friday,2024-01-26_Connecticut_Sacred Heart
+2024-01-26,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Penn State,/reports/team/Penn-State/60,,,,,Friday,2024-01-26_Penn State_Ohio State
+2024-01-26,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Michigan State,/reports/team/Michigan-State/32,,,,,Friday,2024-01-26_Michigan State_Minnesota
+2024-01-26,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Michigan,/reports/team/Michigan/31,,,,,Friday,2024-01-26_Michigan_Wisconsin
+2024-01-26,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,American Int'l,/reports/team/American-Intl/5,,,,,Friday,2024-01-26_American Int'l_Robert Morris
+2024-01-26,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Friday,2024-01-26_Mercyhurst_Holy Cross
+2024-01-26,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,RIT,/reports/team/RIT/49,,,,,Friday,2024-01-26_RIT_Bentley
+2024-01-26,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Air Force,/reports/team/Air-Force/1,,,,,Friday,2024-01-26_Air Force_Canisius
+2024-01-26,Non-Conference,,Alaska,/reports/team/Alaska/4,,Long Island,/reports/team/Long-Island/62,,,,,Friday,2024-01-26_Long Island_Alaska
+2024-01-26,Non-Conference,,Ferris State,/reports/team/Ferris-State/21,,Augustana,/reports/team/Augustana/64,,,,,Friday,2024-01-26_Augustana_Ferris State
+2024-01-26,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Lindenwood,/reports/team/Lindenwood/433,,,,,Friday,2024-01-26_Lindenwood_Stonehill
+2024-01-26,ECAC,,Cornell,/reports/team/Cornell/18,,Harvard,/reports/team/Harvard/22,,,,,Friday,2024-01-26_Harvard_Cornell
+2024-01-26,ECAC,,Colgate,/reports/team/Colgate/15,,Dartmouth,/reports/team/Dartmouth/19,,,,,Friday,2024-01-26_Dartmouth_Colgate
+2024-01-26,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2024-01-26_Clarkson_St. Lawrence
+2024-01-26,Hockey East,,Boston University,/reports/team/Boston-University/10,,Boston College,/reports/team/Boston-College/9,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-01-26_Boston College_Boston University
+2024-01-26,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Vermont,/reports/team/Vermont/55,,,,,Friday,2024-01-26_Vermont_New Hampshire
+2024-01-26,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Northeastern,/reports/team/Northeastern/41,,,,,Friday,2024-01-26_Northeastern_Merrimack
+2024-01-26,Hockey East,,Providence,/reports/team/Providence/46,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2024-01-26_Mass.-Lowell_Providence
+2024-01-26,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2024-01-26_Western Michigan_Colorado College
+2024-01-26,NCHC,,Miami,/reports/team/Miami/30,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Friday,2024-01-26_Minnesota-Duluth_Miami
+2024-01-26,NCHC,,Denver,/reports/team/Denver/20,,North Dakota,/reports/team/North-Dakota/40,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-01-26_North Dakota_Denver
+2024-01-26,NCHC,,Omaha,/reports/team/Omaha/37,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Friday,2024-01-26_St. Cloud State_Omaha
+2024-01-26,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Friday,2024-01-26_Lake Superior_Michigan Tech
+2024-01-26,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Friday,2024-01-26_Minnesota State_Northern Michigan
+2024-01-27,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Penn State,/reports/team/Penn-State/60,,,,,Saturday,2024-01-27_Penn State_Ohio State
+2024-01-27,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Michigan State,/reports/team/Michigan-State/32,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-01-27_Michigan State_Minnesota
+2024-01-27,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Michigan,/reports/team/Michigan/31,,,,,Saturday,2024-01-27_Michigan_Wisconsin
+2024-01-27,"Nutmeg Classic (at XL Center, Hartford, Conn.)",,Sacred Heart,/reports/team/Sacred-Heart/51,,Yale/Quinnipiac,,,,,/schedules/radiotv.php?type=tv&tvid=85,Saturday,2024-01-27_Yale/Quinnipiac_Sacred Heart
+2024-01-27,"Nutmeg Classic (at XL Center, Hartford, Conn.)",,Quinnipiac,/reports/team/Quinnipiac/47,,UConn/SHU,,,,,,Saturday,2024-01-27_UConn/SHU_Quinnipiac
+2024-01-27,"Nutmeg Classic (at XL Center, Hartford, Conn.)",,Yale,/reports/team/Yale/59,,UConn/SHU,,,,,,Saturday,2024-01-27_UConn/SHU_Yale
+2024-01-27,"Nutmeg Classic (at XL Center, Hartford, Conn.)",,Yale/Quinnipiac,,,Connecticut,/reports/team/Connecticut/17,,,,,Saturday,2024-01-27_Connecticut_Yale/Quinnipiac
+2024-01-27,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,American Int'l,/reports/team/American-Intl/5,,,,,Saturday,2024-01-27_American Int'l_Robert Morris
+2024-01-27,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2024-01-27_Mercyhurst_Holy Cross
+2024-01-27,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,RIT,/reports/team/RIT/49,,,,,Saturday,2024-01-27_RIT_Bentley
+2024-01-27,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Air Force,/reports/team/Air-Force/1,,,,,Saturday,2024-01-27_Air Force_Canisius
+2024-01-27,Non-Conference,,Alaska,/reports/team/Alaska/4,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2024-01-27_Long Island_Alaska
+2024-01-27,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Lindenwood,/reports/team/Lindenwood/433,,,,,Saturday,2024-01-27_Lindenwood_Stonehill
+2024-01-27,Non-Conference,"at MVP Arena, Albany, N.Y.",Rensselaer,/reports/team/Rensselaer/48,,Union,/reports/team/Union/54,,,,,Saturday,2024-01-27_Union_Rensselaer
+2024-01-27,Non-Conference,,Ferris State,/reports/team/Ferris-State/21,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2024-01-27_Augustana_Ferris State
+2024-01-27,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Providence,/reports/team/Providence/46,,,,,Saturday,2024-01-27_Providence_Mass.-Lowell
+2024-01-27,Hockey East,,Boston College,/reports/team/Boston-College/9,,Boston University,/reports/team/Boston-University/10,,,,/schedules/radiotv.php?type=tv&tvid=12,Saturday,2024-01-27_Boston University_Boston College
+2024-01-27,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Vermont,/reports/team/Vermont/55,,,,,Saturday,2024-01-27_Vermont_New Hampshire
+2024-01-27,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Merrimack,/reports/team/Merrimack/29,,,,,Saturday,2024-01-27_Merrimack_Northeastern
+2024-01-27,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2024-01-27_Western Michigan_Colorado College
+2024-01-27,NCHC,,Denver,/reports/team/Denver/20,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2024-01-27_North Dakota_Denver
+2024-01-27,NCHC,,Omaha,/reports/team/Omaha/37,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Saturday,2024-01-27_St. Cloud State_Omaha
+2024-01-27,NCHC,,Miami,/reports/team/Miami/30,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Saturday,2024-01-27_Minnesota-Duluth_Miami
+2024-01-27,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Saturday,2024-01-27_Lake Superior_Michigan Tech
+2024-01-27,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Saturday,2024-01-27_Minnesota State_Northern Michigan
+2024-01-27,ECAC,,Clarkson,/reports/team/Clarkson/14,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Saturday,2024-01-27_St. Lawrence_Clarkson
+2024-01-27,ECAC,,Cornell,/reports/team/Cornell/18,,Dartmouth,/reports/team/Dartmouth/19,,,,,Saturday,2024-01-27_Dartmouth_Cornell
+2024-01-27,ECAC,,Colgate,/reports/team/Colgate/15,,Harvard,/reports/team/Harvard/22,,,,,Saturday,2024-01-27_Harvard_Colgate
+2024-01-27,Exhibition,,St. Thomas,/reports/team/St-Thomas/63,,US Under-18,,,,,,Saturday,2024-01-27_US Under-18_St. Thomas
+2024-01-27,Exhibition,,Royal Military,,,Army,/reports/team/Army/6,,,,,Saturday,2024-01-27_Army_Royal Military
+2024-01-30,Hockey East,,Boston University,/reports/team/Boston-University/10,,Northeastern,/reports/team/Northeastern/41,,,,,Tuesday,2024-01-30_Northeastern_Boston University
+2024-01-30,Non-Conference,,Army,/reports/team/Army/6,,Princeton,/reports/team/Princeton/45,,,,,Tuesday,2024-01-30_Princeton_Army
+2024-02-01,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Niagara,/reports/team/Niagara/39,,,,,Thursday,2024-02-01_Niagara_RIT
+2024-02-02,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Friday,2024-02-02_Notre Dame_Michigan State
+2024-02-02,Big Ten,,Michigan,/reports/team/Michigan/31,,Ohio State,/reports/team/Ohio-State/44,,,,,Friday,2024-02-02_Ohio State_Michigan
+2024-02-02,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Wisconsin,/reports/team/Wisconsin/58,,,,,Friday,2024-02-02_Wisconsin_Minnesota
+2024-02-02,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Friday,2024-02-02_Mercyhurst_Robert Morris
+2024-02-02,Atlantic Hockey,,Army,/reports/team/Army/6,,Bentley,/reports/team/Bentley/8,,,,,Friday,2024-02-02_Bentley_Army
+2024-02-02,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Friday,2024-02-02_Sacred Heart_American Int'l
+2024-02-02,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Friday,2024-02-02_Holy Cross_Air Force
+2024-02-02,ECAC,,Union,/reports/team/Union/54,,Yale,/reports/team/Yale/59,,,,,Friday,2024-02-02_Yale_Union
+2024-02-02,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Princeton,/reports/team/Princeton/45,,,,,Friday,2024-02-02_Princeton_Dartmouth
+2024-02-02,ECAC,,Clarkson,/reports/team/Clarkson/14,,Colgate,/reports/team/Colgate/15,,,,,Friday,2024-02-02_Colgate_Clarkson
+2024-02-02,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Cornell,/reports/team/Cornell/18,,,,,Friday,2024-02-02_Cornell_St. Lawrence
+2024-02-02,ECAC,,Harvard,/reports/team/Harvard/22,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Friday,2024-02-02_Quinnipiac_Harvard
+2024-02-02,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Merrimack,/reports/team/Merrimack/29,,,,,Friday,2024-02-02_Merrimack_Massachusetts
+2024-02-02,Hockey East,,Maine,/reports/team/Maine/25,,Northeastern,/reports/team/Northeastern/41,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-02-02_Northeastern_Maine
+2024-02-02,Hockey East,,Providence,/reports/team/Providence/46,,Connecticut,/reports/team/Connecticut/17,,,,,Friday,2024-02-02_Connecticut_Providence
+2024-02-02,Hockey East,,Boston University,/reports/team/Boston-University/10,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Friday,2024-02-02_New Hampshire_Boston University
+2024-02-02,Hockey East,,Boston College,/reports/team/Boston-College/9,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2024-02-02_Mass.-Lowell_Boston College
+2024-02-02,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Stonehill,/reports/team/Stonehill/422,,,,,Friday,2024-02-02_Stonehill_Long Island
+2024-02-02,Non-Conference,,Rensselaer,/reports/team/Rensselaer/48,,Brown,/reports/team/Brown/12,,,,,Friday,2024-02-02_Brown_Rensselaer
+2024-02-02,Non-Conference,,Augustana,/reports/team/Augustana/64,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Friday,2024-02-02_Bemidji State_Augustana
+2024-02-02,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2024-02-02_Arizona State_Lindenwood
+2024-02-02,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Miami,/reports/team/Miami/30,,,,,Friday,2024-02-02_Miami_North Dakota
+2024-02-02,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Omaha,/reports/team/Omaha/37,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-02-02_Omaha_Minnesota-Duluth
+2024-02-02,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Colorado College,/reports/team/Colorado-College/16,,,,,Friday,2024-02-02_Colorado College_St. Cloud State
+2024-02-02,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Denver,/reports/team/Denver/20,,,,,Friday,2024-02-02_Denver_Western Michigan
+2024-02-02,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Ferris State,/reports/team/Ferris-State/21,,,,,Friday,2024-02-02_Ferris State_Bowling Green
+2024-02-02,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Friday,2024-02-02_Northern Michigan_Michigan Tech
+2024-02-02,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,St. Thomas,/reports/team/St-Thomas/63,,,,,Friday,2024-02-02_St. Thomas_Minnesota State
+2024-02-03,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Saturday,2024-02-03_Notre Dame_Michigan State
+2024-02-03,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2024-02-03_Wisconsin_Minnesota
+2024-02-03,Big Ten,,Michigan,/reports/team/Michigan/31,,Ohio State,/reports/team/Ohio-State/44,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-02-03_Ohio State_Michigan
+2024-02-03,Atlantic Hockey,,Army,/reports/team/Army/6,,Bentley,/reports/team/Bentley/8,,,,,Saturday,2024-02-03_Bentley_Army
+2024-02-03,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,RIT,/reports/team/RIT/49,,,,,Saturday,2024-02-03_RIT_Niagara
+2024-02-03,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Saturday,2024-02-03_Sacred Heart_American Int'l
+2024-02-03,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2024-02-03_Robert Morris_Mercyhurst
+2024-02-03,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Saturday,2024-02-03_Holy Cross_Air Force
+2024-02-03,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Stonehill,/reports/team/Stonehill/422,,,,,Saturday,2024-02-03_Stonehill_Long Island
+2024-02-03,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2024-02-03_Arizona State_Lindenwood
+2024-02-03,Non-Conference,,Augustana,/reports/team/Augustana/64,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Saturday,2024-02-03_Bemidji State_Augustana
+2024-02-03,Non-Conference,,Alaska,/reports/team/Alaska/4,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Saturday,2024-02-03_Alaska-Anchorage_Alaska
+2024-02-03,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Ferris State,/reports/team/Ferris-State/21,,,,,Saturday,2024-02-03_Ferris State_Bowling Green
+2024-02-03,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Saturday,2024-02-03_Michigan Tech_Northern Michigan
+2024-02-03,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Saturday,2024-02-03_Minnesota State_St. Thomas
+2024-02-03,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Colgate,/reports/team/Colgate/15,,,,,Saturday,2024-02-03_Colgate_St. Lawrence
+2024-02-03,ECAC,,Union,/reports/team/Union/54,,Brown,/reports/team/Brown/12,,,,,Saturday,2024-02-03_Brown_Union
+2024-02-03,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Yale,/reports/team/Yale/59,,,,,Saturday,2024-02-03_Yale_Rensselaer
+2024-02-03,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Saturday,2024-02-03_Quinnipiac_Dartmouth
+2024-02-03,ECAC,,Clarkson,/reports/team/Clarkson/14,,Cornell,/reports/team/Cornell/18,,,,,Saturday,2024-02-03_Cornell_Clarkson
+2024-02-03,Hockey East,,Merrimack,/reports/team/Merrimack/29,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2024-02-03_New Hampshire_Merrimack
+2024-02-03,Hockey East,,Maine,/reports/team/Maine/25,,Massachusetts,/reports/team/Massachusetts/27,,,,,Saturday,2024-02-03_Massachusetts_Maine
+2024-02-03,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Providence,/reports/team/Providence/46,,,,,Saturday,2024-02-03_Providence_Connecticut
+2024-02-03,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Miami,/reports/team/Miami/30,,,,,Saturday,2024-02-03_Miami_North Dakota
+2024-02-03,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Colorado College,/reports/team/Colorado-College/16,,,,,Saturday,2024-02-03_Colorado College_St. Cloud State
+2024-02-03,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,Denver,/reports/team/Denver/20,,,,,Saturday,2024-02-03_Denver_Western Michigan
+2024-02-03,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Omaha,/reports/team/Omaha/37,,,,,Saturday,2024-02-03_Omaha_Minnesota-Duluth
+2024-02-05,"Beanpot (at TD Garden, Boston)",,Harvard,/reports/team/Harvard/22,,Northeastern,/reports/team/Northeastern/41,,,,,Monday,2024-02-05_Northeastern_Harvard
+2024-02-05,"Beanpot (at TD Garden, Boston)",,Boston College,/reports/team/Boston-College/9,,Boston University,/reports/team/Boston-University/10,,,,,Monday,2024-02-05_Boston University_Boston College
+2024-02-06,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Canisius,/reports/team/Canisius/13,,,,,Tuesday,2024-02-06_Canisius_Niagara
+2024-02-09,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Friday,2024-02-09_Mercyhurst_RIT
+2024-02-09,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Canisius,/reports/team/Canisius/13,,,,,Friday,2024-02-09_Canisius_Bentley
+2024-02-09,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Army,/reports/team/Army/6,,,,,Friday,2024-02-09_Army_Robert Morris
+2024-02-09,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Niagara,/reports/team/Niagara/39,,,,,Friday,2024-02-09_Niagara_American Int'l
+2024-02-09,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Air Force,/reports/team/Air-Force/1,,,,,Friday,2024-02-09_Air Force_Sacred Heart
+2024-02-09,ECAC,,Colgate,/reports/team/Colgate/15,,Union,/reports/team/Union/54,,,,,Friday,2024-02-09_Union_Colgate
+2024-02-09,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Friday,2024-02-09_St. Lawrence_Quinnipiac
+2024-02-09,ECAC,,Brown,/reports/team/Brown/12,,Yale,/reports/team/Yale/59,,,,,Friday,2024-02-09_Yale_Brown
+2024-02-09,ECAC,,Princeton,/reports/team/Princeton/45,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2024-02-09_Clarkson_Princeton
+2024-02-09,ECAC,,Cornell,/reports/team/Cornell/18,,Rensselaer,/reports/team/Rensselaer/48,,,,,Friday,2024-02-09_Rensselaer_Cornell
+2024-02-09,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Harvard,/reports/team/Harvard/22,,,,,Friday,2024-02-09_Harvard_Dartmouth
+2024-02-09,Hockey East,,Providence,/reports/team/Providence/46,,Maine,/reports/team/Maine/25,,,,,Friday,2024-02-09_Maine_Providence
+2024-02-09,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Boston University,/reports/team/Boston-University/10,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-02-09_Boston University_Merrimack
+2024-02-09,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Boston College,/reports/team/Boston-College/9,,,,,Friday,2024-02-09_Boston College_New Hampshire
+2024-02-09,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Connecticut,/reports/team/Connecticut/17,,,,,Friday,2024-02-09_Connecticut_Massachusetts
+2024-02-09,Hockey East,,Vermont,/reports/team/Vermont/55,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2024-02-09_Mass.-Lowell_Vermont
+2024-02-09,NCHC,,Omaha,/reports/team/Omaha/37,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2024-02-09_Western Michigan_Omaha
+2024-02-09,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Miami,/reports/team/Miami/30,,,,,Friday,2024-02-09_Miami_St. Cloud State
+2024-02-09,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Michigan,/reports/team/Michigan/31,,,,,Friday,2024-02-09_Michigan_Michigan State
+2024-02-09,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Wisconsin,/reports/team/Wisconsin/58,,,,,Friday,2024-02-09_Wisconsin_Notre Dame
+2024-02-09,Big Ten,,Penn State,/reports/team/Penn-State/60,,Minnesota,/reports/team/Minnesota/34,,,,/schedules/radiotv.php?type=tv&tvid=171,Friday,2024-02-09_Minnesota_Penn State
+2024-02-09,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Stonehill,/reports/team/Stonehill/422,,,,,Friday,2024-02-09_Stonehill_Lindenwood
+2024-02-09,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,,Augustana,/reports/team/Augustana/64,,,,,Friday,2024-02-09_Augustana_St. Thomas
+2024-02-09,Non-Conference,,Alaska,/reports/team/Alaska/4,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2024-02-09_Arizona State_Alaska
+2024-02-09,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Friday,2024-02-09_Bowling Green_Lake Superior
+2024-02-09,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Friday,2024-02-09_Northern Michigan_Bemidji State
+2024-02-09,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Friday,2024-02-09_Michigan Tech_Minnesota State
+2024-02-10,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2024-02-10_Mercyhurst_RIT
+2024-02-10,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Niagara,/reports/team/Niagara/39,,,,,Saturday,2024-02-10_Niagara_American Int'l
+2024-02-10,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Canisius,/reports/team/Canisius/13,,,,,Saturday,2024-02-10_Canisius_Bentley
+2024-02-10,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Army,/reports/team/Army/6,,,,,Saturday,2024-02-10_Army_Robert Morris
+2024-02-10,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Air Force,/reports/team/Air-Force/1,,,,,Saturday,2024-02-10_Air Force_Sacred Heart
+2024-02-10,Big Ten,,Penn State,/reports/team/Penn-State/60,,Minnesota,/reports/team/Minnesota/34,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-02-10_Minnesota_Penn State
+2024-02-10,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2024-02-10_Wisconsin_Notre Dame
+2024-02-10,Big Ten,"at Little Caesars Arena, Detroit, Mich.",Michigan,/reports/team/Michigan/31,,Michigan State,/reports/team/Michigan-State/32,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-02-10_Michigan State_Michigan
+2024-02-10,Non-Conference,,Lindenwood,/reports/team/Lindenwood/433,,Stonehill,/reports/team/Stonehill/422,,,,,Saturday,2024-02-10_Stonehill_Lindenwood
+2024-02-10,Non-Conference,,Alaska,/reports/team/Alaska/4,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2024-02-10_Arizona State_Alaska
+2024-02-10,Non-Conference,,St. Thomas,/reports/team/St-Thomas/63,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2024-02-10_Augustana_St. Thomas
+2024-02-10,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Saturday,2024-02-10_Alaska-Anchorage_Long Island
+2024-02-10,Hockey East,,Vermont,/reports/team/Vermont/55,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Saturday,2024-02-10_Mass.-Lowell_Vermont
+2024-02-10,Hockey East,,Providence,/reports/team/Providence/46,,Maine,/reports/team/Maine/25,,,,,Saturday,2024-02-10_Maine_Providence
+2024-02-10,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Massachusetts,/reports/team/Massachusetts/27,,,,/schedules/radiotv.php?type=tv&tvid=12,Saturday,2024-02-10_Massachusetts_Connecticut
+2024-02-10,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Merrimack,/reports/team/Merrimack/29,,,,,Saturday,2024-02-10_Merrimack_New Hampshire
+2024-02-10,NCHC,,Omaha,/reports/team/Omaha/37,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2024-02-10_Western Michigan_Omaha
+2024-02-10,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Miami,/reports/team/Miami/30,,,,,Saturday,2024-02-10_Miami_St. Cloud State
+2024-02-10,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Saturday,2024-02-10_Northern Michigan_Bemidji State
+2024-02-10,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Saturday,2024-02-10_Michigan Tech_Minnesota State
+2024-02-10,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Saturday,2024-02-10_Bowling Green_Lake Superior
+2024-02-10,ECAC,,Cornell,/reports/team/Cornell/18,,Union,/reports/team/Union/54,,,,,Saturday,2024-02-10_Union_Cornell
+2024-02-10,ECAC,,Colgate,/reports/team/Colgate/15,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2024-02-10_Rensselaer_Colgate
+2024-02-10,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Clarkson,/reports/team/Clarkson/14,,,,,Saturday,2024-02-10_Clarkson_Quinnipiac
+2024-02-10,ECAC,,Princeton,/reports/team/Princeton/45,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Saturday,2024-02-10_St. Lawrence_Princeton
+2024-02-11,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Sunday,2024-02-11_Alaska-Anchorage_Long Island
+2024-02-12,"Beanpot (at TD Garden, Boston)",,Northeastern,/reports/team/Northeastern/41,,BU/BC,,,,,,Monday,2024-02-12_BU/BC_Northeastern
+2024-02-12,"Beanpot (at TD Garden, Boston)",,Boston University,/reports/team/Boston-University/10,,NU/Harvard,,,,,,Monday,2024-02-12_NU/Harvard_Boston University
+2024-02-12,"Beanpot (at TD Garden, Boston)",,Harvard,/reports/team/Harvard/22,,BU/BC,,,,,,Monday,2024-02-12_BU/BC_Harvard
+2024-02-12,"Beanpot (at TD Garden, Boston)",,Boston College,/reports/team/Boston-College/9,,NU/Harvard,,,,,,Monday,2024-02-12_NU/Harvard_Boston College
+2024-02-13,Non-Conference v. D3,,St. Anselm,,,Stonehill,/reports/team/Stonehill/422,,,,,Tuesday,2024-02-13_Stonehill_St. Anselm
+2024-02-14,Non-Conference v. D3,,Assumption,,,Stonehill,/reports/team/Stonehill/422,,,,,Wednesday,2024-02-14_Stonehill_Assumption
+2024-02-15,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Thursday,2024-02-15_Bemidji State_Ferris State
+2024-02-16,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Friday,2024-02-16_Notre Dame_Minnesota
+2024-02-16,Big Ten,,Michigan,/reports/team/Michigan/31,,Penn State,/reports/team/Penn-State/60,,,,,Friday,2024-02-16_Penn State_Michigan
+2024-02-16,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Ohio State,/reports/team/Ohio-State/44,,,,,Friday,2024-02-16_Ohio State_Wisconsin
+2024-02-16,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Lindenwood,/reports/team/Lindenwood/433,,,,,Friday,2024-02-16_Lindenwood_Alaska-Anchorage
+2024-02-16,Non-Conference,,Augustana,/reports/team/Augustana/64,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Friday,2024-02-16_Lake Superior_Augustana
+2024-02-16,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Alaska,/reports/team/Alaska/4,,,,,Friday,2024-02-16_Alaska_Long Island
+2024-02-16,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,American Int'l,/reports/team/American-Intl/5,,,,,Friday,2024-02-16_American Int'l_Mercyhurst
+2024-02-16,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Friday,2024-02-16_Holy Cross_Sacred Heart
+2024-02-16,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Friday,2024-02-16_Robert Morris_Canisius
+2024-02-16,Atlantic Hockey,,Army,/reports/team/Army/6,,Niagara,/reports/team/Niagara/39,,,,,Friday,2024-02-16_Niagara_Army
+2024-02-16,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,RIT,/reports/team/RIT/49,,,,,Friday,2024-02-16_RIT_Air Force
+2024-02-16,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Princeton,/reports/team/Princeton/45,,,,,Friday,2024-02-16_Princeton_Rensselaer
+2024-02-16,ECAC,,Yale,/reports/team/Yale/59,,Colgate,/reports/team/Colgate/15,,,,,Friday,2024-02-16_Colgate_Yale
+2024-02-16,ECAC,,Brown,/reports/team/Brown/12,,Cornell,/reports/team/Cornell/18,,,,,Friday,2024-02-16_Cornell_Brown
+2024-02-16,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Harvard,/reports/team/Harvard/22,,,,,Friday,2024-02-16_Harvard_St. Lawrence
+2024-02-16,ECAC,,Clarkson,/reports/team/Clarkson/14,,Dartmouth,/reports/team/Dartmouth/19,,,,,Friday,2024-02-16_Dartmouth_Clarkson
+2024-02-16,ECAC,,Union,/reports/team/Union/54,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Friday,2024-02-16_Quinnipiac_Union
+2024-02-16,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Vermont,/reports/team/Vermont/55,,,,,Friday,2024-02-16_Vermont_Merrimack
+2024-02-16,Hockey East,,Maine,/reports/team/Maine/25,,New Hampshire,/reports/team/New-Hampshire/38,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-02-16_New Hampshire_Maine
+2024-02-16,Hockey East,,Boston University,/reports/team/Boston-University/10,,Providence,/reports/team/Providence/46,,,,,Friday,2024-02-16_Providence_Boston University
+2024-02-16,Hockey East,,Boston College,/reports/team/Boston-College/9,,Massachusetts,/reports/team/Massachusetts/27,,,,,Friday,2024-02-16_Massachusetts_Boston College
+2024-02-16,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2024-02-16_Mass.-Lowell_Northeastern
+2024-02-16,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,St. Thomas,/reports/team/St-Thomas/63,,,,,Friday,2024-02-16_St. Thomas_Bowling Green
+2024-02-16,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Friday,2024-02-16_Bemidji State_Ferris State
+2024-02-16,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Colorado College,/reports/team/Colorado-College/16,,,,,Friday,2024-02-16_Colorado College_North Dakota
+2024-02-16,NCHC,,Denver,/reports/team/Denver/20,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-02-16_Minnesota-Duluth_Denver
+2024-02-17,Big Ten,,Minnesota,/reports/team/Minnesota/34,,Notre Dame,/reports/team/Notre-Dame/43,,,,,Saturday,2024-02-17_Notre Dame_Minnesota
+2024-02-17,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Ohio State,/reports/team/Ohio-State/44,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-02-17_Ohio State_Wisconsin
+2024-02-17,Big Ten,,Michigan,/reports/team/Michigan/31,,Penn State,/reports/team/Penn-State/60,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-02-17_Penn State_Michigan
+2024-02-17,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Lindenwood,/reports/team/Lindenwood/433,,,,,Saturday,2024-02-17_Lindenwood_Alaska-Anchorage
+2024-02-17,Non-Conference,,Augustana,/reports/team/Augustana/64,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Saturday,2024-02-17_Lake Superior_Augustana
+2024-02-17,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Alaska,/reports/team/Alaska/4,,,,,Saturday,2024-02-17_Alaska_Long Island
+2024-02-17,Atlantic Hockey,,Army,/reports/team/Army/6,,Niagara,/reports/team/Niagara/39,,,,,Saturday,2024-02-17_Niagara_Army
+2024-02-17,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,Robert Morris,/reports/team/Robert-Morris/50,,,,,Saturday,2024-02-17_Robert Morris_Canisius
+2024-02-17,Atlantic Hockey,,Air Force,/reports/team/Air-Force/1,,RIT,/reports/team/RIT/49,,,,,Saturday,2024-02-17_RIT_Air Force
+2024-02-17,Atlantic Hockey,,Holy Cross,/reports/team/Holy-Cross/23,,Sacred Heart,/reports/team/Sacred-Heart/51,,,,,Saturday,2024-02-17_Sacred Heart_Holy Cross
+2024-02-17,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,American Int'l,/reports/team/American-Intl/5,,,,,Saturday,2024-02-17_American Int'l_Mercyhurst
+2024-02-17,Hockey East,,Providence,/reports/team/Providence/46,,Boston University,/reports/team/Boston-University/10,,,,,Saturday,2024-02-17_Boston University_Providence
+2024-02-17,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Northeastern,/reports/team/Northeastern/41,,,,/schedules/radiotv.php?type=tv&tvid=12,Saturday,2024-02-17_Northeastern_Mass.-Lowell
+2024-02-17,Hockey East,,Maine,/reports/team/Maine/25,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2024-02-17_New Hampshire_Maine
+2024-02-17,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Vermont,/reports/team/Vermont/55,,,,,Saturday,2024-02-17_Vermont_Merrimack
+2024-02-17,ECAC,,Union,/reports/team/Union/54,,Princeton,/reports/team/Princeton/45,,,,,Saturday,2024-02-17_Princeton_Union
+2024-02-17,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Saturday,2024-02-17_Quinnipiac_Rensselaer
+2024-02-17,ECAC,,Clarkson,/reports/team/Clarkson/14,,Harvard,/reports/team/Harvard/22,,,,,Saturday,2024-02-17_Harvard_Clarkson
+2024-02-17,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Dartmouth,/reports/team/Dartmouth/19,,,,,Saturday,2024-02-17_Dartmouth_St. Lawrence
+2024-02-17,ECAC,,Yale,/reports/team/Yale/59,,Cornell,/reports/team/Cornell/18,,,,,Saturday,2024-02-17_Cornell_Yale
+2024-02-17,ECAC,,Brown,/reports/team/Brown/12,,Colgate,/reports/team/Colgate/15,,,,,Saturday,2024-02-17_Colgate_Brown
+2024-02-17,NCHC,,Denver,/reports/team/Denver/20,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Saturday,2024-02-17_Minnesota-Duluth_Denver
+2024-02-17,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Colorado College,/reports/team/Colorado-College/16,,,,,Saturday,2024-02-17_Colorado College_North Dakota
+2024-02-17,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,St. Thomas,/reports/team/St-Thomas/63,,,,,Saturday,2024-02-17_St. Thomas_Bowling Green
+2024-02-18,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Boston College,/reports/team/Boston-College/9,,,,,Sunday,2024-02-18_Boston College_Massachusetts
+2024-02-22,Atlantic Hockey,,Mercyhurst,/reports/team/Mercyhurst/28,,Niagara,/reports/team/Niagara/39,,,,,Thursday,2024-02-22_Niagara_Mercyhurst
+2024-02-22,Atlantic Hockey,,Bentley,/reports/team/Bentley/8,,Holy Cross,/reports/team/Holy-Cross/23,,,,,Thursday,2024-02-22_Holy Cross_Bentley
+2024-02-23,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Michigan State,/reports/team/Michigan-State/32,,,,,Friday,2024-02-23_Michigan State_Ohio State
+2024-02-23,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Penn State,/reports/team/Penn-State/60,,,,,Friday,2024-02-23_Penn State_Wisconsin
+2024-02-23,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Michigan,/reports/team/Michigan/31,,,,/schedules/radiotv.php?type=tv&tvid=82,Friday,2024-02-23_Michigan_Notre Dame
+2024-02-23,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Long Island,/reports/team/Long-Island/62,,,,,Friday,2024-02-23_Long Island_Stonehill
+2024-02-23,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Augustana,/reports/team/Augustana/64,,,,,Friday,2024-02-23_Augustana_Alaska-Anchorage
+2024-02-23,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Alaska,/reports/team/Alaska/4,,,,,Friday,2024-02-23_Alaska_Arizona State
+2024-02-23,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Army,/reports/team/Army/6,,,,,Friday,2024-02-23_Army_American Int'l
+2024-02-23,Atlantic Hockey,,Canisius,/reports/team/Canisius/13,,RIT,/reports/team/RIT/49,,,,,Friday,2024-02-23_RIT_Canisius
+2024-02-23,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Air Force,/reports/team/Air-Force/1,,,,,Friday,2024-02-23_Air Force_Robert Morris
+2024-02-23,ECAC,,Colgate,/reports/team/Colgate/15,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Friday,2024-02-23_St. Lawrence_Colgate
+2024-02-23,ECAC,,Princeton,/reports/team/Princeton/45,,Yale,/reports/team/Yale/59,,,,,Friday,2024-02-23_Yale_Princeton
+2024-02-23,ECAC,,Quinnipiac,/reports/team/Quinnipiac/47,,Brown,/reports/team/Brown/12,,,,,Friday,2024-02-23_Brown_Quinnipiac
+2024-02-23,ECAC,,Cornell,/reports/team/Cornell/18,,Clarkson,/reports/team/Clarkson/14,,,,,Friday,2024-02-23_Clarkson_Cornell
+2024-02-23,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Rensselaer,/reports/team/Rensselaer/48,,,,,Friday,2024-02-23_Rensselaer_Dartmouth
+2024-02-23,ECAC,,Harvard,/reports/team/Harvard/22,,Union,/reports/team/Union/54,,,,,Friday,2024-02-23_Union_Harvard
+2024-02-23,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Massachusetts,/reports/team/Massachusetts/27,,,,,Friday,2024-02-23_Massachusetts_New Hampshire
+2024-02-23,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Maine,/reports/team/Maine/25,,,,,Friday,2024-02-23_Maine_Northeastern
+2024-02-23,Hockey East,,Boston University,/reports/team/Boston-University/10,,Connecticut,/reports/team/Connecticut/17,,,,,Friday,2024-02-23_Connecticut_Boston University
+2024-02-23,Hockey East,,Vermont,/reports/team/Vermont/55,,Boston College,/reports/team/Boston-College/9,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-02-23_Boston College_Vermont
+2024-02-23,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Ferris State,/reports/team/Ferris-State/21,,,,,Friday,2024-02-23_Ferris State_Northern Michigan
+2024-02-23,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Friday,2024-02-23_Bowling Green_Michigan Tech
+2024-02-23,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,St. Thomas,/reports/team/St-Thomas/63,,,,,Friday,2024-02-23_St. Thomas_Bemidji State
+2024-02-23,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Friday,2024-02-23_Minnesota State_Lake Superior
+2024-02-23,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,North Dakota,/reports/team/North-Dakota/40,,,,,Friday,2024-02-23_North Dakota_Minnesota-Duluth
+2024-02-23,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-02-23_St. Cloud State_Western Michigan
+2024-02-23,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Omaha,/reports/team/Omaha/37,,,,,Friday,2024-02-23_Omaha_Colorado College
+2024-02-23,NCHC,,Miami,/reports/team/Miami/30,,Denver,/reports/team/Denver/20,,,,,Friday,2024-02-23_Denver_Miami
+2024-02-24,Big Ten,,Ohio State,/reports/team/Ohio-State/44,,Michigan State,/reports/team/Michigan-State/32,,,,,Saturday,2024-02-24_Michigan State_Ohio State
+2024-02-24,Big Ten,,Wisconsin,/reports/team/Wisconsin/58,,Penn State,/reports/team/Penn-State/60,,,,,Saturday,2024-02-24_Penn State_Wisconsin
+2024-02-24,Big Ten,,Notre Dame,/reports/team/Notre-Dame/43,,Michigan,/reports/team/Michigan/31,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-02-24_Michigan_Notre Dame
+2024-02-24,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Long Island,/reports/team/Long-Island/62,,,,,Saturday,2024-02-24_Long Island_Stonehill
+2024-02-24,Non-Conference,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2024-02-24_Augustana_Alaska-Anchorage
+2024-02-24,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Alaska,/reports/team/Alaska/4,,,,,Saturday,2024-02-24_Alaska_Arizona State
+2024-02-24,Atlantic Hockey,,American Int'l,/reports/team/American-Intl/5,,Army,/reports/team/Army/6,,,,,Saturday,2024-02-24_Army_American Int'l
+2024-02-24,Atlantic Hockey,,Sacred Heart,/reports/team/Sacred-Heart/51,,Bentley,/reports/team/Bentley/8,,,,,Saturday,2024-02-24_Bentley_Sacred Heart
+2024-02-24,Atlantic Hockey,,Niagara,/reports/team/Niagara/39,,Mercyhurst,/reports/team/Mercyhurst/28,,,,,Saturday,2024-02-24_Mercyhurst_Niagara
+2024-02-24,Atlantic Hockey,,Robert Morris,/reports/team/Robert-Morris/50,,Air Force,/reports/team/Air-Force/1,,,,,Saturday,2024-02-24_Air Force_Robert Morris
+2024-02-24,Atlantic Hockey,,RIT,/reports/team/RIT/49,,Canisius,/reports/team/Canisius/13,,,,,Saturday,2024-02-24_Canisius_RIT
+2024-02-24,ECAC,,Dartmouth,/reports/team/Dartmouth/19,,Union,/reports/team/Union/54,,,,,Saturday,2024-02-24_Union_Dartmouth
+2024-02-24,ECAC,,Harvard,/reports/team/Harvard/22,,Rensselaer,/reports/team/Rensselaer/48,,,,,Saturday,2024-02-24_Rensselaer_Harvard
+2024-02-24,ECAC,,Colgate,/reports/team/Colgate/15,,Clarkson,/reports/team/Clarkson/14,,,,,Saturday,2024-02-24_Clarkson_Colgate
+2024-02-24,ECAC,,Princeton,/reports/team/Princeton/45,,Brown,/reports/team/Brown/12,,,,,Saturday,2024-02-24_Brown_Princeton
+2024-02-24,ECAC,,Cornell,/reports/team/Cornell/18,,St. Lawrence,/reports/team/St-Lawrence/53,,,,,Saturday,2024-02-24_St. Lawrence_Cornell
+2024-02-24,CCHA,,Northern Michigan,/reports/team/Northern-Michigan/42,,Ferris State,/reports/team/Ferris-State/21,,,,,Saturday,2024-02-24_Ferris State_Northern Michigan
+2024-02-24,CCHA,,Bemidji State,/reports/team/Bemidji-State/7,,St. Thomas,/reports/team/St-Thomas/63,,,,,Saturday,2024-02-24_St. Thomas_Bemidji State
+2024-02-24,CCHA,,Lake Superior,/reports/team/Lake-Superior/24,,Minnesota State,/reports/team/Minnesota-State/35,,,,,Saturday,2024-02-24_Minnesota State_Lake Superior
+2024-02-24,CCHA,,Michigan Tech,/reports/team/Michigan-Tech/33,,Bowling Green,/reports/team/Bowling-Green/11,,,,,Saturday,2024-02-24_Bowling Green_Michigan Tech
+2024-02-24,Hockey East,,Providence,/reports/team/Providence/46,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Saturday,2024-02-24_Mass.-Lowell_Providence
+2024-02-24,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Maine,/reports/team/Maine/25,,,,,Saturday,2024-02-24_Maine_Northeastern
+2024-02-24,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Boston University,/reports/team/Boston-University/10,,,,,Saturday,2024-02-24_Boston University_Connecticut
+2024-02-24,Hockey East,,Vermont,/reports/team/Vermont/55,,Boston College,/reports/team/Boston-College/9,,,,,Saturday,2024-02-24_Boston College_Vermont
+2024-02-24,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2024-02-24_New Hampshire_Massachusetts
+2024-02-24,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2024-02-24_North Dakota_Minnesota-Duluth
+2024-02-24,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Saturday,2024-02-24_St. Cloud State_Western Michigan
+2024-02-24,NCHC,,Miami,/reports/team/Miami/30,,Denver,/reports/team/Denver/20,,,,,Saturday,2024-02-24_Denver_Miami
+2024-02-24,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Omaha,/reports/team/Omaha/37,,,,,Saturday,2024-02-24_Omaha_Colorado College
+2024-02-29,Hockey East,,Merrimack,/reports/team/Merrimack/29,,Providence,/reports/team/Providence/46,,,,,Thursday,2024-02-29_Providence_Merrimack
+2024-03-01,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Arizona State,/reports/team/Arizona-State/61,,,,,Friday,2024-03-01_Arizona State_Long Island
+2024-03-01,Non-Conference,,Alaska,/reports/team/Alaska/4,,Augustana,/reports/team/Augustana/64,,,,,Friday,2024-03-01_Augustana_Alaska
+2024-03-01,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Friday,2024-03-01_Alaska-Anchorage_Stonehill
+2024-03-01,Big Ten,,Penn State,/reports/team/Penn-State/60,,Ohio State,/reports/team/Ohio-State/44,,,,/schedules/radiotv.php?type=tv&tvid=82,Friday,2024-03-01_Ohio State_Penn State
+2024-03-01,Big Ten,,Michigan,/reports/team/Michigan/31,,Minnesota,/reports/team/Minnesota/34,,,,/schedules/radiotv.php?type=tv&tvid=82,Friday,2024-03-01_Minnesota_Michigan
+2024-03-01,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Wisconsin,/reports/team/Wisconsin/58,,,,,Friday,2024-03-01_Wisconsin_Michigan State
+2024-03-01,ECAC,,Clarkson,/reports/team/Clarkson/14,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Friday,2024-03-01_Quinnipiac_Clarkson
+2024-03-01,ECAC,,Brown,/reports/team/Brown/12,,Dartmouth,/reports/team/Dartmouth/19,,,,,Friday,2024-03-01_Dartmouth_Brown
+2024-03-01,ECAC,,Yale,/reports/team/Yale/59,,Harvard,/reports/team/Harvard/22,,,,,Friday,2024-03-01_Harvard_Yale
+2024-03-01,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Princeton,/reports/team/Princeton/45,,,,,Friday,2024-03-01_Princeton_St. Lawrence
+2024-03-01,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Colgate,/reports/team/Colgate/15,,,,,Friday,2024-03-01_Colgate_Rensselaer
+2024-03-01,ECAC,,Union,/reports/team/Union/54,,Cornell,/reports/team/Cornell/18,,,,,Friday,2024-03-01_Cornell_Union
+2024-03-01,Hockey East,,Providence,/reports/team/Providence/46,,Merrimack,/reports/team/Merrimack/29,,,,,Friday,2024-03-01_Merrimack_Providence
+2024-03-01,Hockey East,,Maine,/reports/team/Maine/25,,Vermont,/reports/team/Vermont/55,,,,,Friday,2024-03-01_Vermont_Maine
+2024-03-01,Hockey East,,Connecticut,/reports/team/Connecticut/17,,Northeastern,/reports/team/Northeastern/41,,,,/schedules/radiotv.php?type=tv&tvid=119,Friday,2024-03-01_Northeastern_Connecticut
+2024-03-01,Hockey East,,Boston College,/reports/team/Boston-College/9,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Friday,2024-03-01_New Hampshire_Boston College
+2024-03-01,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,,Friday,2024-03-01_Mass.-Lowell_Massachusetts
+2024-03-01,NCHC,,Omaha,/reports/team/Omaha/37,,Miami,/reports/team/Miami/30,,,,,Friday,2024-03-01_Miami_Omaha
+2024-03-01,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,North Dakota,/reports/team/North-Dakota/40,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-03-01_North Dakota_Western Michigan
+2024-03-01,NCHC,,Denver,/reports/team/Denver/20,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Friday,2024-03-01_St. Cloud State_Denver
+2024-03-01,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Colorado College,/reports/team/Colorado-College/16,,,,,Friday,2024-03-01_Colorado College_Minnesota-Duluth
+2024-03-01,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Friday,2024-03-01_Northern Michigan_Bowling Green
+2024-03-01,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Friday,2024-03-01_Michigan Tech_St. Thomas
+2024-03-01,CCHA,,Ferris State,/reports/team/Ferris-State/21,,Lake Superior,/reports/team/Lake-Superior/24,,,,,Friday,2024-03-01_Lake Superior_Ferris State
+2024-03-01,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Friday,2024-03-01_Bemidji State_Minnesota State
+2024-03-02,Non-Conference,,Long Island,/reports/team/Long-Island/62,,Arizona State,/reports/team/Arizona-State/61,,,,,Saturday,2024-03-02_Arizona State_Long Island
+2024-03-02,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Saturday,2024-03-02_Alaska-Anchorage_Stonehill
+2024-03-02,Non-Conference,,Alaska,/reports/team/Alaska/4,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2024-03-02_Augustana_Alaska
+2024-03-02,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Connecticut,/reports/team/Connecticut/17,,,,,Saturday,2024-03-02_Connecticut_Northeastern
+2024-03-02,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,Massachusetts,/reports/team/Massachusetts/27,,,,,Saturday,2024-03-02_Massachusetts_Mass.-Lowell
+2024-03-02,Hockey East,,Maine,/reports/team/Maine/25,,Vermont,/reports/team/Vermont/55,,,,,Saturday,2024-03-02_Vermont_Maine
+2024-03-02,Big Ten,,Penn State,/reports/team/Penn-State/60,,Ohio State,/reports/team/Ohio-State/44,,,,,Saturday,2024-03-02_Ohio State_Penn State
+2024-03-02,Big Ten,,Michigan,/reports/team/Michigan/31,,Minnesota,/reports/team/Minnesota/34,,,,/schedules/radiotv.php?type=tv&tvid=82,Saturday,2024-03-02_Minnesota_Michigan
+2024-03-02,Big Ten,,Michigan State,/reports/team/Michigan-State/32,,Wisconsin,/reports/team/Wisconsin/58,,,,,Saturday,2024-03-02_Wisconsin_Michigan State
+2024-03-02,CCHA,,Bowling Green,/reports/team/Bowling-Green/11,,Northern Michigan,/reports/team/Northern-Michigan/42,,,,,Saturday,2024-03-02_Northern Michigan_Bowling Green
+2024-03-02,CCHA,,St. Thomas,/reports/team/St-Thomas/63,,Michigan Tech,/reports/team/Michigan-Tech/33,,,,,Saturday,2024-03-02_Michigan Tech_St. Thomas
+2024-03-02,CCHA,,Minnesota State,/reports/team/Minnesota-State/35,,Bemidji State,/reports/team/Bemidji-State/7,,,,,Saturday,2024-03-02_Bemidji State_Minnesota State
+2024-03-02,ECAC,,Clarkson,/reports/team/Clarkson/14,,Princeton,/reports/team/Princeton/45,,,,,Saturday,2024-03-02_Princeton_Clarkson
+2024-03-02,ECAC,,Rensselaer,/reports/team/Rensselaer/48,,Cornell,/reports/team/Cornell/18,,,,,Saturday,2024-03-02_Cornell_Rensselaer
+2024-03-02,ECAC,,Union,/reports/team/Union/54,,Colgate,/reports/team/Colgate/15,,,,,Saturday,2024-03-02_Colgate_Union
+2024-03-02,ECAC,,St. Lawrence,/reports/team/St-Lawrence/53,,Quinnipiac,/reports/team/Quinnipiac/47,,,,,Saturday,2024-03-02_Quinnipiac_St. Lawrence
+2024-03-02,ECAC,,Brown,/reports/team/Brown/12,,Harvard,/reports/team/Harvard/22,,,,,Saturday,2024-03-02_Harvard_Brown
+2024-03-02,ECAC,,Yale,/reports/team/Yale/59,,Dartmouth,/reports/team/Dartmouth/19,,,,,Saturday,2024-03-02_Dartmouth_Yale
+2024-03-02,NCHC,,Denver,/reports/team/Denver/20,,St. Cloud State,/reports/team/St-Cloud-State/52,,,,,Saturday,2024-03-02_St. Cloud State_Denver
+2024-03-02,NCHC,,Western Michigan,/reports/team/Western-Michigan/57,,North Dakota,/reports/team/North-Dakota/40,,,,,Saturday,2024-03-02_North Dakota_Western Michigan
+2024-03-02,NCHC,,Omaha,/reports/team/Omaha/37,,Miami,/reports/team/Miami/30,,,,,Saturday,2024-03-02_Miami_Omaha
+2024-03-02,NCHC,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,Colorado College,/reports/team/Colorado-College/16,,,,,Saturday,2024-03-02_Colorado College_Minnesota-Duluth
+2024-03-03,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Boston College,/reports/team/Boston-College/9,,,,,Sunday,2024-03-03_Boston College_New Hampshire
+2024-03-06,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Alaska,/reports/team/Alaska/4,,,,,Wednesday,2024-03-06_Alaska_Stonehill
+2024-03-07,Hockey East,,Vermont,/reports/team/Vermont/55,,Connecticut,/reports/team/Connecticut/17,,,,,Thursday,2024-03-07_Connecticut_Vermont
+2024-03-07,Hockey East,,Boston University,/reports/team/Boston-University/10,,Providence,/reports/team/Providence/46,,,,,Thursday,2024-03-07_Providence_Boston University
+2024-03-07,Non-Conference,,Stonehill,/reports/team/Stonehill/422,,Alaska,/reports/team/Alaska/4,,,,,Thursday,2024-03-07_Alaska_Stonehill
+2024-03-08,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Maine,/reports/team/Maine/25,,,,,Friday,2024-03-08_Maine_Massachusetts
+2024-03-08,Hockey East,,New Hampshire,/reports/team/New-Hampshire/38,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,,,/schedules/radiotv.php?type=tv&tvid=12,Friday,2024-03-08_Mass.-Lowell_New Hampshire
+2024-03-08,NCHC,,Miami,/reports/team/Miami/30,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Friday,2024-03-08_Western Michigan_Miami
+2024-03-08,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Friday,2024-03-08_Minnesota-Duluth_St. Cloud State
+2024-03-08,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Omaha,/reports/team/Omaha/37,,,,,Friday,2024-03-08_Omaha_North Dakota
+2024-03-08,NCHC,,Denver,/reports/team/Denver/20,,Colorado College,/reports/team/Colorado-College/16,,,,/schedules/radiotv.php?type=tv&tvid=1,Friday,2024-03-08_Colorado College_Denver
+2024-03-08,Exhibition,,US Under-18,,,Augustana,/reports/team/Augustana/64,,,,,Friday,2024-03-08_Augustana_US Under-18
+2024-03-08,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Friday,2024-03-08_Alaska-Anchorage_Arizona State
+2024-03-09,Hockey East,,Northeastern,/reports/team/Northeastern/41,,Providence,/reports/team/Providence/46,,,,,Saturday,2024-03-09_Providence_Northeastern
+2024-03-09,Hockey East,,Vermont,/reports/team/Vermont/55,,Boston University,/reports/team/Boston-University/10,,,,,Saturday,2024-03-09_Boston University_Vermont
+2024-03-09,Hockey East,,Mass.-Lowell,/reports/team/Mass-Lowell/26,,New Hampshire,/reports/team/New-Hampshire/38,,,,,Saturday,2024-03-09_New Hampshire_Mass.-Lowell
+2024-03-09,Hockey East,,Massachusetts,/reports/team/Massachusetts/27,,Maine,/reports/team/Maine/25,,,,,Saturday,2024-03-09_Maine_Massachusetts
+2024-03-09,Hockey East,,Boston College,/reports/team/Boston-College/9,,Merrimack,/reports/team/Merrimack/29,,,,,Saturday,2024-03-09_Merrimack_Boston College
+2024-03-09,NCHC,,Miami,/reports/team/Miami/30,,Western Michigan,/reports/team/Western-Michigan/57,,,,,Saturday,2024-03-09_Western Michigan_Miami
+2024-03-09,NCHC,,Colorado College,/reports/team/Colorado-College/16,,Denver,/reports/team/Denver/20,,,,,Saturday,2024-03-09_Denver_Colorado College
+2024-03-09,NCHC,,St. Cloud State,/reports/team/St-Cloud-State/52,,Minnesota-Duluth,/reports/team/Minnesota-Duluth/36,,,,,Saturday,2024-03-09_Minnesota-Duluth_St. Cloud State
+2024-03-09,NCHC,,North Dakota,/reports/team/North-Dakota/40,,Omaha,/reports/team/Omaha/37,,,,,Saturday,2024-03-09_Omaha_North Dakota
+2024-03-09,Exhibition,,US Under-18,,,Augustana,/reports/team/Augustana/64,,,,,Saturday,2024-03-09_Augustana_US Under-18
+2024-03-09,Non-Conference,,Arizona State,/reports/team/Arizona-State/61,,Alaska-Anchorage,/reports/team/Alaska-Anchorage/3,,,,,Saturday,2024-03-09_Alaska-Anchorage_Arizona State
