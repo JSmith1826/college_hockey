@@ -1,5 +1,7 @@
 # Directories
 TEMP/
+images/backgrounds/
+images/logos/
 
 # Compiled source files
 *.o
