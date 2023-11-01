@@ -2,15 +2,22 @@ TO Do In College Hockey Project
 
 - Title images / team comparision
 - last years reacord, current year record, roster turnover rate, draft picks on roster
+	- scratch notebook has code to create dataframe source for image
+	- still need to add last year records and current year record
 
-- Add Tags on every chart for "All Data From College Hockey News" and Created by [github_logo] JSmith1826
+- DONE - Add Tags on every chart for "All Data From College Hockey News" and Created by [github_logo] JSmith1826
 
 NOTES FOR ADAPTABLE MATCHUP BOOK
-- Reduce line weith on box and whisker by 1
-- Apply outline to the bar charts that don't have them (match the line style of the box and whisker)
+DONE - Reduce line weith on box and whisker by 1
+- add outline to the box plots at the bottom of notebook
+- Apply outline to the bar charts that don't have them (match the line style of the box and whisker) 
+	- Changed the code but it is not working - need to address
+
+- New chart for age and experience
+
 - New Chart for Special Teams (Scatter with PP% over PK%
 	- this will require some sql magic I think. now sure where to grab the data from
-- Face offs - not exactly sure how to do this yet
+- Face offs - not exactly sure how to plot this yet - maybe try to break them down by line?
 
 - Longer Term - create dictionary with all team abreviation, color and logo information, store as seperate file that can be imported
 	- Will need to refactor most blocks of code but will be worth it - ulivate goal is to just need to inpuit the folder name, 2 team names and background image info
