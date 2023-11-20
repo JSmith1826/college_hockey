@@ -25,3 +25,9 @@ For a future prompt to create an art deco style panel for the Spartans vs. Gophe
 "Create an art deco style panel depicting the matchup between the Michigan State Spartans and the Minnesota Golden Gophers. The design should be symmetrical, with clean lines and geometric shapes. The color scheme will feature the Spartans' green and white and the Gophers' maroon and gold. Each mascot should be represented in a heroic pose that embodies the spirit of competition. The background should include elements that reference each team's heritage and iconography, maintaining the sleek and decorative essence of the art deco movement."
 
 
+The image you've provided showcases a bold, cartoon-style depiction of a college hockey game between two mascots, featuring strong, dynamic poses, a striking color palette, and a crowd in the background to emphasize the competitive atmosphere of the event.
+
+To adapt this style for a similar image with Sparty from Michigan State and Goldie from Minnesota, the prompt could be:
+
+"Create a bold, cartoon-style cover image for a college hockey matchup between the Michigan State Spartans and the Minnesota Golden Gophers. The scene should include Sparty and Goldie in dynamic, exaggerated poses, dressed in their respective team colors, with Sparty in green and white and Goldie in maroon and gold. They should be positioned on the ice rink, sticks in hand, with a stylized crowd in the background. The artwork should capture the lively energy of a college hockey game with a vibrant color scheme and a touch of playful rivalry."
+
