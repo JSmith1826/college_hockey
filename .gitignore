@@ -2,6 +2,8 @@
 TEMP/
 images/backgrounds/
 images/logos/
+GLI_program/images/
+GLI+program/Pages/
 
 # Compiled source files
 *.o
