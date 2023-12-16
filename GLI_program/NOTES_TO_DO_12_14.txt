@@ -1,0 +1,15 @@
+- make plots of PP and KIll numbers
+
+- re work by line plots to half pages - fonts need to be reworked
+
+- adjust font sizes on all schedules, rosters, ags tables 
+
+- Fix matching between roster (Last, First) names and the names from scraped box scores so matching with number and position works better
+	- create dataframe for GLI program with Roster and basic stats + AGS as in example
+
+		- create the DF for each team in python and format with excel
+
+	- column aranagment should have player number, name, position, G, A, Pts, +/-, PIM, AGS THEN the rest of biographic info from roster table
+		- Want to simplify or seperate State into a different column to control spacing more
+			- also need to get that data clean to make the map / heat map of the states the participants come from like I would like to
+
