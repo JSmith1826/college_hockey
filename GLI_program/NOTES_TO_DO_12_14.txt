@@ -13,3 +13,9 @@
 		- Want to simplify or seperate State into a different column to control spacing more
 			- also need to get that data clean to make the map / heat map of the states the participants come from like I would like to
 
+### GLI Hisotry page. Need to get text from GLI media guide because screenshot is not going to work when scalled.
+
+Need to rework results table - put in all 4 spots, add color for ferris state
+
+
+
