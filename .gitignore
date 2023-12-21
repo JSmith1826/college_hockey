@@ -4,6 +4,7 @@ images/backgrounds/
 images/logos/
 GLI_program/images/
 GLI_program/Pages/
+*.xlsx
 
 # Compiled source files
 *.o
