@@ -5,12 +5,14 @@ images/logos/
 GLI_program/images/
 GLI_program/Pages/
 *.xlsx
+data/db/box_scores/
 
 # Compiled source files
 *.o
 *.obj
 *.exe
 *.dll
+*.db
 
 # Packages
 *.7z
