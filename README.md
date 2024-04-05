@@ -1,5 +1,40 @@
 # College Hockey Statistics Project
 
+- Excuse the formating, still a work in progress
+
+### Data Visualizations
+
+<p float="center">
+  <!-- Image 1 -->
+  <a href="hhttps://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png" width="200" />
+  </a>
+  <!-- Image 2 -->
+  <a href="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png" width="200" />
+  </a>
+<!-- Image 3 -->
+<a href="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png" width="200" />
+  </a>
+<!-- Image 4 -->
+<a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
+    </a>
+<!-- Image 5 -->
+<a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
+    </a>
+<!-- Image 6 -->
+<a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
+    </a>
+<a href=https://github.com/JSmith1826/college_hockey/blob/e79a63a0da7ece3caead27be0c652f745b664eeb/images/readme/viz_gallery/ags_example.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/e79a63a0da7ece3caead27be0c652f745b664eeb/images/readme/viz_gallery/ags_example.png" width="250" />
+    </a>
+</p>
+
+
 ### Table of Contents
 #### Jumpright to the fun stuff
 -Visualizations
@@ -109,37 +144,6 @@ The roster data collection is detailed in the ["Roster_Scraping_Loop.ipynb"](wor
 
 
 
-## Data Visualizations
-
-<p float="center">
-  <!-- Image 1 -->
-  <a href="hhttps://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png" width="200" />
-  </a>
-  <!-- Image 2 -->
-  <a href="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png" width="200" />
-  </a>
-<!-- Image 3 -->
-<a href="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png" width="200" />
-  </a>
-<!-- Image 4 -->
-<a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
-    </a>
-<!-- Image 5 -->
-<a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
-    </a>
-<!-- Image 6 -->
-<a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
-    </a>
-<a href=https://github.com/JSmith1826/college_hockey/blob/e79a63a0da7ece3caead27be0c652f745b664eeb/images/readme/viz_gallery/ags_example.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/e79a63a0da7ece3caead27be0c652f745b664eeb/images/readme/viz_gallery/ags_example.png" width="250" />
-    </a>
-</p>
 
 
 - Add link to Adaptive plot book
