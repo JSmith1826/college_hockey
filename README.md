@@ -7,15 +7,15 @@
 <p float="center">
   <!-- Image 1 -->
   <a href="hhttps://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png" width="200" />
+    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png" width="250" />
   </a>
   <!-- Image 2 -->
   <a href="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png" width="200" />
+    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png" width="250" />
   </a>
 <!-- Image 3 -->
 <a href="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png" width="200" />
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/Sioux%20Falls_penalties_plot.png" width="250" />
   </a>
 <!-- Image 4 -->
 <a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
@@ -37,7 +37,7 @@
 
 ### Table of Contents
 #### Jumpright to the fun stuff
--Visualizations
+
 1. Introduction
 2. Data Source
 3. Data Collection
@@ -60,11 +60,13 @@ Just a few clicks into exploring their 'Stats' section and historical results me
 
 ## Data Collection
 **Schedule & Results Page for a Single Season**
+
 The cornerstone of data collection for this project is the Season Schedule/Results page on CollegeHockeyNews.com (CHN). CHN maintains a comprehensive page for each season within their database, extending back to the 1900-1901 season. These pages offer access to the outcomes of virtually every college hockey game played by the current Division I NCAA teams, serving as the initial step in gathering the necessary data.
 
 ![2023-24 Schedule Page](images/readme/CHN_schdule.png)
 
-**Game Box Score and Advanced Shot Metrics pages are linked from the main schedule page**
+- Game Box Score and Advanced Shot Metrics pages are linked from the main schedule page
+
 Beginning with the 2002-03 season, CollegeHockeyNews.com (CHN) began providing links to box scores for each non-exhibition game. These box scores offer a foundational level of detail about game performances, which became an integral part of the data collection process for this project.
 
 **Game Box scores include:**
@@ -143,14 +145,10 @@ The roster data collection is detailed in the ["Roster_Scraping_Loop.ipynb"](wor
 - [Time_Leading_Trailing.ipynb](/workbook/Time_Leading_Trailing.ipynb): Explores game dynamics by examining the correlation between time spent leading or trailing and overall game outcomes.
 
 
+## GLI Program
 
 
-
-- Add link to Adaptive plot book
-
-- Include some example images
-
-## Credits and COntact Information
+<!-- ## Credits and Contact Information
 - Reddit - BakedMitten
 - Github - JSmith1826
-- LinkedIn - 
+- LinkedIn -  -->
