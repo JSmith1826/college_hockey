@@ -100,12 +100,18 @@ The roster data collection is detailed in the ["Roster_Scraping_Loop.ipynb"](wor
 [Download the Roster Dataset](/data/rosters/all_time_combined_roster.csv) - This link provides access to the consolidated roster data, reflecting the project's systematic approach to data collection and its readiness for analytical applications.
     
 
+## Data Analysis Notebooks
+- [Player_per_capita.ipynb](/NCAA/workbook/Player_per_capita.ipynb): Analyzes the distribution of college hockey players by state or region, highlighting areas with the highest per capita production of talent.
+
+- [Empty_Net_Analysis.ipynb](/workbook/Empty_Net_Analysis.ipynb): Offers insights into the strategy and success rate of empty net situations, comparing different teams and seasons.
+
+- [Time_Leading_Trailing.ipynb](/workbook/Time_Leading_Trailing.ipynb): Explores game dynamics by examining the correlation between time spent leading or trailing and overall game outcomes.
 
 
 
-## Data Visualization
+## Data Visualizations
 
-<p float="left">
+<p float="center">
   <!-- Image 1 -->
   <a href="hhttps://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png">
     <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png" width="200" />
@@ -129,6 +135,9 @@ The roster data collection is detailed in the ["Roster_Scraping_Loop.ipynb"](wor
 <!-- Image 6 -->
 <a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
     <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
+    </a>
+<a href=https://github.com/JSmith1826/college_hockey/blob/e79a63a0da7ece3caead27be0c652f745b664eeb/images/readme/viz_gallery/ags_example.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/e79a63a0da7ece3caead27be0c652f745b664eeb/images/readme/viz_gallery/ags_example.png" width="250" />
     </a>
 </p>
 
