@@ -1,5 +1,13 @@
 # College Hockey Statistics Project
 
+### Table of Contents
+#### Jumpright to the fun stuff
+-Visualizations
+1. Introduction
+2. Data Source
+3. Data Collection
+4. Ect, ect, ect
+
 ## Introduction
 This project took root during the 2022-23 college hockey season. As an alum and lifelong fan of Michigan State University, I've passionately followed the Spartans through thick and thin. The era following a decade marked by results ranging from mediocre to downright disappointing had been particularly challenging. This downturn was a stark contrast to the golden age of the 1980s and '90s. In the 15 seasons since their unexpected championship victory in 2006-07, the team had managed to qualify for the NCAA tournament only twice.
 
@@ -87,16 +95,28 @@ The following link to notebooks used to clean and standardize the data collected
 
 ## Roster Data
 
-- link to roster scrape book
+The roster data collection is detailed in the ["Roster_Scraping_Loop.ipynb"](workbook/old_books/Roster_Scraping_Loop.ipynb) notebook, which utilizes advanced Python scraping techniques to comprehensively gather roster information from the CHN database, accurately capturing the entire historical roster dataset efficently. This 8-cell notebook underscores the project's commitment to precision and thoroughness, resulting in the "all_time_combined_roster.csv" file. This dataset, meticulously cleaned and structured, serves as the foundational source for in-depth analysis and database integration.
+
+[Download the Roster Dataset](/data/rosters/all_time_combined_roster.csv) - This link provides access to the consolidated roster data, reflecting the project's systematic approach to data collection and its readiness for analytical applications.
     
 
 
 
 
-## Data Tranformation
-
-
 ## Data Visualization
+
+<p float="left">
+  <!-- Image 1 -->
+  <a href="hhttps://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls_age_experience_plot.png" width="100" />
+  </a>
+  <!-- Image 2 -->
+  <a href="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png">
+    <img src="https://github.com/JSmith1826/college_hockey/blob/80a7e5febfef6e387bacef7c6397bdc9da8aa765/images/readme/viz_gallery/Sioux%20Falls-average_stats_by_line.png" width="100" />
+  </a>
+</p>
+
+
 - Add link to Adaptive plot book
 
 - Include some example images
