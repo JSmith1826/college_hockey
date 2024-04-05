@@ -120,15 +120,15 @@ The roster data collection is detailed in the ["Roster_Scraping_Loop.ipynb"](wor
   </a>
 <!-- Image 4 -->
 <a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="200" />
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
     </a>
 <!-- Image 5 -->
 <a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="200" />
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
     </a>
 <!-- Image 6 -->
 <a href=https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png">
-    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="200" />
+    <img src="https://github.com/JSmith1826/college_hockey/blob/a2bf7ece074e888b5366ea4f9fe86ef1dfcf4c8c/images/readme/viz_gallery/6%20-%20one_goal_least.png" width="250" />
     </a>
 </p>
 
