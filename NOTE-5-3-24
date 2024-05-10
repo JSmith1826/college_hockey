@@ -1,0 +1,17 @@
+Goals for analysis
+
+1. PACE OF PLAY - Use faceoff data to look at the tempo of teams
+    - the sum of faceoffs in a game can be used to caculate the average length between whistles
+    - the differenced may be small but interesting clusters or trends may appear with as much data as I have
+            - should be able to analysis all games back to the earliest box scores in the database
+            - I think even the most prelim stats have face of perdentages for the teams which is all that is needed
+- ADJUSTMENT - subtract stoppages for goals: minor adjustment to the overall numbers but stoppages for goals conceeded and scored will not be counted
+- ? Plan is to not make adjustment for pentalties called. these are in control of team, also instances where multiple penalties called in single stopage will cause problems
+    - would be possible to adjust for multiple PENS called in single stoppaage with time data for each penalty but not worth it
+
+1A. Apply thios to individual goalies.
+    - would need decent BS with goalie time, saves
+    - would be musch better with advanced metrics data (only have 2-3 years) with shots attempt, blocks, off net, ect.
+    - TOO MUCH SQUEEZE FOR JUICE AS OF NOW
+
+    
